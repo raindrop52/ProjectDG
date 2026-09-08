@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: 2f22025f01715d64bb4581068553af7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4591026169163670795
+    second: aura_main_flaten-Sheet_0
+  - first:
+      213: 3741501190883734381
+    second: aura_main_flaten-Sheet_1
+  - first:
+      213: -2419894924263452928
+    second: aura_main_flaten-Sheet_2
+  - first:
+      213: 2789560761467389651
+    second: aura_main_flaten-Sheet_3
+  - first:
+      213: 2736377142751025064
+    second: aura_main_flaten-Sheet_4
+  - first:
+      213: -5786851570822393590
+    second: aura_main_flaten-Sheet_5
+  - first:
+      213: 4279637421955500868
+    second: aura_main_flaten-Sheet_6
+  - first:
+      213: 3479553387829367242
+    second: aura_main_flaten-Sheet_7
+  - first:
+      213: -2798103073798336349
+    second: aura_main_flaten-Sheet_8
+  - first:
+      213: 791897803144467671
+    second: aura_main_flaten-Sheet_9
+  - first:
+      213: 4207327331417242916
+    second: aura_main_flaten-Sheet_10
+  - first:
+      213: -1246279468182680746
+    second: aura_main_flaten-Sheet_11
+  - first:
+      213: -7512785669468903121
+    second: aura_main_flaten-Sheet_12
+  - first:
+      213: 7949171595154075556
+    second: aura_main_flaten-Sheet_13
+  - first:
+      213: 5155419707193497992
+    second: aura_main_flaten-Sheet_14
+  - first:
+      213: -7044814645051488821
+    second: aura_main_flaten-Sheet_15
+  - first:
+      213: -3968630718625338247
+    second: aura_main_flaten-Sheet_16
+  - first:
+      213: 5240420117169019926
+    second: aura_main_flaten-Sheet_17
+  - first:
+      213: -8810879292694949329
+    second: aura_main_flaten-Sheet_18
+  - first:
+      213: -7848710177303796527
+    second: aura_main_flaten-Sheet_19
+  - first:
+      213: 3336736683065100357
+    second: aura_main_flaten-Sheet_20
+  - first:
+      213: -5361523702838544435
+    second: aura_main_flaten-Sheet_21
+  - first:
+      213: -5705061355131292803
+    second: aura_main_flaten-Sheet_22
+  - first:
+      213: -545820064183457005
+    second: aura_main_flaten-Sheet_23
+  - first:
+      213: 6664714167805507669
+    second: aura_main_flaten-Sheet_24
+  - first:
+      213: -6200139660214895530
+    second: aura_main_flaten-Sheet_25
+  - first:
+      213: 3856212277588423852
+    second: aura_main_flaten-Sheet_26
+  - first:
+      213: 5320541733039892510
+    second: aura_main_flaten-Sheet_27
+  - first:
+      213: 4361983478540581919
+    second: aura_main_flaten-Sheet_28
+  - first:
+      213: -120189767837842722
+    second: aura_main_flaten-Sheet_29
+  - first:
+      213: -4419428276144748073
+    second: aura_main_flaten-Sheet_30
+  - first:
+      213: 3744264092126349429
+    second: aura_main_flaten-Sheet_31
+  - first:
+      213: -8235043265832734692
+    second: aura_main_flaten-Sheet_32
+  - first:
+      213: -8295302216575937128
+    second: aura_main_flaten-Sheet_33
+  - first:
+      213: 8268130770148713055
+    second: aura_main_flaten-Sheet_34
+  - first:
+      213: -7901645610865057233
+    second: aura_main_flaten-Sheet_35
+  - first:
+      213: 3802998478662015800
+    second: aura_main_flaten-Sheet_36
+  - first:
+      213: -8549898176413812796
+    second: aura_main_flaten-Sheet_37
+  - first:
+      213: 5941635786654658506
+    second: aura_main_flaten-Sheet_38
+  - first:
+      213: -181892867698996785
+    second: aura_main_flaten-Sheet_39
+  - first:
+      213: 6025990540139945416
+    second: aura_main_flaten-Sheet_40
+  - first:
+      213: 3748994631420085661
+    second: aura_main_flaten-Sheet_41
+  - first:
+      213: -3473521666339687256
+    second: aura_main_flaten-Sheet_42
+  - first:
+      213: 3689353861157586727
+    second: aura_main_flaten-Sheet_43
+  - first:
+      213: -2518031800788500797
+    second: aura_main_flaten-Sheet_44
+  - first:
+      213: -3745517082882452463
+    second: aura_main_flaten-Sheet_45
+  - first:
+      213: 486451111767125996
+    second: aura_main_flaten-Sheet_46
+  - first:
+      213: -5374832348239863146
+    second: aura_main_flaten-Sheet_47
+  - first:
+      213: -2536857654938978276
+    second: aura_main_flaten-Sheet_48
+  - first:
+      213: -5048222503412229432
+    second: aura_main_flaten-Sheet_49
+  - first:
+      213: 3740638673582414565
+    second: aura_main_flaten-Sheet_50
+  - first:
+      213: 6357284382509278129
+    second: aura_main_flaten-Sheet_51
+  - first:
+      213: -3266067751156193605
+    second: aura_main_flaten-Sheet_52
+  - first:
+      213: -6425670526957763619
+    second: aura_main_flaten-Sheet_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 476
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05e58ff9f996bf30800000000000000
+      internalID: 4591026169163670795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 476
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d637351828b7ce330800000000000000
+      internalID: 3741501190883734381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 364
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f8185336eca6ed0800000000000000
+      internalID: -2419894924263452928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 364
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6c1aa9bb286b620800000000000000
+      internalID: 2789560761467389651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 364
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a75c2d638099f520800000000000000
+      internalID: 2736377142751025064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 364
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0158390829f0bfa0800000000000000
+      internalID: -5786851570822393590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 364
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b402f8f83546b30800000000000000
+      internalID: 4279637421955500868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 364
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1939aee5bd94030800000000000000
+      internalID: 3479553387829367242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 364
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0525154142b29d0800000000000000
+      internalID: -2798103073798336349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 364
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d496d63bd26dfa00800000000000000
+      internalID: 791897803144467671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 364
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dbae2aaed636a30800000000000000
+      internalID: 4207327331417242916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 252
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bcb104d6354bee0800000000000000
+      internalID: -1246279468182680746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 252
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2929a1fc393db790800000000000000
+      internalID: -7512785669468903121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 252
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afa8c30371215e60800000000000000
+      internalID: 7949171595154075556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 252
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889115bb8eabb8740800000000000000
+      internalID: 5155419707193497992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 253
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc58c35c76acb3e90800000000000000
+      internalID: -7044814645051488821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 258
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c22ab53679ce8c0800000000000000
+      internalID: -3968630718625338247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 258
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c9ba5e456b9b840800000000000000
+      internalID: 5240420117169019926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 253
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22921027f779b580800000000000000
+      internalID: -8810879292694949329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 252
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d460d09da7c31390800000000000000
+      internalID: -7848710177303796527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 252
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5484c1f95587e4e20800000000000000
+      internalID: 3336736683065100357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 252
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7b87d499a0895b0800000000000000
+      internalID: -5361523702838544435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 252
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7337999cec83d0b0800000000000000
+      internalID: -5705061355131292803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 140
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b60132b8bdc68f0800000000000000
+      internalID: -545820064183457005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 140
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5587f857932dd7c50800000000000000
+      internalID: 6664714167805507669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 140
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c741b24dda4f9a0800000000000000
+      internalID: -6200139660214895530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 140
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca47828a2a4048530800000000000000
+      internalID: 3856212277588423852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 140
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18eb7a448c56d940800000000000000
+      internalID: 5320541733039892510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 140
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cb88aecd0e88c30800000000000000
+      internalID: 4361983478540581919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 140
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2836efa00055ef0800000000000000
+      internalID: -120189767837842722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 140
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d94312e5690ba2c0800000000000000
+      internalID: -4419428276144748073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 140
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57801749a5c46f330800000000000000
+      internalID: 3744264092126349429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 140
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c103116e7cf37bd80800000000000000
+      internalID: -8235043265832734692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 140
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8951b7c959a21ec80800000000000000
+      internalID: -8295302216575937128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 140
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52e037012d4eb270800000000000000
+      internalID: 8268130770148713055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 140
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f222d5f7e27b75290800000000000000
+      internalID: -7901645610865057233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 140
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b100a97f6f6c430800000000000000
+      internalID: 3802998478662015800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 140
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7381968e8a85980800000000000000
+      internalID: -8549898176413812796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 28
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfac40944ee47250800000000000000
+      internalID: 5941635786654658506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 28
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9cf998669c97df0800000000000000
+      internalID: -181892867698996785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 28
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdd7ec187e90a350800000000000000
+      internalID: 6025990540139945416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 28
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9504a611ca170430800000000000000
+      internalID: 3748994631420085661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 28
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4333ea2729bcfc0800000000000000
+      internalID: -3473521666339687256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 28
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72783092ac7333330800000000000000
+      internalID: 3689353861157586727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 28
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce3dd41b672e0dd0800000000000000
+      internalID: -2518031800788500797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 28
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11452a6ce00450cc0800000000000000
+      internalID: -3745517082882452463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 28
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef297575b830c600800000000000000
+      internalID: 486451111767125996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 28
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69262e3d472c865b0800000000000000
+      internalID: -5374832348239863146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 28
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18b1a757654bccd0800000000000000
+      internalID: -2536857654938978276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 28
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca1bf8316c11f9b0800000000000000
+      internalID: -5048222503412229432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 28
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ead7fb0e0b69e330800000000000000
+      internalID: 3740638673582414565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 28
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3aa9ba67c993850800000000000000
+      internalID: 6357284382509278129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 28
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6e9f74fa89ca2d0800000000000000
+      internalID: -3266067751156193605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_main_flaten-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 28
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd34cfc43be63d6a0800000000000000
+      internalID: -6425670526957763619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aura_main_flaten-Sheet_0: 4591026169163670795
+      aura_main_flaten-Sheet_1: 3741501190883734381
+      aura_main_flaten-Sheet_10: 4207327331417242916
+      aura_main_flaten-Sheet_11: -1246279468182680746
+      aura_main_flaten-Sheet_12: -7512785669468903121
+      aura_main_flaten-Sheet_13: 7949171595154075556
+      aura_main_flaten-Sheet_14: 5155419707193497992
+      aura_main_flaten-Sheet_15: -7044814645051488821
+      aura_main_flaten-Sheet_16: -3968630718625338247
+      aura_main_flaten-Sheet_17: 5240420117169019926
+      aura_main_flaten-Sheet_18: -8810879292694949329
+      aura_main_flaten-Sheet_19: -7848710177303796527
+      aura_main_flaten-Sheet_2: -2419894924263452928
+      aura_main_flaten-Sheet_20: 3336736683065100357
+      aura_main_flaten-Sheet_21: -5361523702838544435
+      aura_main_flaten-Sheet_22: -5705061355131292803
+      aura_main_flaten-Sheet_23: -545820064183457005
+      aura_main_flaten-Sheet_24: 6664714167805507669
+      aura_main_flaten-Sheet_25: -6200139660214895530
+      aura_main_flaten-Sheet_26: 3856212277588423852
+      aura_main_flaten-Sheet_27: 5320541733039892510
+      aura_main_flaten-Sheet_28: 4361983478540581919
+      aura_main_flaten-Sheet_29: -120189767837842722
+      aura_main_flaten-Sheet_3: 2789560761467389651
+      aura_main_flaten-Sheet_30: -4419428276144748073
+      aura_main_flaten-Sheet_31: 3744264092126349429
+      aura_main_flaten-Sheet_32: -8235043265832734692
+      aura_main_flaten-Sheet_33: -8295302216575937128
+      aura_main_flaten-Sheet_34: 8268130770148713055
+      aura_main_flaten-Sheet_35: -7901645610865057233
+      aura_main_flaten-Sheet_36: 3802998478662015800
+      aura_main_flaten-Sheet_37: -8549898176413812796
+      aura_main_flaten-Sheet_38: 5941635786654658506
+      aura_main_flaten-Sheet_39: -181892867698996785
+      aura_main_flaten-Sheet_4: 2736377142751025064
+      aura_main_flaten-Sheet_40: 6025990540139945416
+      aura_main_flaten-Sheet_41: 3748994631420085661
+      aura_main_flaten-Sheet_42: -3473521666339687256
+      aura_main_flaten-Sheet_43: 3689353861157586727
+      aura_main_flaten-Sheet_44: -2518031800788500797
+      aura_main_flaten-Sheet_45: -3745517082882452463
+      aura_main_flaten-Sheet_46: 486451111767125996
+      aura_main_flaten-Sheet_47: -5374832348239863146
+      aura_main_flaten-Sheet_48: -2536857654938978276
+      aura_main_flaten-Sheet_49: -5048222503412229432
+      aura_main_flaten-Sheet_5: -5786851570822393590
+      aura_main_flaten-Sheet_50: 3740638673582414565
+      aura_main_flaten-Sheet_51: 6357284382509278129
+      aura_main_flaten-Sheet_52: -3266067751156193605
+      aura_main_flaten-Sheet_53: -6425670526957763619
+      aura_main_flaten-Sheet_6: 4279637421955500868
+      aura_main_flaten-Sheet_7: 3479553387829367242
+      aura_main_flaten-Sheet_8: -2798103073798336349
+      aura_main_flaten-Sheet_9: 791897803144467671
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

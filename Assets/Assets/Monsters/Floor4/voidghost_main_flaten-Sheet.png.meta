@@ -1,0 +1,2145 @@
+fileFormatVersion: 2
+guid: 4f523f8a8e384e148ae346ae06f02449
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4426957061502728482
+    second: voidghost_main_flaten-Sheet_0
+  - first:
+      213: 6222497541217968065
+    second: voidghost_main_flaten-Sheet_1
+  - first:
+      213: -6495146371824907149
+    second: voidghost_main_flaten-Sheet_2
+  - first:
+      213: 6450492531594448311
+    second: voidghost_main_flaten-Sheet_3
+  - first:
+      213: 4735512513301641259
+    second: voidghost_main_flaten-Sheet_4
+  - first:
+      213: -8173081005568514390
+    second: voidghost_main_flaten-Sheet_5
+  - first:
+      213: 4451073317592331928
+    second: voidghost_main_flaten-Sheet_6
+  - first:
+      213: -8728319350413589079
+    second: voidghost_main_flaten-Sheet_7
+  - first:
+      213: -2857543133714073671
+    second: voidghost_main_flaten-Sheet_8
+  - first:
+      213: -245443198897684462
+    second: voidghost_main_flaten-Sheet_9
+  - first:
+      213: 2794301112928050570
+    second: voidghost_main_flaten-Sheet_10
+  - first:
+      213: -2149453403686043831
+    second: voidghost_main_flaten-Sheet_11
+  - first:
+      213: 195169077025160550
+    second: voidghost_main_flaten-Sheet_12
+  - first:
+      213: -1661520961142805539
+    second: voidghost_main_flaten-Sheet_13
+  - first:
+      213: -8399357089204227637
+    second: voidghost_main_flaten-Sheet_14
+  - first:
+      213: 2840692882711677142
+    second: voidghost_main_flaten-Sheet_15
+  - first:
+      213: 1683203170158480345
+    second: voidghost_main_flaten-Sheet_16
+  - first:
+      213: -3959302014467197212
+    second: voidghost_main_flaten-Sheet_17
+  - first:
+      213: 6345819402947044981
+    second: voidghost_main_flaten-Sheet_18
+  - first:
+      213: -8912217742603311070
+    second: voidghost_main_flaten-Sheet_19
+  - first:
+      213: 7979370336351729587
+    second: voidghost_main_flaten-Sheet_20
+  - first:
+      213: -3243246301117957084
+    second: voidghost_main_flaten-Sheet_21
+  - first:
+      213: 9011891492844579824
+    second: voidghost_main_flaten-Sheet_22
+  - first:
+      213: -5436144619286665918
+    second: voidghost_main_flaten-Sheet_23
+  - first:
+      213: 6349019462715152027
+    second: voidghost_main_flaten-Sheet_24
+  - first:
+      213: -1431975973386267696
+    second: voidghost_main_flaten-Sheet_25
+  - first:
+      213: 3059558932434684939
+    second: voidghost_main_flaten-Sheet_26
+  - first:
+      213: 2936787113675670241
+    second: voidghost_main_flaten-Sheet_27
+  - first:
+      213: -6135116665349887407
+    second: voidghost_main_flaten-Sheet_28
+  - first:
+      213: 6957123558251698778
+    second: voidghost_main_flaten-Sheet_29
+  - first:
+      213: 4587553038766582340
+    second: voidghost_main_flaten-Sheet_30
+  - first:
+      213: 1148448357094768438
+    second: voidghost_main_flaten-Sheet_31
+  - first:
+      213: -7460681710900021619
+    second: voidghost_main_flaten-Sheet_32
+  - first:
+      213: -4921955975901159873
+    second: voidghost_main_flaten-Sheet_33
+  - first:
+      213: -2544597103197481068
+    second: voidghost_main_flaten-Sheet_34
+  - first:
+      213: 5773676049520392881
+    second: voidghost_main_flaten-Sheet_35
+  - first:
+      213: 314798588468919249
+    second: voidghost_main_flaten-Sheet_36
+  - first:
+      213: -4956053647394336912
+    second: voidghost_main_flaten-Sheet_37
+  - first:
+      213: 4938095915080576480
+    second: voidghost_main_flaten-Sheet_38
+  - first:
+      213: -4785379792379801440
+    second: voidghost_main_flaten-Sheet_39
+  - first:
+      213: -6913724051405643500
+    second: voidghost_main_flaten-Sheet_40
+  - first:
+      213: -2303327394385861445
+    second: voidghost_main_flaten-Sheet_41
+  - first:
+      213: -3347817981821935840
+    second: voidghost_main_flaten-Sheet_42
+  - first:
+      213: 1962371082928446926
+    second: voidghost_main_flaten-Sheet_43
+  - first:
+      213: -7693653856321345992
+    second: voidghost_main_flaten-Sheet_44
+  - first:
+      213: 2020943847112317413
+    second: voidghost_main_flaten-Sheet_45
+  - first:
+      213: 4848399301877128810
+    second: voidghost_main_flaten-Sheet_46
+  - first:
+      213: 3354756212804383980
+    second: voidghost_main_flaten-Sheet_47
+  - first:
+      213: 2982597702214297348
+    second: voidghost_main_flaten-Sheet_48
+  - first:
+      213: -4483659838791162013
+    second: voidghost_main_flaten-Sheet_49
+  - first:
+      213: 6471678340767686618
+    second: voidghost_main_flaten-Sheet_50
+  - first:
+      213: 7878318694819847861
+    second: voidghost_main_flaten-Sheet_51
+  - first:
+      213: 2850393349241372573
+    second: voidghost_main_flaten-Sheet_52
+  - first:
+      213: 1927778015038625463
+    second: voidghost_main_flaten-Sheet_53
+  - first:
+      213: -2035205210072862345
+    second: voidghost_main_flaten-Sheet_54
+  - first:
+      213: -4755823144514936505
+    second: voidghost_main_flaten-Sheet_55
+  - first:
+      213: 6295338037420166979
+    second: voidghost_main_flaten-Sheet_56
+  - first:
+      213: 4401687809908985720
+    second: voidghost_main_flaten-Sheet_57
+  - first:
+      213: -2142139924845530632
+    second: voidghost_main_flaten-Sheet_58
+  - first:
+      213: -5585444462911199090
+    second: voidghost_main_flaten-Sheet_59
+  - first:
+      213: -5835157893830890962
+    second: voidghost_main_flaten-Sheet_60
+  - first:
+      213: 1376084886595541302
+    second: voidghost_main_flaten-Sheet_61
+  - first:
+      213: -2064823839345679577
+    second: voidghost_main_flaten-Sheet_62
+  - first:
+      213: 124710874648366194
+    second: voidghost_main_flaten-Sheet_63
+  - first:
+      213: 4934959404597191681
+    second: voidghost_main_flaten-Sheet_64
+  - first:
+      213: -170941765999597866
+    second: voidghost_main_flaten-Sheet_65
+  - first:
+      213: -682480623968981568
+    second: voidghost_main_flaten-Sheet_66
+  - first:
+      213: 2728136942648707359
+    second: voidghost_main_flaten-Sheet_67
+  - first:
+      213: -7016861616846519765
+    second: voidghost_main_flaten-Sheet_68
+  - first:
+      213: 1339534365758659040
+    second: voidghost_main_flaten-Sheet_69
+  - first:
+      213: -3972435350590179390
+    second: voidghost_main_flaten-Sheet_70
+  - first:
+      213: 2981279272791348404
+    second: voidghost_main_flaten-Sheet_71
+  - first:
+      213: -2838714784309035132
+    second: voidghost_main_flaten-Sheet_72
+  - first:
+      213: -6546127603276192886
+    second: voidghost_main_flaten-Sheet_73
+  - first:
+      213: 833708264544610794
+    second: voidghost_main_flaten-Sheet_74
+  - first:
+      213: 8819046060503361265
+    second: voidghost_main_flaten-Sheet_75
+  - first:
+      213: 7137276537311331455
+    second: voidghost_main_flaten-Sheet_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 604
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229f6ce0ef5bf6d30800000000000000
+      internalID: 4426957061502728482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 604
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfd908ab80ca5650800000000000000
+      internalID: 6222497541217968065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 604
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c853f99ca9cd5a0800000000000000
+      internalID: -6495146371824907149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 492
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd4ff308c0c48950800000000000000
+      internalID: 6450492531594448311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 492
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28f2c08a8be7b140800000000000000
+      internalID: 4735512513301641259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 492
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6a896d022639e80800000000000000
+      internalID: -8173081005568514390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 492
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8967f4c799365cd30800000000000000
+      internalID: 4451073317592331928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 492
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a50e60abc7ced680800000000000000
+      internalID: -8728319350413589079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 492
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7bd98e8a7f758d0800000000000000
+      internalID: -2857543133714073671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 380
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2100b2506b2089cf0800000000000000
+      internalID: -245443198897684462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 380
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d1e8fae0a57c620800000000000000
+      internalID: 2794301112928050570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 380
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ff904848b9b22e0800000000000000
+      internalID: -2149453403686043831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 380
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66db933dd3165b200800000000000000
+      internalID: 195169077025160550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 380
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddba73c2d7711f8e0800000000000000
+      internalID: -1661520961142805539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 380
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1b254aa3d7f6b80800000000000000
+      internalID: -8399357089204227637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 383
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8820e402b2c6720800000000000000
+      internalID: 2840692882711677142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 380
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db8b128d50fb5710800000000000000
+      internalID: 1683203170158480345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 380
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6b13d8bcbbd09c0800000000000000
+      internalID: -3959302014467197212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 376
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576a0791021e01850800000000000000
+      internalID: 6345819402947044981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 372
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228223b9e21715480800000000000000
+      internalID: -8912217742603311070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 368
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7b88d5b0b6cbe60800000000000000
+      internalID: 7979370336351729587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 367
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cb3ce2cacadf2d0800000000000000
+      internalID: -3243246301117957084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 367
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbad51d09ba01d70800000000000000
+      internalID: 9011891492844579824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 380
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24564cb454fee84b0800000000000000
+      internalID: -5436144619286665918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 380
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b969d23109f3c1850800000000000000
+      internalID: 6349019462715152027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 268
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3da6b6079902ce0800000000000000
+      internalID: -1431975973386267696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 268
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c842983acb57a20800000000000000
+      internalID: 3059558932434684939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 268
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e24593f15091c820800000000000000
+      internalID: 2936787113675670241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 268
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15aad3ae5efabdaa0800000000000000
+      internalID: -6135116665349887407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 275
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a181c040bac8060800000000000000
+      internalID: 6957123558251698778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 268
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a22ffce234aaf30800000000000000
+      internalID: 4587553038766582340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 273
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fb38f22bb10ff00800000000000000
+      internalID: 1148448357094768438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 268
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86fc872385567890800000000000000
+      internalID: -7460681710900021619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 273
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3edc481e13b1bbb0800000000000000
+      internalID: -4921955975901159873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 268
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4971d6f9a66cfacd0800000000000000
+      internalID: -2544597103197481068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 271
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baf7dbd6c7302050800000000000000
+      internalID: 5773676049520392881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 268
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbfb79f5a36e5400800000000000000
+      internalID: 314798588468919249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 271
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f084b477f883bb0800000000000000
+      internalID: -4956053647394336912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 268
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed6f255214a78440800000000000000
+      internalID: 4938095915080576480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 271
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a09edfce6ae69db0800000000000000
+      internalID: -4785379792379801440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 268
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41164e01b948d00a0800000000000000
+      internalID: -6913724051405643500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 271
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4643830ffe800e0800000000000000
+      internalID: -2303327394385861445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 268
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f96d478492a81d0800000000000000
+      internalID: -3347817981821935840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 271
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdd2735a1ebb3b10800000000000000
+      internalID: 1962371082928446926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 268
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836e6259496aa3590800000000000000
+      internalID: -7693653856321345992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 271
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e91426b8b5db0c10800000000000000
+      internalID: 2020943847112317413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 268
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e53a52a79f84340800000000000000
+      internalID: 4848399301877128810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 271
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce47d34500d7e8e20800000000000000
+      internalID: 3354756212804383980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 268
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4072164cec0546920800000000000000
+      internalID: 2982597702214297348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 272
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367ea2fc127d6c1c0800000000000000
+      internalID: -4483659838791162013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 268
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf1c0a992500d950800000000000000
+      internalID: 6471678340767686618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 273
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be5e00ac19655d60800000000000000
+      internalID: 7878318694819847861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 268
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ffaab26a1ae8720800000000000000
+      internalID: 2850393349241372573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 274
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b65f2014e7d0ca10800000000000000
+      internalID: 1927778015038625463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 268
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7713598f4af71c3e0800000000000000
+      internalID: -2035205210072862345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 275
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7412b982c0ceffdb0800000000000000
+      internalID: -4755823144514936505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 268
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f0f6547988d5750800000000000000
+      internalID: 6295338037420166979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 276
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fcac1fdbfe51d30800000000000000
+      internalID: 4401687809908985720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 268
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1766086179542e0800000000000000
+      internalID: -2142139924845530632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 268
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88618b9ad38c72b0800000000000000
+      internalID: -5585444462911199090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 268
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2aa4e1cfca550fa0800000000000000
+      internalID: -5835157893830890962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 268
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6399f4ed9e5d81310800000000000000
+      internalID: 1376084886595541302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 268
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723ea0478a54853e0800000000000000
+      internalID: -2064823839345679577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 268
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c4b0731ef0bb100800000000000000
+      internalID: 124710874648366194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 268
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1042df39e6f7c7440800000000000000
+      internalID: 4934959404597191681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 268
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6e0589e51b0adf0800000000000000
+      internalID: -170941765999597866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 268
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cded3a0d775786f0800000000000000
+      internalID: -682480623968981568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 156
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f194235581a4cd520800000000000000
+      internalID: 2728136942648707359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 156
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b224ac159891f9e90800000000000000
+      internalID: -7016861616846519765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 156
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e91973986bf69210800000000000000
+      internalID: 1339534365758659040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 44
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c73ed278131fd8c0800000000000000
+      internalID: -3972435350590179390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 44
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b496fef3b1af5920800000000000000
+      internalID: 2981279272791348404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 44
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f3c9e91fbda98d0800000000000000
+      internalID: -2838714784309035132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 45
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83e750b0ab7725a0800000000000000
+      internalID: -6546127603276192886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 46
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae92d7adf3de19b00800000000000000
+      internalID: 833708264544610794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 47
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f66c1eaaab836a70800000000000000
+      internalID: 8819046060503361265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voidghost_main_flaten-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 47
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f740c2e1233bc0360800000000000000
+      internalID: 7137276537311331455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      voidghost_main_flaten-Sheet_0: 4426957061502728482
+      voidghost_main_flaten-Sheet_1: 6222497541217968065
+      voidghost_main_flaten-Sheet_10: 2794301112928050570
+      voidghost_main_flaten-Sheet_11: -2149453403686043831
+      voidghost_main_flaten-Sheet_12: 195169077025160550
+      voidghost_main_flaten-Sheet_13: -1661520961142805539
+      voidghost_main_flaten-Sheet_14: -8399357089204227637
+      voidghost_main_flaten-Sheet_15: 2840692882711677142
+      voidghost_main_flaten-Sheet_16: 1683203170158480345
+      voidghost_main_flaten-Sheet_17: -3959302014467197212
+      voidghost_main_flaten-Sheet_18: 6345819402947044981
+      voidghost_main_flaten-Sheet_19: -8912217742603311070
+      voidghost_main_flaten-Sheet_2: -6495146371824907149
+      voidghost_main_flaten-Sheet_20: 7979370336351729587
+      voidghost_main_flaten-Sheet_21: -3243246301117957084
+      voidghost_main_flaten-Sheet_22: 9011891492844579824
+      voidghost_main_flaten-Sheet_23: -5436144619286665918
+      voidghost_main_flaten-Sheet_24: 6349019462715152027
+      voidghost_main_flaten-Sheet_25: -1431975973386267696
+      voidghost_main_flaten-Sheet_26: 3059558932434684939
+      voidghost_main_flaten-Sheet_27: 2936787113675670241
+      voidghost_main_flaten-Sheet_28: -6135116665349887407
+      voidghost_main_flaten-Sheet_29: 6957123558251698778
+      voidghost_main_flaten-Sheet_3: 6450492531594448311
+      voidghost_main_flaten-Sheet_30: 4587553038766582340
+      voidghost_main_flaten-Sheet_31: 1148448357094768438
+      voidghost_main_flaten-Sheet_32: -7460681710900021619
+      voidghost_main_flaten-Sheet_33: -4921955975901159873
+      voidghost_main_flaten-Sheet_34: -2544597103197481068
+      voidghost_main_flaten-Sheet_35: 5773676049520392881
+      voidghost_main_flaten-Sheet_36: 314798588468919249
+      voidghost_main_flaten-Sheet_37: -4956053647394336912
+      voidghost_main_flaten-Sheet_38: 4938095915080576480
+      voidghost_main_flaten-Sheet_39: -4785379792379801440
+      voidghost_main_flaten-Sheet_4: 4735512513301641259
+      voidghost_main_flaten-Sheet_40: -6913724051405643500
+      voidghost_main_flaten-Sheet_41: -2303327394385861445
+      voidghost_main_flaten-Sheet_42: -3347817981821935840
+      voidghost_main_flaten-Sheet_43: 1962371082928446926
+      voidghost_main_flaten-Sheet_44: -7693653856321345992
+      voidghost_main_flaten-Sheet_45: 2020943847112317413
+      voidghost_main_flaten-Sheet_46: 4848399301877128810
+      voidghost_main_flaten-Sheet_47: 3354756212804383980
+      voidghost_main_flaten-Sheet_48: 2982597702214297348
+      voidghost_main_flaten-Sheet_49: -4483659838791162013
+      voidghost_main_flaten-Sheet_5: -8173081005568514390
+      voidghost_main_flaten-Sheet_50: 6471678340767686618
+      voidghost_main_flaten-Sheet_51: 7878318694819847861
+      voidghost_main_flaten-Sheet_52: 2850393349241372573
+      voidghost_main_flaten-Sheet_53: 1927778015038625463
+      voidghost_main_flaten-Sheet_54: -2035205210072862345
+      voidghost_main_flaten-Sheet_55: -4755823144514936505
+      voidghost_main_flaten-Sheet_56: 6295338037420166979
+      voidghost_main_flaten-Sheet_57: 4401687809908985720
+      voidghost_main_flaten-Sheet_58: -2142139924845530632
+      voidghost_main_flaten-Sheet_59: -5585444462911199090
+      voidghost_main_flaten-Sheet_6: 4451073317592331928
+      voidghost_main_flaten-Sheet_60: -5835157893830890962
+      voidghost_main_flaten-Sheet_61: 1376084886595541302
+      voidghost_main_flaten-Sheet_62: -2064823839345679577
+      voidghost_main_flaten-Sheet_63: 124710874648366194
+      voidghost_main_flaten-Sheet_64: 4934959404597191681
+      voidghost_main_flaten-Sheet_65: -170941765999597866
+      voidghost_main_flaten-Sheet_66: -682480623968981568
+      voidghost_main_flaten-Sheet_67: 2728136942648707359
+      voidghost_main_flaten-Sheet_68: -7016861616846519765
+      voidghost_main_flaten-Sheet_69: 1339534365758659040
+      voidghost_main_flaten-Sheet_7: -8728319350413589079
+      voidghost_main_flaten-Sheet_70: -3972435350590179390
+      voidghost_main_flaten-Sheet_71: 2981279272791348404
+      voidghost_main_flaten-Sheet_72: -2838714784309035132
+      voidghost_main_flaten-Sheet_73: -6546127603276192886
+      voidghost_main_flaten-Sheet_74: 833708264544610794
+      voidghost_main_flaten-Sheet_75: 8819046060503361265
+      voidghost_main_flaten-Sheet_76: 7137276537311331455
+      voidghost_main_flaten-Sheet_8: -2857543133714073671
+      voidghost_main_flaten-Sheet_9: -245443198897684462
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

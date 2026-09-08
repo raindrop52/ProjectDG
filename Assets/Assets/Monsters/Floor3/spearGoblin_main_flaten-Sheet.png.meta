@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: c126892d0d80062438340e433aec6540
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4856536197908061650
+    second: spearGoblin_main_flaten-Sheet_0
+  - first:
+      213: -4134775183392494029
+    second: spearGoblin_main_flaten-Sheet_1
+  - first:
+      213: -5682934285008692528
+    second: spearGoblin_main_flaten-Sheet_2
+  - first:
+      213: -6917032506098166360
+    second: spearGoblin_main_flaten-Sheet_3
+  - first:
+      213: 47386386287394490
+    second: spearGoblin_main_flaten-Sheet_4
+  - first:
+      213: -2760186441410049971
+    second: spearGoblin_main_flaten-Sheet_5
+  - first:
+      213: 5536404494624814073
+    second: spearGoblin_main_flaten-Sheet_6
+  - first:
+      213: -2527948900362587146
+    second: spearGoblin_main_flaten-Sheet_7
+  - first:
+      213: 7891205683537517572
+    second: spearGoblin_main_flaten-Sheet_8
+  - first:
+      213: 323687280802305509
+    second: spearGoblin_main_flaten-Sheet_9
+  - first:
+      213: -4319956026936474610
+    second: spearGoblin_main_flaten-Sheet_10
+  - first:
+      213: 7974083672540051246
+    second: spearGoblin_main_flaten-Sheet_11
+  - first:
+      213: -4212213651669653089
+    second: spearGoblin_main_flaten-Sheet_12
+  - first:
+      213: -2369256192003152793
+    second: spearGoblin_main_flaten-Sheet_13
+  - first:
+      213: 8891553601347679404
+    second: spearGoblin_main_flaten-Sheet_14
+  - first:
+      213: -1307263400193476415
+    second: spearGoblin_main_flaten-Sheet_15
+  - first:
+      213: -5849764765099243468
+    second: spearGoblin_main_flaten-Sheet_16
+  - first:
+      213: 8573584912540207092
+    second: spearGoblin_main_flaten-Sheet_17
+  - first:
+      213: -3409444375296087398
+    second: spearGoblin_main_flaten-Sheet_18
+  - first:
+      213: -722838322819192759
+    second: spearGoblin_main_flaten-Sheet_19
+  - first:
+      213: -5246023060306429361
+    second: spearGoblin_main_flaten-Sheet_20
+  - first:
+      213: 1055851796960778274
+    second: spearGoblin_main_flaten-Sheet_21
+  - first:
+      213: 656393391587758519
+    second: spearGoblin_main_flaten-Sheet_22
+  - first:
+      213: -1158407721595235659
+    second: spearGoblin_main_flaten-Sheet_23
+  - first:
+      213: -809426948548428217
+    second: spearGoblin_main_flaten-Sheet_24
+  - first:
+      213: -375877951495647464
+    second: spearGoblin_main_flaten-Sheet_25
+  - first:
+      213: -5019917162837436416
+    second: spearGoblin_main_flaten-Sheet_26
+  - first:
+      213: -1531133484074585115
+    second: spearGoblin_main_flaten-Sheet_27
+  - first:
+      213: -7403983109326984016
+    second: spearGoblin_main_flaten-Sheet_28
+  - first:
+      213: 6253769781919908067
+    second: spearGoblin_main_flaten-Sheet_29
+  - first:
+      213: 7229373841533611637
+    second: spearGoblin_main_flaten-Sheet_30
+  - first:
+      213: -3968287718906163826
+    second: spearGoblin_main_flaten-Sheet_31
+  - first:
+      213: -1522929961624014088
+    second: spearGoblin_main_flaten-Sheet_32
+  - first:
+      213: 4299131240103221648
+    second: spearGoblin_main_flaten-Sheet_33
+  - first:
+      213: 1591122819825115664
+    second: spearGoblin_main_flaten-Sheet_34
+  - first:
+      213: -7692419694519878589
+    second: spearGoblin_main_flaten-Sheet_35
+  - first:
+      213: 245713453771060305
+    second: spearGoblin_main_flaten-Sheet_36
+  - first:
+      213: 4251021183020678563
+    second: spearGoblin_main_flaten-Sheet_37
+  - first:
+      213: 6642685544456580010
+    second: spearGoblin_main_flaten-Sheet_38
+  - first:
+      213: 1738580408881484351
+    second: spearGoblin_main_flaten-Sheet_39
+  - first:
+      213: 5157025334832031562
+    second: spearGoblin_main_flaten-Sheet_40
+  - first:
+      213: -3596778756169356002
+    second: spearGoblin_main_flaten-Sheet_41
+  - first:
+      213: -8056971263718517344
+    second: spearGoblin_main_flaten-Sheet_42
+  - first:
+      213: -3983567112977798201
+    second: spearGoblin_main_flaten-Sheet_43
+  - first:
+      213: -1243147116541934097
+    second: spearGoblin_main_flaten-Sheet_44
+  - first:
+      213: 1649979095886313777
+    second: spearGoblin_main_flaten-Sheet_45
+  - first:
+      213: 3499976624348109545
+    second: spearGoblin_main_flaten-Sheet_46
+  - first:
+      213: 5668693478875508127
+    second: spearGoblin_main_flaten-Sheet_47
+  - first:
+      213: -2565035678044878763
+    second: spearGoblin_main_flaten-Sheet_48
+  - first:
+      213: 3161887374056407181
+    second: spearGoblin_main_flaten-Sheet_49
+  - first:
+      213: -1675061367872129562
+    second: spearGoblin_main_flaten-Sheet_50
+  - first:
+      213: -22954269393241740
+    second: spearGoblin_main_flaten-Sheet_51
+  - first:
+      213: -2014694840049826443
+    second: spearGoblin_main_flaten-Sheet_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1052
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e222ddc1f0e1a9cb0800000000000000
+      internalID: -4856536197908061650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1052
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e2acfa0e35e96c0800000000000000
+      internalID: -4134775183392494029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1052
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da1b2490692221b0800000000000000
+      internalID: -5682934285008692528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1052
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5503e6593c100a0800000000000000
+      internalID: -6917032506098166360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 940
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe79d1daa958a000800000000000000
+      internalID: 47386386287394490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 940
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4887ed3e09d1b9d0800000000000000
+      internalID: -2760186441410049971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 940
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3fcf20e8245dc40800000000000000
+      internalID: 5536404494624814073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 940
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f37c876edbeaecd0800000000000000
+      internalID: -2527948900362587146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 940
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c1cc082c1338d60800000000000000
+      internalID: 7891205683537517572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 828
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5988eedd7fd7400800000000000000
+      internalID: 323687280802305509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 828
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04c421b1ee6c04c0800000000000000
+      internalID: -4319956026936474610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 828
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27fdf60ad2a9ae60800000000000000
+      internalID: 7974083672540051246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 828
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99ed2640063b85c0800000000000000
+      internalID: -4212213651669653089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 828
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764e1c5db06be1fd0800000000000000
+      internalID: -2369256192003152793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 828
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca47ca514e4256b70800000000000000
+      internalID: 8891553601347679404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 828
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8399b1ddaabdde0800000000000000
+      internalID: -1307263400193476415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 716
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438c9a480f571dea0800000000000000
+      internalID: -5849764765099243468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 716
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f78b9b9d0e7bf670800000000000000
+      internalID: 8573584912540207092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 716
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ae50997683fa0d0800000000000000
+      internalID: -3409444375296087398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 716
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948a25a0066f7f5f0800000000000000
+      internalID: -722838322819192759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 724
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a7dee32d16237b0800000000000000
+      internalID: -5246023060306429361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 716
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2281e4d7d9327ae00800000000000000
+      internalID: 1055851796960778274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 716
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1908adf4afb1900800000000000000
+      internalID: 656393391587758519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 600
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b21f3190528cefe0800000000000000
+      internalID: -1158407721595235659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 603
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e74249a7654c4f0800000000000000
+      internalID: -809426948548428217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 603
+        width: 55
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f433e9efc98caf0800000000000000
+      internalID: -375877951495647464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 602
+        width: 57
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0081033efeba55ab0800000000000000
+      internalID: -5019917162837436416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 604
+        width: 58
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e33702653250cae0800000000000000
+      internalID: -1531133484074585115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 604
+        width: 55
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bca29d0794cf3990800000000000000
+      internalID: -7403983109326984016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 492
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e088669b7ad9c650800000000000000
+      internalID: 6253769781919908067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 492
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57eac1db435e35460800000000000000
+      internalID: 7229373841533611637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 492
+        width: 56
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d8d04385fcde8c0800000000000000
+      internalID: -3968287718906163826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 492
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2f99bc4477ddae0800000000000000
+      internalID: -1522929961624014088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 492
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0991329c51599ab30800000000000000
+      internalID: 4299131240103221648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 492
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012a1b546cdc41610800000000000000
+      internalID: 1591122819825115664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 380
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c7ce44b090f3590800000000000000
+      internalID: -7692419694519878589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 378
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154fe889513f86300800000000000000
+      internalID: 245713453771060305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 375
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adbb9a3e39aefa30800000000000000
+      internalID: 4251021183020678563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 375
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabe4f7ee4f8f2c50800000000000000
+      internalID: 6642685544456580010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 375
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3295d4abada02810800000000000000
+      internalID: 1738580408881484351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 380
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a476a5c083f619740800000000000000
+      internalID: 5157025334832031562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 380
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1daade17cca51ec0800000000000000
+      internalID: -3596778756169356002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 265
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a51784c253ef2090800000000000000
+      internalID: -8056971263718517344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 265
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cba70c01d687b8c0800000000000000
+      internalID: -3983567112977798201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 265
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe587f2b8447fbee0800000000000000
+      internalID: -1243147116541934097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 265
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139bf19ee37e5e610800000000000000
+      internalID: 1649979095886313777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 156
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea9078323a629030800000000000000
+      internalID: 3499976624348109545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 44
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9da2fc5fae3bae40800000000000000
+      internalID: 5668693478875508127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 44
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5588ee514a9276cd0800000000000000
+      internalID: -2565035678044878763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 44
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80cc6670d741eb20800000000000000
+      internalID: 3161887374056407181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 44
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5700f8f8cf0c8e0800000000000000
+      internalID: -1675061367872129562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 44
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479bcbea6337eaff0800000000000000
+      internalID: -22954269393241740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spearGoblin_main_flaten-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 44
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5758400a7bd5a04e0800000000000000
+      internalID: -2014694840049826443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spearGoblin_main_flaten-Sheet_0: -4856536197908061650
+      spearGoblin_main_flaten-Sheet_1: -4134775183392494029
+      spearGoblin_main_flaten-Sheet_10: -4319956026936474610
+      spearGoblin_main_flaten-Sheet_11: 7974083672540051246
+      spearGoblin_main_flaten-Sheet_12: -4212213651669653089
+      spearGoblin_main_flaten-Sheet_13: -2369256192003152793
+      spearGoblin_main_flaten-Sheet_14: 8891553601347679404
+      spearGoblin_main_flaten-Sheet_15: -1307263400193476415
+      spearGoblin_main_flaten-Sheet_16: -5849764765099243468
+      spearGoblin_main_flaten-Sheet_17: 8573584912540207092
+      spearGoblin_main_flaten-Sheet_18: -3409444375296087398
+      spearGoblin_main_flaten-Sheet_19: -722838322819192759
+      spearGoblin_main_flaten-Sheet_2: -5682934285008692528
+      spearGoblin_main_flaten-Sheet_20: -5246023060306429361
+      spearGoblin_main_flaten-Sheet_21: 1055851796960778274
+      spearGoblin_main_flaten-Sheet_22: 656393391587758519
+      spearGoblin_main_flaten-Sheet_23: -1158407721595235659
+      spearGoblin_main_flaten-Sheet_24: -809426948548428217
+      spearGoblin_main_flaten-Sheet_25: -375877951495647464
+      spearGoblin_main_flaten-Sheet_26: -5019917162837436416
+      spearGoblin_main_flaten-Sheet_27: -1531133484074585115
+      spearGoblin_main_flaten-Sheet_28: -7403983109326984016
+      spearGoblin_main_flaten-Sheet_29: 6253769781919908067
+      spearGoblin_main_flaten-Sheet_3: -6917032506098166360
+      spearGoblin_main_flaten-Sheet_30: 7229373841533611637
+      spearGoblin_main_flaten-Sheet_31: -3968287718906163826
+      spearGoblin_main_flaten-Sheet_32: -1522929961624014088
+      spearGoblin_main_flaten-Sheet_33: 4299131240103221648
+      spearGoblin_main_flaten-Sheet_34: 1591122819825115664
+      spearGoblin_main_flaten-Sheet_35: -7692419694519878589
+      spearGoblin_main_flaten-Sheet_36: 245713453771060305
+      spearGoblin_main_flaten-Sheet_37: 4251021183020678563
+      spearGoblin_main_flaten-Sheet_38: 6642685544456580010
+      spearGoblin_main_flaten-Sheet_39: 1738580408881484351
+      spearGoblin_main_flaten-Sheet_4: 47386386287394490
+      spearGoblin_main_flaten-Sheet_40: 5157025334832031562
+      spearGoblin_main_flaten-Sheet_41: -3596778756169356002
+      spearGoblin_main_flaten-Sheet_42: -8056971263718517344
+      spearGoblin_main_flaten-Sheet_43: -3983567112977798201
+      spearGoblin_main_flaten-Sheet_44: -1243147116541934097
+      spearGoblin_main_flaten-Sheet_45: 1649979095886313777
+      spearGoblin_main_flaten-Sheet_46: 3499976624348109545
+      spearGoblin_main_flaten-Sheet_47: 5668693478875508127
+      spearGoblin_main_flaten-Sheet_48: -2565035678044878763
+      spearGoblin_main_flaten-Sheet_49: 3161887374056407181
+      spearGoblin_main_flaten-Sheet_5: -2760186441410049971
+      spearGoblin_main_flaten-Sheet_50: -1675061367872129562
+      spearGoblin_main_flaten-Sheet_51: -22954269393241740
+      spearGoblin_main_flaten-Sheet_52: -2014694840049826443
+      spearGoblin_main_flaten-Sheet_6: 5536404494624814073
+      spearGoblin_main_flaten-Sheet_7: -2527948900362587146
+      spearGoblin_main_flaten-Sheet_8: 7891205683537517572
+      spearGoblin_main_flaten-Sheet_9: 323687280802305509
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

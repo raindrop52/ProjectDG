@@ -1,0 +1,2197 @@
+fileFormatVersion: 2
+guid: e03f74167c69fa147ab028753d056a9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -675187318170159974
+    second: drami_main_flaten-Sheet_0
+  - first:
+      213: -757065242926567579
+    second: drami_main_flaten-Sheet_1
+  - first:
+      213: -785555139281390672
+    second: drami_main_flaten-Sheet_2
+  - first:
+      213: 7625233950552061064
+    second: drami_main_flaten-Sheet_3
+  - first:
+      213: 5574274659238805670
+    second: drami_main_flaten-Sheet_4
+  - first:
+      213: -1508749519786331689
+    second: drami_main_flaten-Sheet_5
+  - first:
+      213: 1910377886300078540
+    second: drami_main_flaten-Sheet_6
+  - first:
+      213: -6350421401438849331
+    second: drami_main_flaten-Sheet_7
+  - first:
+      213: -6468107066908264968
+    second: drami_main_flaten-Sheet_8
+  - first:
+      213: -6612340851686572330
+    second: drami_main_flaten-Sheet_9
+  - first:
+      213: -470227365972767139
+    second: drami_main_flaten-Sheet_10
+  - first:
+      213: 7914415845999887237
+    second: drami_main_flaten-Sheet_11
+  - first:
+      213: 7812497184697687069
+    second: drami_main_flaten-Sheet_12
+  - first:
+      213: -7779944399748787627
+    second: drami_main_flaten-Sheet_13
+  - first:
+      213: 5968534839135745461
+    second: drami_main_flaten-Sheet_14
+  - first:
+      213: 8887318792826035885
+    second: drami_main_flaten-Sheet_15
+  - first:
+      213: 5929902646622243544
+    second: drami_main_flaten-Sheet_16
+  - first:
+      213: -2735380917041970784
+    second: drami_main_flaten-Sheet_17
+  - first:
+      213: 344348692136508926
+    second: drami_main_flaten-Sheet_18
+  - first:
+      213: -1193772741507039815
+    second: drami_main_flaten-Sheet_19
+  - first:
+      213: 3886826139301475080
+    second: drami_main_flaten-Sheet_20
+  - first:
+      213: 2597657841018309759
+    second: drami_main_flaten-Sheet_21
+  - first:
+      213: 993443843923641432
+    second: drami_main_flaten-Sheet_22
+  - first:
+      213: 4349667937960106446
+    second: drami_main_flaten-Sheet_23
+  - first:
+      213: 7132908666199832327
+    second: drami_main_flaten-Sheet_24
+  - first:
+      213: 4350224703337562913
+    second: drami_main_flaten-Sheet_25
+  - first:
+      213: -5102617425363450033
+    second: drami_main_flaten-Sheet_26
+  - first:
+      213: -5541576332413030718
+    second: drami_main_flaten-Sheet_27
+  - first:
+      213: -6057943020629338631
+    second: drami_main_flaten-Sheet_28
+  - first:
+      213: 5782044881441544696
+    second: drami_main_flaten-Sheet_29
+  - first:
+      213: -1570489392159695618
+    second: drami_main_flaten-Sheet_30
+  - first:
+      213: 2059008284082811201
+    second: drami_main_flaten-Sheet_31
+  - first:
+      213: -7936624377142921241
+    second: drami_main_flaten-Sheet_32
+  - first:
+      213: 4301557840537338733
+    second: drami_main_flaten-Sheet_33
+  - first:
+      213: -675582651770280285
+    second: drami_main_flaten-Sheet_34
+  - first:
+      213: -7064722116624368582
+    second: drami_main_flaten-Sheet_35
+  - first:
+      213: -7933644785710450019
+    second: drami_main_flaten-Sheet_36
+  - first:
+      213: 9078386768947575627
+    second: drami_main_flaten-Sheet_37
+  - first:
+      213: -6012122844688647051
+    second: drami_main_flaten-Sheet_38
+  - first:
+      213: -1461960710573986409
+    second: drami_main_flaten-Sheet_39
+  - first:
+      213: 1652731827318193752
+    second: drami_main_flaten-Sheet_40
+  - first:
+      213: 8995080393840663075
+    second: drami_main_flaten-Sheet_41
+  - first:
+      213: -5205710532549388311
+    second: drami_main_flaten-Sheet_42
+  - first:
+      213: 6816550591555585335
+    second: drami_main_flaten-Sheet_43
+  - first:
+      213: 255400905897623278
+    second: drami_main_flaten-Sheet_44
+  - first:
+      213: 8458310060664985050
+    second: drami_main_flaten-Sheet_45
+  - first:
+      213: 6086892947027895406
+    second: drami_main_flaten-Sheet_46
+  - first:
+      213: 7637368433588784763
+    second: drami_main_flaten-Sheet_47
+  - first:
+      213: -8216077121298066656
+    second: drami_main_flaten-Sheet_48
+  - first:
+      213: -286626854069606719
+    second: drami_main_flaten-Sheet_49
+  - first:
+      213: 3760457222273767892
+    second: drami_main_flaten-Sheet_50
+  - first:
+      213: -63010417288214016
+    second: drami_main_flaten-Sheet_51
+  - first:
+      213: -2454657671635146253
+    second: drami_main_flaten-Sheet_52
+  - first:
+      213: 9064263265870313216
+    second: drami_main_flaten-Sheet_53
+  - first:
+      213: -299206421370055627
+    second: drami_main_flaten-Sheet_54
+  - first:
+      213: -4887907263587575202
+    second: drami_main_flaten-Sheet_55
+  - first:
+      213: -2346351133525388215
+    second: drami_main_flaten-Sheet_56
+  - first:
+      213: -4178858623102813145
+    second: drami_main_flaten-Sheet_57
+  - first:
+      213: -2468571416813300848
+    second: drami_main_flaten-Sheet_58
+  - first:
+      213: 1041465081016157166
+    second: drami_main_flaten-Sheet_59
+  - first:
+      213: 333573486215246574
+    second: drami_main_flaten-Sheet_60
+  - first:
+      213: -694613909341189751
+    second: drami_main_flaten-Sheet_61
+  - first:
+      213: 2617090271775902806
+    second: drami_main_flaten-Sheet_62
+  - first:
+      213: 2977906060759994885
+    second: drami_main_flaten-Sheet_63
+  - first:
+      213: -9017523437439808798
+    second: drami_main_flaten-Sheet_64
+  - first:
+      213: 2214632014747800949
+    second: drami_main_flaten-Sheet_65
+  - first:
+      213: 6767387114256239672
+    second: drami_main_flaten-Sheet_66
+  - first:
+      213: -439247095250476013
+    second: drami_main_flaten-Sheet_67
+  - first:
+      213: -543959980830477389
+    second: drami_main_flaten-Sheet_68
+  - first:
+      213: -2415378953309088427
+    second: drami_main_flaten-Sheet_69
+  - first:
+      213: -6963263315753575708
+    second: drami_main_flaten-Sheet_70
+  - first:
+      213: 3648860886027007672
+    second: drami_main_flaten-Sheet_71
+  - first:
+      213: 8779453369146429184
+    second: drami_main_flaten-Sheet_72
+  - first:
+      213: 6934196083939613495
+    second: drami_main_flaten-Sheet_73
+  - first:
+      213: 5767108723706788622
+    second: drami_main_flaten-Sheet_74
+  - first:
+      213: -6436507324615616079
+    second: drami_main_flaten-Sheet_75
+  - first:
+      213: 1931830685413925475
+    second: drami_main_flaten-Sheet_76
+  - first:
+      213: -510726427050158692
+    second: drami_main_flaten-Sheet_77
+  - first:
+      213: 661835154766425691
+    second: drami_main_flaten-Sheet_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 716
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a947e9f16b041a6f0800000000000000
+      internalID: -675187318170159974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 716
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f21933c2d5e75f0800000000000000
+      internalID: -757065242926567579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 716
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b376ab43c52915f0800000000000000
+      internalID: -785555139281390672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 716
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88477e7b0e542d960800000000000000
+      internalID: 7625233950552061064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 604
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a00460d44dcb5d40800000000000000
+      internalID: 5574274659238805670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 604
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d138123e48df0be0800000000000000
+      internalID: -1508749519786331689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 604
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc18da3e096038a10800000000000000
+      internalID: 1910377886300078540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 604
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6f231a165ced7a0800000000000000
+      internalID: -6350421401438849331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 604
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f53db364eaac36a0800000000000000
+      internalID: -6468107066908264968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 604
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6defa61770f3c34a0800000000000000
+      internalID: -6612340851686572330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 604
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e8687b3ba6979f0800000000000000
+      internalID: -470227365972767139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 492
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583cb819747a5dd60800000000000000
+      internalID: 7914415845999887237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 492
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c15ae0cc09b6c60800000000000000
+      internalID: 7812497184697687069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 492
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5521fa0d9c5180490800000000000000
+      internalID: -7779944399748787627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 492
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5ba3440de74d250800000000000000
+      internalID: 5968534839135745461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 492
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae9c04ea59165b70800000000000000
+      internalID: 8887318792826035885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 492
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da41940a0f3b4250800000000000000
+      internalID: 5929902646622243544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 492
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1c4527c89f90ad0800000000000000
+      internalID: -2735380917041970784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 492
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdbaa1af4f57c400800000000000000
+      internalID: 344348692136508926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 492
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdbde7340ede6fe0800000000000000
+      internalID: -1193772741507039815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 380
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80374c8c7c7c0f530800000000000000
+      internalID: 3886826139301475080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 380
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c87ed1b0cbc0420800000000000000
+      internalID: 2597657841018309759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 380
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8540e5d99eb69cd00800000000000000
+      internalID: 993443843923641432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 380
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9940da1ff1d5c30800000000000000
+      internalID: 4349667937960106446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 380
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7077520e3ae2df260800000000000000
+      internalID: 7132908666199832327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 380
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1238097b15a1f5c30800000000000000
+      internalID: 4350224703337562913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 380
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f474e788c7cdf29b0800000000000000
+      internalID: -5102617425363450033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 380
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce2fcaafad5813b0800000000000000
+      internalID: -5541576332413030718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 380
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5d4d94becddeba0800000000000000
+      internalID: -6057943020629338631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 380
+        width: 59
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f950b16f23fd3050800000000000000
+      internalID: 5782044881441544696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 380
+        width: 59
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc5dc8f730843ae0800000000000000
+      internalID: -1570489392159695618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 380
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141b7521021139c10800000000000000
+      internalID: 2059008284082811201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 380
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7b0b4dd227bd190800000000000000
+      internalID: -7936624377142921241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 380
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63460ab01432bb30800000000000000
+      internalID: 4301557840537338733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 380
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6e0d85829df96f0800000000000000
+      internalID: -675582651770280285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 380
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c32c95aa015fd90800000000000000
+      internalID: -7064722116624368582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 268
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a39950a1806e190800000000000000
+      internalID: -7933644785710450019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 268
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bf9b0caa8ecfd70800000000000000
+      internalID: 9078386768947575627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 268
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c72585026a09ca0800000000000000
+      internalID: -6012122844688647051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 268
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79de8a2ca7216bbe0800000000000000
+      internalID: -1461960710573986409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 268
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e784427deafe610800000000000000
+      internalID: 1652731827318193752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 268
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a14f0d5f1f4dc70800000000000000
+      internalID: 8995080393840663075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 264
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e752e70ad991c7b0800000000000000
+      internalID: -5205710532549388311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 264
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735462bb5a0499e50800000000000000
+      internalID: 6816550591555585335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 264
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee375f45cd5b8300800000000000000
+      internalID: 255400905897623278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 263
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad59c06af24f16570800000000000000
+      internalID: 8458310060664985050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 266
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64ad65b2ecf87450800000000000000
+      internalID: 6086892947027895406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 268
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e47d630226df960800000000000000
+      internalID: 7637368433588784763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 268
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02390d98361aafd80800000000000000
+      internalID: -8216077121298066656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 268
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6e7141562b50cf0800000000000000
+      internalID: -286626854069606719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 268
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d91eae7be3df2430800000000000000
+      internalID: 3760457222273767892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 261
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a036cfb54202ff0800000000000000
+      internalID: -63010417288214016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 257
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9effc5add4fedd0800000000000000
+      internalID: -2454657671635146253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 268
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00772d07a6bbacd70800000000000000
+      internalID: 9064263265870313216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 268
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534d8b3585109dbf0800000000000000
+      internalID: -299206421370055627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 268
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a9fc2bd3aaa2cb0800000000000000
+      internalID: -4887907263587575202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 268
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94452e75316107fd0800000000000000
+      internalID: -2346351133525388215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 268
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cf06b0936b106c0800000000000000
+      internalID: -4178858623102813145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 268
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093192e106fddbdd0800000000000000
+      internalID: -2468571416813300848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 268
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee301f729f6047e00800000000000000
+      internalID: 1041465081016157166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 268
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee23950815711a400800000000000000
+      internalID: 333573486215246574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 268
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9894ca5645c3c56f0800000000000000
+      internalID: -694613909341189751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 268
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c455a7cb5c15420800000000000000
+      internalID: 2617090271775902806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 268
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502151ed8c5a35920800000000000000
+      internalID: 2977906060759994885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 156
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea04a5e5325bd280800000000000000
+      internalID: -9017523437439808798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 156
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57510437514fbbe10800000000000000
+      internalID: 2214632014747800949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 156
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c8ccaa9b69aed50800000000000000
+      internalID: 6767387114256239672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 44
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31429f6181b77e9f0800000000000000
+      internalID: -439247095250476013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 44
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3329a87477378f0800000000000000
+      internalID: -543959980830477389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 44
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5559e02a3a9da7ed0800000000000000
+      internalID: -2415378953309088427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 43
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eadff248e48d5f90800000000000000
+      internalID: -6963263315753575708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 43
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6f472b4ab53a230800000000000000
+      internalID: 3648860886027007672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 43
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f441ed252e6d970800000000000000
+      internalID: 8779453369146429184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 43
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b102279963b3060800000000000000
+      internalID: 6934196083939613495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 43
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b799924d2e80050800000000000000
+      internalID: 5767108723706788622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 43
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9161ab0beeca6a0800000000000000
+      internalID: -6436507324615616079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 43
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362eb4ae5cd3fca10800000000000000
+      internalID: 1931830685413925475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 41
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c955542450989e8f0800000000000000
+      internalID: -510726427050158692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drami_main_flaten-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 43
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ee7b3119f4f2900800000000000000
+      internalID: 661835154766425691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      drami_main_flaten-Sheet_0: -675187318170159974
+      drami_main_flaten-Sheet_1: -757065242926567579
+      drami_main_flaten-Sheet_10: -470227365972767139
+      drami_main_flaten-Sheet_11: 7914415845999887237
+      drami_main_flaten-Sheet_12: 7812497184697687069
+      drami_main_flaten-Sheet_13: -7779944399748787627
+      drami_main_flaten-Sheet_14: 5968534839135745461
+      drami_main_flaten-Sheet_15: 8887318792826035885
+      drami_main_flaten-Sheet_16: 5929902646622243544
+      drami_main_flaten-Sheet_17: -2735380917041970784
+      drami_main_flaten-Sheet_18: 344348692136508926
+      drami_main_flaten-Sheet_19: -1193772741507039815
+      drami_main_flaten-Sheet_2: -785555139281390672
+      drami_main_flaten-Sheet_20: 3886826139301475080
+      drami_main_flaten-Sheet_21: 2597657841018309759
+      drami_main_flaten-Sheet_22: 993443843923641432
+      drami_main_flaten-Sheet_23: 4349667937960106446
+      drami_main_flaten-Sheet_24: 7132908666199832327
+      drami_main_flaten-Sheet_25: 4350224703337562913
+      drami_main_flaten-Sheet_26: -5102617425363450033
+      drami_main_flaten-Sheet_27: -5541576332413030718
+      drami_main_flaten-Sheet_28: -6057943020629338631
+      drami_main_flaten-Sheet_29: 5782044881441544696
+      drami_main_flaten-Sheet_3: 7625233950552061064
+      drami_main_flaten-Sheet_30: -1570489392159695618
+      drami_main_flaten-Sheet_31: 2059008284082811201
+      drami_main_flaten-Sheet_32: -7936624377142921241
+      drami_main_flaten-Sheet_33: 4301557840537338733
+      drami_main_flaten-Sheet_34: -675582651770280285
+      drami_main_flaten-Sheet_35: -7064722116624368582
+      drami_main_flaten-Sheet_36: -7933644785710450019
+      drami_main_flaten-Sheet_37: 9078386768947575627
+      drami_main_flaten-Sheet_38: -6012122844688647051
+      drami_main_flaten-Sheet_39: -1461960710573986409
+      drami_main_flaten-Sheet_4: 5574274659238805670
+      drami_main_flaten-Sheet_40: 1652731827318193752
+      drami_main_flaten-Sheet_41: 8995080393840663075
+      drami_main_flaten-Sheet_42: -5205710532549388311
+      drami_main_flaten-Sheet_43: 6816550591555585335
+      drami_main_flaten-Sheet_44: 255400905897623278
+      drami_main_flaten-Sheet_45: 8458310060664985050
+      drami_main_flaten-Sheet_46: 6086892947027895406
+      drami_main_flaten-Sheet_47: 7637368433588784763
+      drami_main_flaten-Sheet_48: -8216077121298066656
+      drami_main_flaten-Sheet_49: -286626854069606719
+      drami_main_flaten-Sheet_5: -1508749519786331689
+      drami_main_flaten-Sheet_50: 3760457222273767892
+      drami_main_flaten-Sheet_51: -63010417288214016
+      drami_main_flaten-Sheet_52: -2454657671635146253
+      drami_main_flaten-Sheet_53: 9064263265870313216
+      drami_main_flaten-Sheet_54: -299206421370055627
+      drami_main_flaten-Sheet_55: -4887907263587575202
+      drami_main_flaten-Sheet_56: -2346351133525388215
+      drami_main_flaten-Sheet_57: -4178858623102813145
+      drami_main_flaten-Sheet_58: -2468571416813300848
+      drami_main_flaten-Sheet_59: 1041465081016157166
+      drami_main_flaten-Sheet_6: 1910377886300078540
+      drami_main_flaten-Sheet_60: 333573486215246574
+      drami_main_flaten-Sheet_61: -694613909341189751
+      drami_main_flaten-Sheet_62: 2617090271775902806
+      drami_main_flaten-Sheet_63: 2977906060759994885
+      drami_main_flaten-Sheet_64: -9017523437439808798
+      drami_main_flaten-Sheet_65: 2214632014747800949
+      drami_main_flaten-Sheet_66: 6767387114256239672
+      drami_main_flaten-Sheet_67: -439247095250476013
+      drami_main_flaten-Sheet_68: -543959980830477389
+      drami_main_flaten-Sheet_69: -2415378953309088427
+      drami_main_flaten-Sheet_7: -6350421401438849331
+      drami_main_flaten-Sheet_70: -6963263315753575708
+      drami_main_flaten-Sheet_71: 3648860886027007672
+      drami_main_flaten-Sheet_72: 8779453369146429184
+      drami_main_flaten-Sheet_73: 6934196083939613495
+      drami_main_flaten-Sheet_74: 5767108723706788622
+      drami_main_flaten-Sheet_75: -6436507324615616079
+      drami_main_flaten-Sheet_76: 1931830685413925475
+      drami_main_flaten-Sheet_77: -510726427050158692
+      drami_main_flaten-Sheet_78: 661835154766425691
+      drami_main_flaten-Sheet_8: -6468107066908264968
+      drami_main_flaten-Sheet_9: -6612340851686572330
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

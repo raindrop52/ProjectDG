@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: f3b4b9024b020f4439de5f68743419dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2369417890146106380
+    second: red_mushroom_main_flaten-Sheet_0
+  - first:
+      213: -2376164185050937290
+    second: red_mushroom_main_flaten-Sheet_1
+  - first:
+      213: -6443519279869288601
+    second: red_mushroom_main_flaten-Sheet_2
+  - first:
+      213: -2743041195947430575
+    second: red_mushroom_main_flaten-Sheet_3
+  - first:
+      213: 2061081446471857594
+    second: red_mushroom_main_flaten-Sheet_4
+  - first:
+      213: 3445091114182681077
+    second: red_mushroom_main_flaten-Sheet_5
+  - first:
+      213: 6955440006829544463
+    second: red_mushroom_main_flaten-Sheet_6
+  - first:
+      213: -5361119544733496462
+    second: red_mushroom_main_flaten-Sheet_7
+  - first:
+      213: 3074781321484345035
+    second: red_mushroom_main_flaten-Sheet_8
+  - first:
+      213: 7742092389955206474
+    second: red_mushroom_main_flaten-Sheet_9
+  - first:
+      213: -1557746998735144662
+    second: red_mushroom_main_flaten-Sheet_10
+  - first:
+      213: -6372435996689574111
+    second: red_mushroom_main_flaten-Sheet_11
+  - first:
+      213: 4379292070486467870
+    second: red_mushroom_main_flaten-Sheet_12
+  - first:
+      213: 1251359028039629302
+    second: red_mushroom_main_flaten-Sheet_13
+  - first:
+      213: -7795680297677603194
+    second: red_mushroom_main_flaten-Sheet_14
+  - first:
+      213: -5641915133541205763
+    second: red_mushroom_main_flaten-Sheet_15
+  - first:
+      213: -5119617140723749261
+    second: red_mushroom_main_flaten-Sheet_16
+  - first:
+      213: -3269940670256827885
+    second: red_mushroom_main_flaten-Sheet_17
+  - first:
+      213: -2860096243165388377
+    second: red_mushroom_main_flaten-Sheet_18
+  - first:
+      213: 2351562815369397117
+    second: red_mushroom_main_flaten-Sheet_19
+  - first:
+      213: -6057858812845633851
+    second: red_mushroom_main_flaten-Sheet_20
+  - first:
+      213: 2473733753834446057
+    second: red_mushroom_main_flaten-Sheet_21
+  - first:
+      213: 1800707993089764608
+    second: red_mushroom_main_flaten-Sheet_22
+  - first:
+      213: 1778397520091900169
+    second: red_mushroom_main_flaten-Sheet_23
+  - first:
+      213: -6998705536137014254
+    second: red_mushroom_main_flaten-Sheet_24
+  - first:
+      213: 5279302110248208298
+    second: red_mushroom_main_flaten-Sheet_25
+  - first:
+      213: -6418164296095350276
+    second: red_mushroom_main_flaten-Sheet_26
+  - first:
+      213: -853502541510612731
+    second: red_mushroom_main_flaten-Sheet_27
+  - first:
+      213: -191991513599315012
+    second: red_mushroom_main_flaten-Sheet_28
+  - first:
+      213: 1678787876970065066
+    second: red_mushroom_main_flaten-Sheet_29
+  - first:
+      213: 8993289097954089016
+    second: red_mushroom_main_flaten-Sheet_30
+  - first:
+      213: -5592502617275980844
+    second: red_mushroom_main_flaten-Sheet_31
+  - first:
+      213: -503005501570585353
+    second: red_mushroom_main_flaten-Sheet_32
+  - first:
+      213: 1724999416774399706
+    second: red_mushroom_main_flaten-Sheet_33
+  - first:
+      213: 2904848282925068191
+    second: red_mushroom_main_flaten-Sheet_34
+  - first:
+      213: -234271016221307007
+    second: red_mushroom_main_flaten-Sheet_35
+  - first:
+      213: 5242133517856214776
+    second: red_mushroom_main_flaten-Sheet_36
+  - first:
+      213: 4977170877660128617
+    second: red_mushroom_main_flaten-Sheet_37
+  - first:
+      213: 7942124672645847027
+    second: red_mushroom_main_flaten-Sheet_38
+  - first:
+      213: -4345505937082992943
+    second: red_mushroom_main_flaten-Sheet_39
+  - first:
+      213: 4006289566594636261
+    second: red_mushroom_main_flaten-Sheet_40
+  - first:
+      213: -6455968772731614661
+    second: red_mushroom_main_flaten-Sheet_41
+  - first:
+      213: -7254905866109685831
+    second: red_mushroom_main_flaten-Sheet_42
+  - first:
+      213: -5318335118841720306
+    second: red_mushroom_main_flaten-Sheet_43
+  - first:
+      213: 3240599329849652342
+    second: red_mushroom_main_flaten-Sheet_44
+  - first:
+      213: 5639935089470221416
+    second: red_mushroom_main_flaten-Sheet_45
+  - first:
+      213: 105728329236534431
+    second: red_mushroom_main_flaten-Sheet_46
+  - first:
+      213: -1734116843764392804
+    second: red_mushroom_main_flaten-Sheet_47
+  - first:
+      213: 3906679704448474125
+    second: red_mushroom_main_flaten-Sheet_48
+  - first:
+      213: -5009584979636003518
+    second: red_mushroom_main_flaten-Sheet_49
+  - first:
+      213: -566067843245060184
+    second: red_mushroom_main_flaten-Sheet_50
+  - first:
+      213: -1481762790543454480
+    second: red_mushroom_main_flaten-Sheet_51
+  - first:
+      213: 855337851050771719
+    second: red_mushroom_main_flaten-Sheet_52
+  - first:
+      213: -3992682425328176132
+    second: red_mushroom_main_flaten-Sheet_53
+  - first:
+      213: -5685743911228490597
+    second: red_mushroom_main_flaten-Sheet_54
+  - first:
+      213: 7505764539937070189
+    second: red_mushroom_main_flaten-Sheet_55
+  - first:
+      213: -8127190553200766434
+    second: red_mushroom_main_flaten-Sheet_56
+  - first:
+      213: 559664225041960615
+    second: red_mushroom_main_flaten-Sheet_57
+  - first:
+      213: 6212435209039782272
+    second: red_mushroom_main_flaten-Sheet_58
+  - first:
+      213: 4385981054992944835
+    second: red_mushroom_main_flaten-Sheet_59
+  - first:
+      213: -6819459790679240529
+    second: red_mushroom_main_flaten-Sheet_60
+  - first:
+      213: -4184286857877021624
+    second: red_mushroom_main_flaten-Sheet_61
+  - first:
+      213: -2565958123386803689
+    second: red_mushroom_main_flaten-Sheet_62
+  - first:
+      213: 5955402281527556885
+    second: red_mushroom_main_flaten-Sheet_63
+  - first:
+      213: 5299643089682780344
+    second: red_mushroom_main_flaten-Sheet_64
+  - first:
+      213: -1628684278852897066
+    second: red_mushroom_main_flaten-Sheet_65
+  - first:
+      213: 6790893631333465975
+    second: red_mushroom_main_flaten-Sheet_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 716
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c3d92740dd1e020800000000000000
+      internalID: 2369417890146106380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 716
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638880e534b260fd0800000000000000
+      internalID: -2376164185050937290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 716
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f920caa550496a0800000000000000
+      internalID: -6443519279869288601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 604
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d6a47c092cee9d0800000000000000
+      internalID: -2743041195947430575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 604
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab57a1ec7ae6a9c10800000000000000
+      internalID: 2061081446471857594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 604
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1a6bf8d1c6fcf20800000000000000
+      internalID: 3445091114182681077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 604
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f049d9fa5dfa68060800000000000000
+      internalID: 6955440006829544463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 604
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b81c1bd2a7995b0800000000000000
+      internalID: -5361119544733496462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 604
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce941d2251dbaa20800000000000000
+      internalID: 3074781321484345035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 604
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4df8816200717b60800000000000000
+      internalID: 7742092389955206474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 492
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29f572ab55c16ae0800000000000000
+      internalID: -1557746998735144662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 508
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127d76f393f8097a0800000000000000
+      internalID: -6372435996689574111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 511
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15e7058fee56cc30800000000000000
+      internalID: 4379292070486467870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 492
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9b7c0f768bd5110800000000000000
+      internalID: 1251359028039629302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 492
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e3a62921e20d390800000000000000
+      internalID: -7795680297677603194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 492
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df830640414e3b1b0800000000000000
+      internalID: -5641915133541205763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 492
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ee82dd55773f8b0800000000000000
+      internalID: -5119617140723749261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 492
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3123db80946de92d0800000000000000
+      internalID: -3269940670256827885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 380
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1a2bace95ee48d0800000000000000
+      internalID: -2860096243165388377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 398
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d734c15ebed62a020800000000000000
+      internalID: 2351562815369397117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 401
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cecdd071892eeba0800000000000000
+      internalID: -6057858812845633851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 380
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec12322eb7745220800000000000000
+      internalID: 2473733753834446057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 380
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d625011666df810800000000000000
+      internalID: 1800707993089764608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 380
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90963864f132ea810800000000000000
+      internalID: 1778397520091900169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 380
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2145ef6456a9fde90800000000000000
+      internalID: -6998705536137014254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 275
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7805f5c49d34940800000000000000
+      internalID: 5279302110248208298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 282
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1442dd3991ee6a0800000000000000
+      internalID: -6418164296095350276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 289
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509ed56e5ffb724f0800000000000000
+      internalID: -853502541510612731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 286
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3f5005cb8e55df0800000000000000
+      internalID: -191991513599315012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 281
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac6804fda04c4710800000000000000
+      internalID: 1678787876970065066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 268
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83852fd39c49ecc70800000000000000
+      internalID: 8993289097954089016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 268
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3a2dbff707362b0800000000000000
+      internalID: -5592502617275980844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 268
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc61de4927f409f0800000000000000
+      internalID: -503005501570585353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 278
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6189284dd60f710800000000000000
+      internalID: 1724999416774399706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 270
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fe62e6f18105820800000000000000
+      internalID: 2904848282925068191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 270
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f85f080c3bfbcf0800000000000000
+      internalID: -234271016221307007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 272
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe0df419accfb840800000000000000
+      internalID: 5242133517856214776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 273
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965e9550b86721540800000000000000
+      internalID: 4977170877660128617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 275
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7dbe28f48183e60800000000000000
+      internalID: 7942124672645847027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 275
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d631daaf59a1b3c0800000000000000
+      internalID: -4345505937082992943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 277
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e91a347223399730800000000000000
+      internalID: 4006289566594636261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 267
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a415c3b9ac766a0800000000000000
+      internalID: -6455968772731614661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf62ab8d85615b90800000000000000
+      internalID: -7254905866109685831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 267
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0254fc136a7136b0800000000000000
+      internalID: -5318335118841720306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 268
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674be0bcbebe8fc20800000000000000
+      internalID: 3240599329849652342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 268
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c222c0513154e40800000000000000
+      internalID: 5639935089470221416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 268
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94d6d2fa5f977100800000000000000
+      internalID: 105728329236534431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 268
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cd6681bed2fe7e0800000000000000
+      internalID: -1734116843764392804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 267
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c11e22e70573630800000000000000
+      internalID: 3906679704448474125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 268
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dd9a0c0016a7ab0800000000000000
+      internalID: -5009584979636003518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 267
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af4b94bb4ce428f0800000000000000
+      internalID: -566067843245060184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 267
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe044cb798bf6be0800000000000000
+      internalID: -1481762790543454480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 267
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705c3d66e35cedb00800000000000000
+      internalID: 855337851050771719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 156
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf37e510d742798c0800000000000000
+      internalID: -3992682425328176132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 156
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cb26f790e2811b0800000000000000
+      internalID: -5685743911228490597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 156
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c1ca2f415d92860800000000000000
+      internalID: 7505764539937070189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 156
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12de86604b663f80800000000000000
+      internalID: -8127190553200766434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 44
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aece1fb5a354c700800000000000000
+      internalID: 559664225041960615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 44
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08122f068e0073650800000000000000
+      internalID: 6212435209039782272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 56
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce827618822edc30800000000000000
+      internalID: 4385981054992944835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0118093796c51a0800000000000000
+      internalID: -6819459790679240529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 53
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c97e5a54d6ee5c0800000000000000
+      internalID: -4184286857877021624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 45
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a600b8ea2e36cd0800000000000000
+      internalID: -2565958123386803689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 44
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b300d62d6d5a250800000000000000
+      internalID: 5955402281527556885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 45
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b055e4bf4d1c8940800000000000000
+      internalID: 5299643089682780344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 45
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6b5bb0740c569e0800000000000000
+      internalID: -1628684278852897066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_mushroom_main_flaten-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 45
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ff71b27c91e3e50800000000000000
+      internalID: 6790893631333465975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      red_mushroom_main_flaten-Sheet_0: 2369417890146106380
+      red_mushroom_main_flaten-Sheet_1: -2376164185050937290
+      red_mushroom_main_flaten-Sheet_10: -1557746998735144662
+      red_mushroom_main_flaten-Sheet_11: -6372435996689574111
+      red_mushroom_main_flaten-Sheet_12: 4379292070486467870
+      red_mushroom_main_flaten-Sheet_13: 1251359028039629302
+      red_mushroom_main_flaten-Sheet_14: -7795680297677603194
+      red_mushroom_main_flaten-Sheet_15: -5641915133541205763
+      red_mushroom_main_flaten-Sheet_16: -5119617140723749261
+      red_mushroom_main_flaten-Sheet_17: -3269940670256827885
+      red_mushroom_main_flaten-Sheet_18: -2860096243165388377
+      red_mushroom_main_flaten-Sheet_19: 2351562815369397117
+      red_mushroom_main_flaten-Sheet_2: -6443519279869288601
+      red_mushroom_main_flaten-Sheet_20: -6057858812845633851
+      red_mushroom_main_flaten-Sheet_21: 2473733753834446057
+      red_mushroom_main_flaten-Sheet_22: 1800707993089764608
+      red_mushroom_main_flaten-Sheet_23: 1778397520091900169
+      red_mushroom_main_flaten-Sheet_24: -6998705536137014254
+      red_mushroom_main_flaten-Sheet_25: 5279302110248208298
+      red_mushroom_main_flaten-Sheet_26: -6418164296095350276
+      red_mushroom_main_flaten-Sheet_27: -853502541510612731
+      red_mushroom_main_flaten-Sheet_28: -191991513599315012
+      red_mushroom_main_flaten-Sheet_29: 1678787876970065066
+      red_mushroom_main_flaten-Sheet_3: -2743041195947430575
+      red_mushroom_main_flaten-Sheet_30: 8993289097954089016
+      red_mushroom_main_flaten-Sheet_31: -5592502617275980844
+      red_mushroom_main_flaten-Sheet_32: -503005501570585353
+      red_mushroom_main_flaten-Sheet_33: 1724999416774399706
+      red_mushroom_main_flaten-Sheet_34: 2904848282925068191
+      red_mushroom_main_flaten-Sheet_35: -234271016221307007
+      red_mushroom_main_flaten-Sheet_36: 5242133517856214776
+      red_mushroom_main_flaten-Sheet_37: 4977170877660128617
+      red_mushroom_main_flaten-Sheet_38: 7942124672645847027
+      red_mushroom_main_flaten-Sheet_39: -4345505937082992943
+      red_mushroom_main_flaten-Sheet_4: 2061081446471857594
+      red_mushroom_main_flaten-Sheet_40: 4006289566594636261
+      red_mushroom_main_flaten-Sheet_41: -6455968772731614661
+      red_mushroom_main_flaten-Sheet_42: -7254905866109685831
+      red_mushroom_main_flaten-Sheet_43: -5318335118841720306
+      red_mushroom_main_flaten-Sheet_44: 3240599329849652342
+      red_mushroom_main_flaten-Sheet_45: 5639935089470221416
+      red_mushroom_main_flaten-Sheet_46: 105728329236534431
+      red_mushroom_main_flaten-Sheet_47: -1734116843764392804
+      red_mushroom_main_flaten-Sheet_48: 3906679704448474125
+      red_mushroom_main_flaten-Sheet_49: -5009584979636003518
+      red_mushroom_main_flaten-Sheet_5: 3445091114182681077
+      red_mushroom_main_flaten-Sheet_50: -566067843245060184
+      red_mushroom_main_flaten-Sheet_51: -1481762790543454480
+      red_mushroom_main_flaten-Sheet_52: 855337851050771719
+      red_mushroom_main_flaten-Sheet_53: -3992682425328176132
+      red_mushroom_main_flaten-Sheet_54: -5685743911228490597
+      red_mushroom_main_flaten-Sheet_55: 7505764539937070189
+      red_mushroom_main_flaten-Sheet_56: -8127190553200766434
+      red_mushroom_main_flaten-Sheet_57: 559664225041960615
+      red_mushroom_main_flaten-Sheet_58: 6212435209039782272
+      red_mushroom_main_flaten-Sheet_59: 4385981054992944835
+      red_mushroom_main_flaten-Sheet_6: 6955440006829544463
+      red_mushroom_main_flaten-Sheet_60: -6819459790679240529
+      red_mushroom_main_flaten-Sheet_61: -4184286857877021624
+      red_mushroom_main_flaten-Sheet_62: -2565958123386803689
+      red_mushroom_main_flaten-Sheet_63: 5955402281527556885
+      red_mushroom_main_flaten-Sheet_64: 5299643089682780344
+      red_mushroom_main_flaten-Sheet_65: -1628684278852897066
+      red_mushroom_main_flaten-Sheet_66: 6790893631333465975
+      red_mushroom_main_flaten-Sheet_7: -5361119544733496462
+      red_mushroom_main_flaten-Sheet_8: 3074781321484345035
+      red_mushroom_main_flaten-Sheet_9: 7742092389955206474
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

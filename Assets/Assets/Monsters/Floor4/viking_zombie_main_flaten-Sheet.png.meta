@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: 5e879373b7de52f469d6f98b096e6ba5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -585133434842979526
+    second: viking_zombie_main_flaten-Sheet_0
+  - first:
+      213: -3570623669274770895
+    second: viking_zombie_main_flaten-Sheet_1
+  - first:
+      213: -6804287613963842185
+    second: viking_zombie_main_flaten-Sheet_2
+  - first:
+      213: 2586242500776876779
+    second: viking_zombie_main_flaten-Sheet_3
+  - first:
+      213: 7714411155239380675
+    second: viking_zombie_main_flaten-Sheet_4
+  - first:
+      213: -6664675820116318806
+    second: viking_zombie_main_flaten-Sheet_5
+  - first:
+      213: -6336770009979688075
+    second: viking_zombie_main_flaten-Sheet_6
+  - first:
+      213: 538438248529525205
+    second: viking_zombie_main_flaten-Sheet_7
+  - first:
+      213: -4674924414309319948
+    second: viking_zombie_main_flaten-Sheet_8
+  - first:
+      213: -4489163431972974754
+    second: viking_zombie_main_flaten-Sheet_9
+  - first:
+      213: 1256236160756074349
+    second: viking_zombie_main_flaten-Sheet_10
+  - first:
+      213: -7822526279751158609
+    second: viking_zombie_main_flaten-Sheet_11
+  - first:
+      213: 1376262106219524034
+    second: viking_zombie_main_flaten-Sheet_12
+  - first:
+      213: -2046244915927904457
+    second: viking_zombie_main_flaten-Sheet_13
+  - first:
+      213: 3006868530096939517
+    second: viking_zombie_main_flaten-Sheet_14
+  - first:
+      213: -5090520832408358835
+    second: viking_zombie_main_flaten-Sheet_15
+  - first:
+      213: -705550149081846086
+    second: viking_zombie_main_flaten-Sheet_16
+  - first:
+      213: 2150700368457227809
+    second: viking_zombie_main_flaten-Sheet_17
+  - first:
+      213: -9024566350382397921
+    second: viking_zombie_main_flaten-Sheet_18
+  - first:
+      213: -6241460984283776466
+    second: viking_zombie_main_flaten-Sheet_19
+  - first:
+      213: 1075283061393255945
+    second: viking_zombie_main_flaten-Sheet_20
+  - first:
+      213: 1677661984529309794
+    second: viking_zombie_main_flaten-Sheet_21
+  - first:
+      213: 4301570857821706535
+    second: viking_zombie_main_flaten-Sheet_22
+  - first:
+      213: 221286401499217970
+    second: viking_zombie_main_flaten-Sheet_23
+  - first:
+      213: -6748572028867507934
+    second: viking_zombie_main_flaten-Sheet_24
+  - first:
+      213: -8972225495931048438
+    second: viking_zombie_main_flaten-Sheet_25
+  - first:
+      213: 1286513344124371943
+    second: viking_zombie_main_flaten-Sheet_26
+  - first:
+      213: -9027247229414305301
+    second: viking_zombie_main_flaten-Sheet_27
+  - first:
+      213: -8951629253141390627
+    second: viking_zombie_main_flaten-Sheet_28
+  - first:
+      213: -6331949507876341758
+    second: viking_zombie_main_flaten-Sheet_29
+  - first:
+      213: 2898201593414121428
+    second: viking_zombie_main_flaten-Sheet_30
+  - first:
+      213: 6338752591263203721
+    second: viking_zombie_main_flaten-Sheet_31
+  - first:
+      213: 1159729631129671803
+    second: viking_zombie_main_flaten-Sheet_32
+  - first:
+      213: -287130800495484705
+    second: viking_zombie_main_flaten-Sheet_33
+  - first:
+      213: -4786970293586289131
+    second: viking_zombie_main_flaten-Sheet_34
+  - first:
+      213: 8747298729127705451
+    second: viking_zombie_main_flaten-Sheet_35
+  - first:
+      213: -8010205941304350379
+    second: viking_zombie_main_flaten-Sheet_36
+  - first:
+      213: 4642414108260918121
+    second: viking_zombie_main_flaten-Sheet_37
+  - first:
+      213: -5218715089269512239
+    second: viking_zombie_main_flaten-Sheet_38
+  - first:
+      213: -4777703948363684768
+    second: viking_zombie_main_flaten-Sheet_39
+  - first:
+      213: 8358735208482802396
+    second: viking_zombie_main_flaten-Sheet_40
+  - first:
+      213: -2401989025543641174
+    second: viking_zombie_main_flaten-Sheet_41
+  - first:
+      213: 6652273941655858111
+    second: viking_zombie_main_flaten-Sheet_42
+  - first:
+      213: -7808314722394421972
+    second: viking_zombie_main_flaten-Sheet_43
+  - first:
+      213: 3761289892896109520
+    second: viking_zombie_main_flaten-Sheet_44
+  - first:
+      213: 1021107702926770798
+    second: viking_zombie_main_flaten-Sheet_45
+  - first:
+      213: 5660535372784234732
+    second: viking_zombie_main_flaten-Sheet_46
+  - first:
+      213: -5114925720909053522
+    second: viking_zombie_main_flaten-Sheet_47
+  - first:
+      213: -553799368079907823
+    second: viking_zombie_main_flaten-Sheet_48
+  - first:
+      213: 8120107004702525506
+    second: viking_zombie_main_flaten-Sheet_49
+  - first:
+      213: -7469244195097422860
+    second: viking_zombie_main_flaten-Sheet_50
+  - first:
+      213: -5956328462516477073
+    second: viking_zombie_main_flaten-Sheet_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 604
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33eafdbd3031e7f0800000000000000
+      internalID: -585133434842979526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 604
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1328646d0b8927ec0800000000000000
+      internalID: -3570623669274770895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 604
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d481c37705291a0800000000000000
+      internalID: -6804287613963842185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 492
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bead2d91add24e320800000000000000
+      internalID: 2586242500776876779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 492
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6aa5fa2181f0b60800000000000000
+      internalID: 7714411155239380675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 492
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5e4de07a05283a0800000000000000
+      internalID: -6664675820116318806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 492
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57befc3ef354f08a0800000000000000
+      internalID: -6336770009979688075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 492
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9f519fbbae87700800000000000000
+      internalID: 538438248529525205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 492
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4faba4593055f1fb0800000000000000
+      internalID: -4674924414309319948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 492
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fc39aa4a943b1c0800000000000000
+      internalID: -4489163431972974754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 492
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67cdd3e12c0f6110800000000000000
+      internalID: 1256236160756074349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 380
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa436494bcdc07390800000000000000
+      internalID: -7822526279751158609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 380
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfab070817791310800000000000000
+      internalID: 1376262106219524034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 380
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f0ba627174a93e0800000000000000
+      internalID: -2046244915927904457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 379
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1aabe3ffa8ab920800000000000000
+      internalID: 3006868530096939517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 380
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40f29e0646da59b0800000000000000
+      internalID: -5090520832408358835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 380
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abea0c8a0e16536f0800000000000000
+      internalID: -705550149081846086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 380
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ed1381792d8dd10800000000000000
+      internalID: 2150700368457227809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 380
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f168381f7bc42c280800000000000000
+      internalID: -9024566350382397921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 380
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a3e40bd40e169a0800000000000000
+      internalID: -6241460984283776466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 380
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ee65b4f3c2cee00800000000000000
+      internalID: 1075283061393255945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 380
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260eb01bfa0484710800000000000000
+      internalID: 1677661984529309794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 268
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72992ac87ef32bb30800000000000000
+      internalID: 4301570857821706535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 268
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2304cfa4fca221300800000000000000
+      internalID: 221286401499217970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 268
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2290736ce714852a0800000000000000
+      internalID: -6748572028867507934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 268
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ea356c2704c7380800000000000000
+      internalID: -8972225495931048438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 268
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3455bf11d9ad110800000000000000
+      internalID: 1286513344124371943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 268
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be191272976c8b280800000000000000
+      internalID: -9027247229414305301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 268
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda138d3f9c65c380800000000000000
+      internalID: -8951629253141390627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 268
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208325f78756028a0800000000000000
+      internalID: -6331949507876341758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 268
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d77bee6efa783820800000000000000
+      internalID: 2898201593414121428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 268
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9818459c5e5c7f750800000000000000
+      internalID: 6338752591263203721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 268
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b789afa74ff281010800000000000000
+      internalID: 1159729631129671803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 268
+        width: 55
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0a468ee08e30cf0800000000000000
+      internalID: -287130800495484705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 268
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e117461e3419db0800000000000000
+      internalID: -4786970293586289131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 271
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bf1e559d5a46970800000000000000
+      internalID: 8747298729127705451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 268
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559a4d2e22806d090800000000000000
+      internalID: -8010205941304350379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 268
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963672fe80b2d6040800000000000000
+      internalID: 4642414108260918121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 156
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7ae18b6466397b0800000000000000
+      internalID: -5218715089269512239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 156
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0642dc3829f22bdb0800000000000000
+      internalID: -4777703948363684768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 156
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda0b29b261300470800000000000000
+      internalID: 8358735208482802396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7a51225bb6aaed0800000000000000
+      internalID: -2401989025543641174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 45
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb2cf897ef915c50800000000000000
+      internalID: 6652273941655858111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 58
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c254a35512b43a390800000000000000
+      internalID: -7808314722394421972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 45
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3f65bba39c23430800000000000000
+      internalID: 3761289892896109520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 58
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e628d56bb04bb2e00800000000000000
+      internalID: 1021107702926770798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 46
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce076554ee24e8e40800000000000000
+      internalID: 5660535372784234732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 57
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea105b828222409b0800000000000000
+      internalID: -5114925720909053522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 54
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114e2cca8628058f0800000000000000
+      internalID: -553799368079907823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 47
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24884717c4a60b070800000000000000
+      internalID: 8120107004702525506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 47
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3d1927af9e75890800000000000000
+      internalID: -7469244195097422860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking_zombie_main_flaten-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 46
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63282242ded65da0800000000000000
+      internalID: -5956328462516477073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      viking_zombie_main_flaten-Sheet_0: -585133434842979526
+      viking_zombie_main_flaten-Sheet_1: -3570623669274770895
+      viking_zombie_main_flaten-Sheet_10: 1256236160756074349
+      viking_zombie_main_flaten-Sheet_11: -7822526279751158609
+      viking_zombie_main_flaten-Sheet_12: 1376262106219524034
+      viking_zombie_main_flaten-Sheet_13: -2046244915927904457
+      viking_zombie_main_flaten-Sheet_14: 3006868530096939517
+      viking_zombie_main_flaten-Sheet_15: -5090520832408358835
+      viking_zombie_main_flaten-Sheet_16: -705550149081846086
+      viking_zombie_main_flaten-Sheet_17: 2150700368457227809
+      viking_zombie_main_flaten-Sheet_18: -9024566350382397921
+      viking_zombie_main_flaten-Sheet_19: -6241460984283776466
+      viking_zombie_main_flaten-Sheet_2: -6804287613963842185
+      viking_zombie_main_flaten-Sheet_20: 1075283061393255945
+      viking_zombie_main_flaten-Sheet_21: 1677661984529309794
+      viking_zombie_main_flaten-Sheet_22: 4301570857821706535
+      viking_zombie_main_flaten-Sheet_23: 221286401499217970
+      viking_zombie_main_flaten-Sheet_24: -6748572028867507934
+      viking_zombie_main_flaten-Sheet_25: -8972225495931048438
+      viking_zombie_main_flaten-Sheet_26: 1286513344124371943
+      viking_zombie_main_flaten-Sheet_27: -9027247229414305301
+      viking_zombie_main_flaten-Sheet_28: -8951629253141390627
+      viking_zombie_main_flaten-Sheet_29: -6331949507876341758
+      viking_zombie_main_flaten-Sheet_3: 2586242500776876779
+      viking_zombie_main_flaten-Sheet_30: 2898201593414121428
+      viking_zombie_main_flaten-Sheet_31: 6338752591263203721
+      viking_zombie_main_flaten-Sheet_32: 1159729631129671803
+      viking_zombie_main_flaten-Sheet_33: -287130800495484705
+      viking_zombie_main_flaten-Sheet_34: -4786970293586289131
+      viking_zombie_main_flaten-Sheet_35: 8747298729127705451
+      viking_zombie_main_flaten-Sheet_36: -8010205941304350379
+      viking_zombie_main_flaten-Sheet_37: 4642414108260918121
+      viking_zombie_main_flaten-Sheet_38: -5218715089269512239
+      viking_zombie_main_flaten-Sheet_39: -4777703948363684768
+      viking_zombie_main_flaten-Sheet_4: 7714411155239380675
+      viking_zombie_main_flaten-Sheet_40: 8358735208482802396
+      viking_zombie_main_flaten-Sheet_41: -2401989025543641174
+      viking_zombie_main_flaten-Sheet_42: 6652273941655858111
+      viking_zombie_main_flaten-Sheet_43: -7808314722394421972
+      viking_zombie_main_flaten-Sheet_44: 3761289892896109520
+      viking_zombie_main_flaten-Sheet_45: 1021107702926770798
+      viking_zombie_main_flaten-Sheet_46: 5660535372784234732
+      viking_zombie_main_flaten-Sheet_47: -5114925720909053522
+      viking_zombie_main_flaten-Sheet_48: -553799368079907823
+      viking_zombie_main_flaten-Sheet_49: 8120107004702525506
+      viking_zombie_main_flaten-Sheet_5: -6664675820116318806
+      viking_zombie_main_flaten-Sheet_50: -7469244195097422860
+      viking_zombie_main_flaten-Sheet_51: -5956328462516477073
+      viking_zombie_main_flaten-Sheet_6: -6336770009979688075
+      viking_zombie_main_flaten-Sheet_7: 538438248529525205
+      viking_zombie_main_flaten-Sheet_8: -4674924414309319948
+      viking_zombie_main_flaten-Sheet_9: -4489163431972974754
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

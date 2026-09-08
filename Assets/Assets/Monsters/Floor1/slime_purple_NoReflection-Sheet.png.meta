@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 0f28ec6b8a721bb4983e465c5855324a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2536616644617454812
+    second: purple_slime_NoReflection-Sheet_0
+  - first:
+      213: 5268289189088354396
+    second: purple_slime_NoReflection-Sheet_1
+  - first:
+      213: 3971043817134048848
+    second: purple_slime_NoReflection-Sheet_2
+  - first:
+      213: 6064501090282802407
+    second: purple_slime_NoReflection-Sheet_3
+  - first:
+      213: -5012528173469203269
+    second: purple_slime_NoReflection-Sheet_4
+  - first:
+      213: -7861831991064728590
+    second: purple_slime_NoReflection-Sheet_5
+  - first:
+      213: 4440209116864811162
+    second: purple_slime_NoReflection-Sheet_6
+  - first:
+      213: 5412548499018151589
+    second: purple_slime_NoReflection-Sheet_7
+  - first:
+      213: -2706909802073689411
+    second: purple_slime_NoReflection-Sheet_8
+  - first:
+      213: -6087624518038272580
+    second: purple_slime_NoReflection-Sheet_9
+  - first:
+      213: 8743342368120145251
+    second: purple_slime_NoReflection-Sheet_10
+  - first:
+      213: -5375340809328147786
+    second: purple_slime_NoReflection-Sheet_11
+  - first:
+      213: -1674723177845805110
+    second: purple_slime_NoReflection-Sheet_12
+  - first:
+      213: -8132653328937715320
+    second: purple_slime_NoReflection-Sheet_13
+  - first:
+      213: -4628409945387019824
+    second: purple_slime_NoReflection-Sheet_14
+  - first:
+      213: 7585600180928794861
+    second: purple_slime_NoReflection-Sheet_15
+  - first:
+      213: -3674963367556545102
+    second: purple_slime_NoReflection-Sheet_16
+  - first:
+      213: -2860094753780855416
+    second: purple_slime_NoReflection-Sheet_17
+  - first:
+      213: 3184756163547341919
+    second: purple_slime_NoReflection-Sheet_18
+  - first:
+      213: -6049678070738284172
+    second: purple_slime_NoReflection-Sheet_19
+  - first:
+      213: 2254141814460771896
+    second: purple_slime_NoReflection-Sheet_20
+  - first:
+      213: -8345488488991052110
+    second: purple_slime_NoReflection-Sheet_21
+  - first:
+      213: 23355555701352897
+    second: purple_slime_NoReflection-Sheet_22
+  - first:
+      213: 8215454841975956716
+    second: purple_slime_NoReflection-Sheet_23
+  - first:
+      213: -4476180460459528078
+    second: purple_slime_NoReflection-Sheet_24
+  - first:
+      213: -2688096383941594075
+    second: purple_slime_NoReflection-Sheet_25
+  - first:
+      213: -2773652140512476332
+    second: purple_slime_NoReflection-Sheet_26
+  - first:
+      213: 808859992166510172
+    second: purple_slime_NoReflection-Sheet_27
+  - first:
+      213: 7545312661076277585
+    second: purple_slime_NoReflection-Sheet_28
+  - first:
+      213: 3355944555501950863
+    second: purple_slime_NoReflection-Sheet_29
+  - first:
+      213: 8023616270153385825
+    second: purple_slime_NoReflection-Sheet_30
+  - first:
+      213: -6089624051999241419
+    second: purple_slime_NoReflection-Sheet_31
+  - first:
+      213: -6188299992537270468
+    second: purple_slime_NoReflection-Sheet_32
+  - first:
+      213: 5720720084515353262
+    second: purple_slime_NoReflection-Sheet_33
+  - first:
+      213: -4101345014405534675
+    second: purple_slime_NoReflection-Sheet_34
+  - first:
+      213: 1652287214614821491
+    second: purple_slime_NoReflection-Sheet_35
+  - first:
+      213: -8793151074022940082
+    second: purple_slime_NoReflection-Sheet_36
+  - first:
+      213: -8710879638613796515
+    second: purple_slime_NoReflection-Sheet_37
+  - first:
+      213: 445395269468030653
+    second: purple_slime_NoReflection-Sheet_38
+  - first:
+      213: -1924946293241047939
+    second: purple_slime_NoReflection-Sheet_39
+  - first:
+      213: -3934175790752001741
+    second: purple_slime_NoReflection-Sheet_40
+  - first:
+      213: 3293933987728825367
+    second: purple_slime_NoReflection-Sheet_41
+  - first:
+      213: 8713302308052739892
+    second: purple_slime_NoReflection-Sheet_42
+  - first:
+      213: -5039690091362261473
+    second: purple_slime_NoReflection-Sheet_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 606
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd444c1166fd33320800000000000000
+      internalID: 2536616644617454812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 606
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5064a9da19bc1940800000000000000
+      internalID: 5268289189088354396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 606
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05649cbef4bfb1730800000000000000
+      internalID: 3971043817134048848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 606
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec864a4c9f692450800000000000000
+      internalID: 6064501090282802407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 606
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb40bb90f2cef6ab0800000000000000
+      internalID: -5012528173469203269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 605
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbe8c8357925e290800000000000000
+      internalID: -7861831991064728590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 605
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a909d23aaaace9d30800000000000000
+      internalID: 4440209116864811162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 497
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6fc85de2c3d1b40800000000000000
+      internalID: 5412548499018151589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 499
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2ff5870ef1f6ad0800000000000000
+      internalID: -2706909802073689411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 503
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5ce5421c9648ba0800000000000000
+      internalID: -6087624518038272580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 499
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3658c614f87965970800000000000000
+      internalID: 8743342368120145251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 494
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2c5518304f665b0800000000000000
+      internalID: -5375340809328147786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 493
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf236f842032c8e0800000000000000
+      internalID: -1674723177845805110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 493
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889f44fc2e2032f80800000000000000
+      internalID: -8132653328937715320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 382
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d152525da594cfb0800000000000000
+      internalID: -4628409945387019824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 381
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de05660ac27754960800000000000000
+      internalID: 7585600180928794861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 381
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5083ab948effcc0800000000000000
+      internalID: -3674963367556545102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 381
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d0fe099f6ee48d0800000000000000
+      internalID: -2860094753780855416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 381
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54a9707bd6823c20800000000000000
+      internalID: 3184756163547341919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 382
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4719c24e8d93b0ca0800000000000000
+      internalID: -6049678070738284172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 382
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ee94c8902584f10800000000000000
+      internalID: 2254141814460771896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 382
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bea3908f6ede2c80800000000000000
+      internalID: -8345488488991052110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 270
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c96c1111c9f25000800000000000000
+      internalID: 23355555701352897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 270
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce46d34c6a8230270800000000000000
+      internalID: 8215454841975956716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 270
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270f3c7469961e1c0800000000000000
+      internalID: -4476180460459528078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 268
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5243629b496f1bad0800000000000000
+      internalID: -2688096383941594075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 268
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453804ad2120289d0800000000000000
+      internalID: -2773652140512476332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 268
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e2c1a90e5a93b00800000000000000
+      internalID: 808859992166510172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 268
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15975b273e556b860800000000000000
+      internalID: 7545312661076277585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 269
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87999ceac5b29e20800000000000000
+      internalID: 3355944555501950863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 268
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167898c9c7c995f60800000000000000
+      internalID: 8023616270153385825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 157
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b09ec503f4d7ba0800000000000000
+      internalID: -6089624051999241419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 158
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37734d91fdbe1aa0800000000000000
+      internalID: -6188299992537270468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 157
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2faf07b94146f40800000000000000
+      internalID: 5720720084515353262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 158
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ce90370781517c0800000000000000
+      internalID: -4101345014405534675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 160
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a390ea77a1ee610800000000000000
+      internalID: 1652287214614821491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 158
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42a480bfa378f580800000000000000
+      internalID: -8793151074022940082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 156
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59dd33fe1dbc1780800000000000000
+      internalID: -8710879638613796515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 158
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6084543ac5e2600800000000000000
+      internalID: 445395269468030653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 158
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7499ab8b873945e0800000000000000
+      internalID: -1924946293241047939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 45
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331194466fff669c0800000000000000
+      internalID: -3934175790752001741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 43
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c9924828766bd20800000000000000
+      internalID: 3293933987728825367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 42
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437231cb84edbe870800000000000000
+      internalID: 8713302308052739892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime_NoReflection-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 38
+        width: 55
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16eb46309c6f0ab0800000000000000
+      internalID: -5039690091362261473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      purple_slime_NoReflection-Sheet_0: 2536616644617454812
+      purple_slime_NoReflection-Sheet_1: 5268289189088354396
+      purple_slime_NoReflection-Sheet_10: 8743342368120145251
+      purple_slime_NoReflection-Sheet_11: -5375340809328147786
+      purple_slime_NoReflection-Sheet_12: -1674723177845805110
+      purple_slime_NoReflection-Sheet_13: -8132653328937715320
+      purple_slime_NoReflection-Sheet_14: -4628409945387019824
+      purple_slime_NoReflection-Sheet_15: 7585600180928794861
+      purple_slime_NoReflection-Sheet_16: -3674963367556545102
+      purple_slime_NoReflection-Sheet_17: -2860094753780855416
+      purple_slime_NoReflection-Sheet_18: 3184756163547341919
+      purple_slime_NoReflection-Sheet_19: -6049678070738284172
+      purple_slime_NoReflection-Sheet_2: 3971043817134048848
+      purple_slime_NoReflection-Sheet_20: 2254141814460771896
+      purple_slime_NoReflection-Sheet_21: -8345488488991052110
+      purple_slime_NoReflection-Sheet_22: 23355555701352897
+      purple_slime_NoReflection-Sheet_23: 8215454841975956716
+      purple_slime_NoReflection-Sheet_24: -4476180460459528078
+      purple_slime_NoReflection-Sheet_25: -2688096383941594075
+      purple_slime_NoReflection-Sheet_26: -2773652140512476332
+      purple_slime_NoReflection-Sheet_27: 808859992166510172
+      purple_slime_NoReflection-Sheet_28: 7545312661076277585
+      purple_slime_NoReflection-Sheet_29: 3355944555501950863
+      purple_slime_NoReflection-Sheet_3: 6064501090282802407
+      purple_slime_NoReflection-Sheet_30: 8023616270153385825
+      purple_slime_NoReflection-Sheet_31: -6089624051999241419
+      purple_slime_NoReflection-Sheet_32: -6188299992537270468
+      purple_slime_NoReflection-Sheet_33: 5720720084515353262
+      purple_slime_NoReflection-Sheet_34: -4101345014405534675
+      purple_slime_NoReflection-Sheet_35: 1652287214614821491
+      purple_slime_NoReflection-Sheet_36: -8793151074022940082
+      purple_slime_NoReflection-Sheet_37: -8710879638613796515
+      purple_slime_NoReflection-Sheet_38: 445395269468030653
+      purple_slime_NoReflection-Sheet_39: -1924946293241047939
+      purple_slime_NoReflection-Sheet_4: -5012528173469203269
+      purple_slime_NoReflection-Sheet_40: -3934175790752001741
+      purple_slime_NoReflection-Sheet_41: 3293933987728825367
+      purple_slime_NoReflection-Sheet_42: 8713302308052739892
+      purple_slime_NoReflection-Sheet_43: -5039690091362261473
+      purple_slime_NoReflection-Sheet_5: -7861831991064728590
+      purple_slime_NoReflection-Sheet_6: 4440209116864811162
+      purple_slime_NoReflection-Sheet_7: 5412548499018151589
+      purple_slime_NoReflection-Sheet_8: -2706909802073689411
+      purple_slime_NoReflection-Sheet_9: -6087624518038272580
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

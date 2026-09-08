@@ -1,0 +1,1937 @@
+fileFormatVersion: 2
+guid: 1c53d46442193dc4ab87b52d59831851
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 685472466408950144
+    second: remi_main_flaten-Sheet_0
+  - first:
+      213: 3866350371038011584
+    second: remi_main_flaten-Sheet_1
+  - first:
+      213: -7121293122751396649
+    second: remi_main_flaten-Sheet_2
+  - first:
+      213: -53176164881512102
+    second: remi_main_flaten-Sheet_3
+  - first:
+      213: -324511680205947051
+    second: remi_main_flaten-Sheet_4
+  - first:
+      213: 8557434657215656404
+    second: remi_main_flaten-Sheet_5
+  - first:
+      213: 5238202903991603597
+    second: remi_main_flaten-Sheet_6
+  - first:
+      213: -6093053972451221743
+    second: remi_main_flaten-Sheet_7
+  - first:
+      213: -1077852844155671273
+    second: remi_main_flaten-Sheet_8
+  - first:
+      213: 8522685226723482270
+    second: remi_main_flaten-Sheet_9
+  - first:
+      213: 8764086004065180520
+    second: remi_main_flaten-Sheet_10
+  - first:
+      213: -8929402057660037092
+    second: remi_main_flaten-Sheet_11
+  - first:
+      213: -9055867760651709762
+    second: remi_main_flaten-Sheet_12
+  - first:
+      213: 6041840954222995037
+    second: remi_main_flaten-Sheet_13
+  - first:
+      213: 9075923045168768016
+    second: remi_main_flaten-Sheet_14
+  - first:
+      213: -8192238023060194815
+    second: remi_main_flaten-Sheet_15
+  - first:
+      213: 3414312158240497528
+    second: remi_main_flaten-Sheet_16
+  - first:
+      213: 5059052921799685652
+    second: remi_main_flaten-Sheet_17
+  - first:
+      213: 8009592386085645657
+    second: remi_main_flaten-Sheet_18
+  - first:
+      213: -3130053449147487204
+    second: remi_main_flaten-Sheet_19
+  - first:
+      213: -1455507451753763976
+    second: remi_main_flaten-Sheet_20
+  - first:
+      213: -1347264456139307812
+    second: remi_main_flaten-Sheet_21
+  - first:
+      213: -2755647611816337404
+    second: remi_main_flaten-Sheet_22
+  - first:
+      213: -7518886343191865255
+    second: remi_main_flaten-Sheet_23
+  - first:
+      213: 7840296191605956377
+    second: remi_main_flaten-Sheet_24
+  - first:
+      213: 8953556170955604883
+    second: remi_main_flaten-Sheet_25
+  - first:
+      213: -4215680420493199931
+    second: remi_main_flaten-Sheet_26
+  - first:
+      213: -4110518632516408615
+    second: remi_main_flaten-Sheet_27
+  - first:
+      213: 193781630237592594
+    second: remi_main_flaten-Sheet_28
+  - first:
+      213: -2883553773346487118
+    second: remi_main_flaten-Sheet_29
+  - first:
+      213: 6281873136117501264
+    second: remi_main_flaten-Sheet_30
+  - first:
+      213: 1845939254653190208
+    second: remi_main_flaten-Sheet_31
+  - first:
+      213: -199301983918844373
+    second: remi_main_flaten-Sheet_32
+  - first:
+      213: 7261156353004067618
+    second: remi_main_flaten-Sheet_33
+  - first:
+      213: 1172325887986244058
+    second: remi_main_flaten-Sheet_34
+  - first:
+      213: -3712181840273531523
+    second: remi_main_flaten-Sheet_35
+  - first:
+      213: -3362702468752517258
+    second: remi_main_flaten-Sheet_36
+  - first:
+      213: -5047783069043821672
+    second: remi_main_flaten-Sheet_37
+  - first:
+      213: -5192434736154614698
+    second: remi_main_flaten-Sheet_38
+  - first:
+      213: 699561766943742435
+    second: remi_main_flaten-Sheet_39
+  - first:
+      213: 823536425083565546
+    second: remi_main_flaten-Sheet_40
+  - first:
+      213: 5326317674690954446
+    second: remi_main_flaten-Sheet_41
+  - first:
+      213: -6755826691398569730
+    second: remi_main_flaten-Sheet_42
+  - first:
+      213: 2491054491184058141
+    second: remi_main_flaten-Sheet_43
+  - first:
+      213: 6582809400036320847
+    second: remi_main_flaten-Sheet_44
+  - first:
+      213: 5603356458222268150
+    second: remi_main_flaten-Sheet_45
+  - first:
+      213: 5867745300381890819
+    second: remi_main_flaten-Sheet_46
+  - first:
+      213: 1377436558131923280
+    second: remi_main_flaten-Sheet_47
+  - first:
+      213: 5087448599396492792
+    second: remi_main_flaten-Sheet_48
+  - first:
+      213: -7414839436396000395
+    second: remi_main_flaten-Sheet_49
+  - first:
+      213: -1137160816231949516
+    second: remi_main_flaten-Sheet_50
+  - first:
+      213: -7480804323317524830
+    second: remi_main_flaten-Sheet_51
+  - first:
+      213: -1176424493172120882
+    second: remi_main_flaten-Sheet_52
+  - first:
+      213: -1974505419917373758
+    second: remi_main_flaten-Sheet_53
+  - first:
+      213: 915679192330984803
+    second: remi_main_flaten-Sheet_54
+  - first:
+      213: 2107721472037022891
+    second: remi_main_flaten-Sheet_55
+  - first:
+      213: 1979894281844946609
+    second: remi_main_flaten-Sheet_56
+  - first:
+      213: -3143063978727668220
+    second: remi_main_flaten-Sheet_57
+  - first:
+      213: 3605294307183574602
+    second: remi_main_flaten-Sheet_58
+  - first:
+      213: -1254040890506185498
+    second: remi_main_flaten-Sheet_59
+  - first:
+      213: -5062070093814848836
+    second: remi_main_flaten-Sheet_60
+  - first:
+      213: -1857881704191525888
+    second: remi_main_flaten-Sheet_61
+  - first:
+      213: -4895810636852603918
+    second: remi_main_flaten-Sheet_62
+  - first:
+      213: -6367316561359493483
+    second: remi_main_flaten-Sheet_63
+  - first:
+      213: 3405139663032161524
+    second: remi_main_flaten-Sheet_64
+  - first:
+      213: -2001381900791871133
+    second: remi_main_flaten-Sheet_65
+  - first:
+      213: -7950780804747655084
+    second: remi_main_flaten-Sheet_66
+  - first:
+      213: -2946870155537743630
+    second: remi_main_flaten-Sheet_67
+  - first:
+      213: 6461064835630046565
+    second: remi_main_flaten-Sheet_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 828
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089cd9f8399438900800000000000000
+      internalID: 685472466408950144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 828
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0abea7d2908a530800000000000000
+      internalID: 3866350371038011584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 828
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d488f492a51c2d90800000000000000
+      internalID: -7121293122751396649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 828
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5948bd4f84134ff0800000000000000
+      internalID: -53176164881512102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 716
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ffbdf985a1f7bf0800000000000000
+      internalID: -324511680205947051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 716
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1b4f34b7d12c670800000000000000
+      internalID: 8557434657215656404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 716
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81d6d9b9c5d1b840800000000000000
+      internalID: 5238202903991603597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 716
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f13c6c1bf117ba0800000000000000
+      internalID: -6093053972451221743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 716
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71de4f78c82ba01f0800000000000000
+      internalID: -1077852844155671273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 716
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a925ffe09a64670800000000000000
+      internalID: 8522685226723482270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 604
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b174d59c940a970800000000000000
+      internalID: 8764086004065180520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 604
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1808887324641480800000000000000
+      internalID: -8929402057660037092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 604
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb251717048135280800000000000000
+      internalID: -9055867760651709762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 604
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d566ed9365ee8d350800000000000000
+      internalID: 6041840954222995037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 604
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014e01c5ce724fd70800000000000000
+      internalID: 9075923045168768016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 604
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a7c002ce25f4e80800000000000000
+      internalID: -8192238023060194815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 604
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fd83071d2126f20800000000000000
+      internalID: 3414312158240497528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 604
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416b5cf04dd553640800000000000000
+      internalID: 5059052921799685652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 604
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dee48a6d9c72f60800000000000000
+      internalID: 8009592386085645657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 604
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ce393c8f0df84d0800000000000000
+      internalID: -3130053449147487204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 604
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b684a2faffccbe0800000000000000
+      internalID: -1455507451753763976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 604
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd48e418d1e8d4de0800000000000000
+      internalID: -1347264456139307812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 604
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400a88bd819f1c9d0800000000000000
+      internalID: -2755647611816337404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 604
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958538725bc87a790800000000000000
+      internalID: -7518886343191865255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 492
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f558ab8d35ecc60800000000000000
+      internalID: 7840296191605956377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 492
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393c05646eb614c70800000000000000
+      internalID: 8953556170955604883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 492
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5fee14ef4ee75c0800000000000000
+      internalID: -4215680420493199931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 492
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da2c3a051184f6c0800000000000000
+      internalID: -4110518632516408615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 492
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cce42bd5370b200800000000000000
+      internalID: 193781630237592594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 492
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b402f0fe1f8bf7d0800000000000000
+      internalID: -2883553773346487118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 492
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d4a52a552bd2750800000000000000
+      internalID: 6281873136117501264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 492
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0408d8ec8f71e9910800000000000000
+      internalID: 1845939254653190208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 380
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b269c7dc6efeb3df0800000000000000
+      internalID: -199301983918844373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 380
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bd0675b3fc4c460800000000000000
+      internalID: 7261156353004067618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 380
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad91a621f20f44010800000000000000
+      internalID: 1172325887986244058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 380
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d17d4c84eab7cc0800000000000000
+      internalID: -3712181840273531523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 268
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6775da8cbe74551d0800000000000000
+      internalID: -3362702468752517258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 268
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89379620b0ca2f9b0800000000000000
+      internalID: -5047783069043821672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 263
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654ea104e14c0f7b0800000000000000
+      internalID: -5192434736154614698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 264
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9502978b755b900800000000000000
+      internalID: 699561766943742435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 265
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae573bce30acd6b00800000000000000
+      internalID: 823536425083565546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 266
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4c6d084b1eae940800000000000000
+      internalID: 5326317674690954446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 266
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0f5170b6b7e32a0800000000000000
+      internalID: -6755826691398569730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 268
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fca2f8cd0029220800000000000000
+      internalID: 2491054491184058141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 268
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f466449a546da5b50800000000000000
+      internalID: 6582809400036320847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 268
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6feaa3ac20f13cd40800000000000000
+      internalID: 5603356458222268150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 268
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309fab5134b6e6150800000000000000
+      internalID: 5867745300381890819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 268
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059071c6043ad1310800000000000000
+      internalID: 1377436558131923280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 268
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f52614fb8f3a9640800000000000000
+      internalID: 5087448599396492792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 268
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b0f0f61d2391990800000000000000
+      internalID: -7414839436396000395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 268
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b5008334ef730f0800000000000000
+      internalID: -1137160816231949516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 268
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6d37a5a18de2890800000000000000
+      internalID: -7480804323317524830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 268
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2286b08208cafe0800000000000000
+      internalID: -1176424493172120882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 156
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cecdbe28c52994e0800000000000000
+      internalID: -1974505419917373758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 156
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dda1bbf5525bc00800000000000000
+      internalID: 915679192330984803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 44
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacea3af281204d10800000000000000
+      internalID: 2107721472037022891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 44
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6f1320c5ff97b10800000000000000
+      internalID: 1979894281844946609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 44
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4068c99c6f79164d0800000000000000
+      internalID: -3143063978727668220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 44
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e3a6a1214980230800000000000000
+      internalID: 3605294307183574602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 44
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4709b4470c89ee0800000000000000
+      internalID: -1254040890506185498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 44
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2a906d11aefb9b0800000000000000
+      internalID: -5062070093814848836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 44
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c77fafe6a7736e0800000000000000
+      internalID: -1857881704191525888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 44
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f352d63a269e0cb0800000000000000
+      internalID: -4895810636852603918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 44
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596a4bba25fb2a7a0800000000000000
+      internalID: -6367316561359493483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 44
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f410a97b7c714f20800000000000000
+      internalID: 3405139663032161524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 42
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3698767d3c9a934e0800000000000000
+      internalID: -2001381900791871133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 54
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458850eabf629a190800000000000000
+      internalID: -7950780804747655084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 39
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f009fbe43d9a17d0800000000000000
+      internalID: -2946870155537743630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remi_main_flaten-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 44
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d1f7e5c305aa950800000000000000
+      internalID: 6461064835630046565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      remi_main_flaten-Sheet_0: 685472466408950144
+      remi_main_flaten-Sheet_1: 3866350371038011584
+      remi_main_flaten-Sheet_10: 8764086004065180520
+      remi_main_flaten-Sheet_11: -8929402057660037092
+      remi_main_flaten-Sheet_12: -9055867760651709762
+      remi_main_flaten-Sheet_13: 6041840954222995037
+      remi_main_flaten-Sheet_14: 9075923045168768016
+      remi_main_flaten-Sheet_15: -8192238023060194815
+      remi_main_flaten-Sheet_16: 3414312158240497528
+      remi_main_flaten-Sheet_17: 5059052921799685652
+      remi_main_flaten-Sheet_18: 8009592386085645657
+      remi_main_flaten-Sheet_19: -3130053449147487204
+      remi_main_flaten-Sheet_2: -7121293122751396649
+      remi_main_flaten-Sheet_20: -1455507451753763976
+      remi_main_flaten-Sheet_21: -1347264456139307812
+      remi_main_flaten-Sheet_22: -2755647611816337404
+      remi_main_flaten-Sheet_23: -7518886343191865255
+      remi_main_flaten-Sheet_24: 7840296191605956377
+      remi_main_flaten-Sheet_25: 8953556170955604883
+      remi_main_flaten-Sheet_26: -4215680420493199931
+      remi_main_flaten-Sheet_27: -4110518632516408615
+      remi_main_flaten-Sheet_28: 193781630237592594
+      remi_main_flaten-Sheet_29: -2883553773346487118
+      remi_main_flaten-Sheet_3: -53176164881512102
+      remi_main_flaten-Sheet_30: 6281873136117501264
+      remi_main_flaten-Sheet_31: 1845939254653190208
+      remi_main_flaten-Sheet_32: -199301983918844373
+      remi_main_flaten-Sheet_33: 7261156353004067618
+      remi_main_flaten-Sheet_34: 1172325887986244058
+      remi_main_flaten-Sheet_35: -3712181840273531523
+      remi_main_flaten-Sheet_36: -3362702468752517258
+      remi_main_flaten-Sheet_37: -5047783069043821672
+      remi_main_flaten-Sheet_38: -5192434736154614698
+      remi_main_flaten-Sheet_39: 699561766943742435
+      remi_main_flaten-Sheet_4: -324511680205947051
+      remi_main_flaten-Sheet_40: 823536425083565546
+      remi_main_flaten-Sheet_41: 5326317674690954446
+      remi_main_flaten-Sheet_42: -6755826691398569730
+      remi_main_flaten-Sheet_43: 2491054491184058141
+      remi_main_flaten-Sheet_44: 6582809400036320847
+      remi_main_flaten-Sheet_45: 5603356458222268150
+      remi_main_flaten-Sheet_46: 5867745300381890819
+      remi_main_flaten-Sheet_47: 1377436558131923280
+      remi_main_flaten-Sheet_48: 5087448599396492792
+      remi_main_flaten-Sheet_49: -7414839436396000395
+      remi_main_flaten-Sheet_5: 8557434657215656404
+      remi_main_flaten-Sheet_50: -1137160816231949516
+      remi_main_flaten-Sheet_51: -7480804323317524830
+      remi_main_flaten-Sheet_52: -1176424493172120882
+      remi_main_flaten-Sheet_53: -1974505419917373758
+      remi_main_flaten-Sheet_54: 915679192330984803
+      remi_main_flaten-Sheet_55: 2107721472037022891
+      remi_main_flaten-Sheet_56: 1979894281844946609
+      remi_main_flaten-Sheet_57: -3143063978727668220
+      remi_main_flaten-Sheet_58: 3605294307183574602
+      remi_main_flaten-Sheet_59: -1254040890506185498
+      remi_main_flaten-Sheet_6: 5238202903991603597
+      remi_main_flaten-Sheet_60: -5062070093814848836
+      remi_main_flaten-Sheet_61: -1857881704191525888
+      remi_main_flaten-Sheet_62: -4895810636852603918
+      remi_main_flaten-Sheet_63: -6367316561359493483
+      remi_main_flaten-Sheet_64: 3405139663032161524
+      remi_main_flaten-Sheet_65: -2001381900791871133
+      remi_main_flaten-Sheet_66: -7950780804747655084
+      remi_main_flaten-Sheet_67: -2946870155537743630
+      remi_main_flaten-Sheet_68: 6461064835630046565
+      remi_main_flaten-Sheet_7: -6093053972451221743
+      remi_main_flaten-Sheet_8: -1077852844155671273
+      remi_main_flaten-Sheet_9: 8522685226723482270
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

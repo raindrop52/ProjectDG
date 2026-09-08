@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 3928e4fcb4602b346b59746690c64111
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7375020980297190222
+    second: deathslime_main_flaten-Sheet_0
+  - first:
+      213: 129690674956088628
+    second: deathslime_main_flaten-Sheet_1
+  - first:
+      213: 6300698183956392702
+    second: deathslime_main_flaten-Sheet_2
+  - first:
+      213: 3772448716315580885
+    second: deathslime_main_flaten-Sheet_3
+  - first:
+      213: -2291149742527842382
+    second: deathslime_main_flaten-Sheet_4
+  - first:
+      213: -2303292790335041634
+    second: deathslime_main_flaten-Sheet_5
+  - first:
+      213: 3091775001878312842
+    second: deathslime_main_flaten-Sheet_6
+  - first:
+      213: -1768931962217375298
+    second: deathslime_main_flaten-Sheet_7
+  - first:
+      213: -4776244424370620580
+    second: deathslime_main_flaten-Sheet_8
+  - first:
+      213: -7253940697971039878
+    second: deathslime_main_flaten-Sheet_9
+  - first:
+      213: 2476678313196790793
+    second: deathslime_main_flaten-Sheet_10
+  - first:
+      213: -5214905615245711643
+    second: deathslime_main_flaten-Sheet_11
+  - first:
+      213: -5678698717808172286
+    second: deathslime_main_flaten-Sheet_12
+  - first:
+      213: 3745593062480656596
+    second: deathslime_main_flaten-Sheet_13
+  - first:
+      213: -7451210182044744665
+    second: deathslime_main_flaten-Sheet_14
+  - first:
+      213: -3460119474220974858
+    second: deathslime_main_flaten-Sheet_15
+  - first:
+      213: -2429999710184404483
+    second: deathslime_main_flaten-Sheet_16
+  - first:
+      213: 4140413977188552634
+    second: deathslime_main_flaten-Sheet_17
+  - first:
+      213: 2907745078371901123
+    second: deathslime_main_flaten-Sheet_18
+  - first:
+      213: 760977676952608275
+    second: deathslime_main_flaten-Sheet_19
+  - first:
+      213: -7150137840172694446
+    second: deathslime_main_flaten-Sheet_20
+  - first:
+      213: -8593701131710291662
+    second: deathslime_main_flaten-Sheet_21
+  - first:
+      213: 8871362191687991038
+    second: deathslime_main_flaten-Sheet_22
+  - first:
+      213: 5787218297554170891
+    second: deathslime_main_flaten-Sheet_23
+  - first:
+      213: -6353680471826122632
+    second: deathslime_main_flaten-Sheet_24
+  - first:
+      213: -442554044722999462
+    second: deathslime_main_flaten-Sheet_25
+  - first:
+      213: 5220206012924552646
+    second: deathslime_main_flaten-Sheet_26
+  - first:
+      213: -9091275799377433565
+    second: deathslime_main_flaten-Sheet_27
+  - first:
+      213: 4369076479803217885
+    second: deathslime_main_flaten-Sheet_28
+  - first:
+      213: 2349609749814543109
+    second: deathslime_main_flaten-Sheet_29
+  - first:
+      213: -1572502275595889612
+    second: deathslime_main_flaten-Sheet_30
+  - first:
+      213: -6063409886368995120
+    second: deathslime_main_flaten-Sheet_31
+  - first:
+      213: 4957988967529294756
+    second: deathslime_main_flaten-Sheet_32
+  - first:
+      213: 2666112990648958755
+    second: deathslime_main_flaten-Sheet_33
+  - first:
+      213: 6053585382510693316
+    second: deathslime_main_flaten-Sheet_34
+  - first:
+      213: -9077220153544597144
+    second: deathslime_main_flaten-Sheet_35
+  - first:
+      213: 752690414288954697
+    second: deathslime_main_flaten-Sheet_36
+  - first:
+      213: 7613036879000622738
+    second: deathslime_main_flaten-Sheet_37
+  - first:
+      213: 5578912213595841665
+    second: deathslime_main_flaten-Sheet_38
+  - first:
+      213: 4526791455972390656
+    second: deathslime_main_flaten-Sheet_39
+  - first:
+      213: 1107597897916743694
+    second: deathslime_main_flaten-Sheet_40
+  - first:
+      213: -1735436709032928956
+    second: deathslime_main_flaten-Sheet_41
+  - first:
+      213: 637267256077677682
+    second: deathslime_main_flaten-Sheet_42
+  - first:
+      213: -3214352831123640019
+    second: deathslime_main_flaten-Sheet_43
+  - first:
+      213: -6359474425079845126
+    second: deathslime_main_flaten-Sheet_44
+  - first:
+      213: 2904697116681366529
+    second: deathslime_main_flaten-Sheet_45
+  - first:
+      213: -2357120012881669607
+    second: deathslime_main_flaten-Sheet_46
+  - first:
+      213: -1145688419098776428
+    second: deathslime_main_flaten-Sheet_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 493
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b435523e79a6a990800000000000000
+      internalID: -7375020980297190222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 493
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43530735bf0ccc100800000000000000
+      internalID: 129690674956088628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 381
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa6ba3ad93907750800000000000000
+      internalID: 6300698183956392702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 381
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d95e55ce1e6a5430800000000000000
+      internalID: 3772448716315580885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 381
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7766db2733430e0800000000000000
+      internalID: -2291149742527842382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 381
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f8c5a196f0900e0800000000000000
+      internalID: -2303292790335041634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 381
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87b368bbf038ea20800000000000000
+      internalID: 3091775001878312842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 381
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9d238a0cd7377e0800000000000000
+      internalID: -1768931962217375298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 381
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57f2fc600f57bdb0800000000000000
+      internalID: -4776244424370620580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 381
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71efa34e53d45b90800000000000000
+      internalID: -7253940697971039878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 381
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9042209cdcdee5220800000000000000
+      internalID: 2476678313196790793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 381
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6e61209fee0a7b0800000000000000
+      internalID: -5214905615245711643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 381
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203e39a6a953131b0800000000000000
+      internalID: -5678698717808172286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 381
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8b35a9b050bf330800000000000000
+      internalID: 3745593062480656596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 269
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724037051dbf79890800000000000000
+      internalID: -7451210182044744665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 269
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcb5a2bbaf2bffc0800000000000000
+      internalID: -3460119474220974858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 269
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df908266328e64ed0800000000000000
+      internalID: -2429999710184404483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 269
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfc26d4394b57930800000000000000
+      internalID: 4140413977188552634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 269
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce5fbd2eb26a5820800000000000000
+      internalID: 2907745078371901123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 269
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e13c45a298f8a00800000000000000
+      internalID: 760977676952608275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 269
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2548d65748b95cc90800000000000000
+      internalID: -7150137840172694446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 157
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23129822a5a0db880800000000000000
+      internalID: -8593701131710291662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 157
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efeb46d29e86d1b70800000000000000
+      internalID: 8871362191687991038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 157
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b047b5f2164505050800000000000000
+      internalID: 5787218297554170891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 157
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878b77c264133d7a0800000000000000
+      internalID: -6353680471826122632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 157
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f8f5ae07bbbd9f0800000000000000
+      internalID: -442554044722999462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 157
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5e9bef5b5e17840800000000000000
+      internalID: 5220206012924552646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 157
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ca00ff3dc45d180800000000000000
+      internalID: -9091275799377433565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 157
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd75f27f8e312ac30800000000000000
+      internalID: 4369076479803217885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 157
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5038d726e9d7b9020800000000000000
+      internalID: 2349609749814543109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 155
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4341d9603895d2ae0800000000000000
+      internalID: -1572502275595889612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 155
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8626b65d07adba0800000000000000
+      internalID: -6063409886368995120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 155
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aba3e982b05ec440800000000000000
+      internalID: 4957988967529294756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 157
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f7faaa3afeff420800000000000000
+      internalID: 2666112990648958755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 157
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb0c0605d7a20450800000000000000
+      internalID: 6053585382510693316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 157
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86125ff0d5c370280800000000000000
+      internalID: -9077220153544597144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 157
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945e881a1f7127a00800000000000000
+      internalID: 752690414288954697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 157
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296d7c2b4b0f6a960800000000000000
+      internalID: 7613036879000622738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 45
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184e77499174c6d40800000000000000
+      internalID: 5578912213595841665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 45
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007f18168d462de30800000000000000
+      internalID: 4526791455972390656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 45
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e000c4b7b6afe5f00800000000000000
+      internalID: 1107597897916743694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 45
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4495be3028d7ae7e0800000000000000
+      internalID: -1735436709032928956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 45
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2747f79613708d800800000000000000
+      internalID: 637267256077677682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 44
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21ba1661235463d0800000000000000
+      internalID: -3214352831123640019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 44
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe2fee44bb9eb7a0800000000000000
+      internalID: -6359474425079845126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 44
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ce4eb43ae8f4820800000000000000
+      internalID: 2904697116681366529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 44
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912593b36d3d94fd0800000000000000
+      internalID: -2357120012881669607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathslime_main_flaten-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 44
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ca654f372b910f0800000000000000
+      internalID: -1145688419098776428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      deathslime_main_flaten-Sheet_0: -7375020980297190222
+      deathslime_main_flaten-Sheet_1: 129690674956088628
+      deathslime_main_flaten-Sheet_10: 2476678313196790793
+      deathslime_main_flaten-Sheet_11: -5214905615245711643
+      deathslime_main_flaten-Sheet_12: -5678698717808172286
+      deathslime_main_flaten-Sheet_13: 3745593062480656596
+      deathslime_main_flaten-Sheet_14: -7451210182044744665
+      deathslime_main_flaten-Sheet_15: -3460119474220974858
+      deathslime_main_flaten-Sheet_16: -2429999710184404483
+      deathslime_main_flaten-Sheet_17: 4140413977188552634
+      deathslime_main_flaten-Sheet_18: 2907745078371901123
+      deathslime_main_flaten-Sheet_19: 760977676952608275
+      deathslime_main_flaten-Sheet_2: 6300698183956392702
+      deathslime_main_flaten-Sheet_20: -7150137840172694446
+      deathslime_main_flaten-Sheet_21: -8593701131710291662
+      deathslime_main_flaten-Sheet_22: 8871362191687991038
+      deathslime_main_flaten-Sheet_23: 5787218297554170891
+      deathslime_main_flaten-Sheet_24: -6353680471826122632
+      deathslime_main_flaten-Sheet_25: -442554044722999462
+      deathslime_main_flaten-Sheet_26: 5220206012924552646
+      deathslime_main_flaten-Sheet_27: -9091275799377433565
+      deathslime_main_flaten-Sheet_28: 4369076479803217885
+      deathslime_main_flaten-Sheet_29: 2349609749814543109
+      deathslime_main_flaten-Sheet_3: 3772448716315580885
+      deathslime_main_flaten-Sheet_30: -1572502275595889612
+      deathslime_main_flaten-Sheet_31: -6063409886368995120
+      deathslime_main_flaten-Sheet_32: 4957988967529294756
+      deathslime_main_flaten-Sheet_33: 2666112990648958755
+      deathslime_main_flaten-Sheet_34: 6053585382510693316
+      deathslime_main_flaten-Sheet_35: -9077220153544597144
+      deathslime_main_flaten-Sheet_36: 752690414288954697
+      deathslime_main_flaten-Sheet_37: 7613036879000622738
+      deathslime_main_flaten-Sheet_38: 5578912213595841665
+      deathslime_main_flaten-Sheet_39: 4526791455972390656
+      deathslime_main_flaten-Sheet_4: -2291149742527842382
+      deathslime_main_flaten-Sheet_40: 1107597897916743694
+      deathslime_main_flaten-Sheet_41: -1735436709032928956
+      deathslime_main_flaten-Sheet_42: 637267256077677682
+      deathslime_main_flaten-Sheet_43: -3214352831123640019
+      deathslime_main_flaten-Sheet_44: -6359474425079845126
+      deathslime_main_flaten-Sheet_45: 2904697116681366529
+      deathslime_main_flaten-Sheet_46: -2357120012881669607
+      deathslime_main_flaten-Sheet_47: -1145688419098776428
+      deathslime_main_flaten-Sheet_5: -2303292790335041634
+      deathslime_main_flaten-Sheet_6: 3091775001878312842
+      deathslime_main_flaten-Sheet_7: -1768931962217375298
+      deathslime_main_flaten-Sheet_8: -4776244424370620580
+      deathslime_main_flaten-Sheet_9: -7253940697971039878
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1755 @@
+fileFormatVersion: 2
+guid: 18af5311f89be0b4296aca281af20eda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -315613180178207332
+    second: ghost_skeleton_main_flaten-Sheet_0
+  - first:
+      213: 6159582672959715623
+    second: ghost_skeleton_main_flaten-Sheet_1
+  - first:
+      213: 5076638197869733193
+    second: ghost_skeleton_main_flaten-Sheet_2
+  - first:
+      213: 841024329096908520
+    second: ghost_skeleton_main_flaten-Sheet_3
+  - first:
+      213: -5730064351783313350
+    second: ghost_skeleton_main_flaten-Sheet_4
+  - first:
+      213: 6672090645350751551
+    second: ghost_skeleton_main_flaten-Sheet_5
+  - first:
+      213: -8106324185463387803
+    second: ghost_skeleton_main_flaten-Sheet_6
+  - first:
+      213: -1990292058238587552
+    second: ghost_skeleton_main_flaten-Sheet_7
+  - first:
+      213: -8739732226963910122
+    second: ghost_skeleton_main_flaten-Sheet_8
+  - first:
+      213: 1008142526935140387
+    second: ghost_skeleton_main_flaten-Sheet_9
+  - first:
+      213: -3789540037665174317
+    second: ghost_skeleton_main_flaten-Sheet_10
+  - first:
+      213: 1079584008019280312
+    second: ghost_skeleton_main_flaten-Sheet_11
+  - first:
+      213: 4530688773935493285
+    second: ghost_skeleton_main_flaten-Sheet_12
+  - first:
+      213: 467408730172325952
+    second: ghost_skeleton_main_flaten-Sheet_13
+  - first:
+      213: -5756723525138179810
+    second: ghost_skeleton_main_flaten-Sheet_14
+  - first:
+      213: 3773317354547774750
+    second: ghost_skeleton_main_flaten-Sheet_15
+  - first:
+      213: 2133367190710669994
+    second: ghost_skeleton_main_flaten-Sheet_16
+  - first:
+      213: -6864241927682057714
+    second: ghost_skeleton_main_flaten-Sheet_17
+  - first:
+      213: 584053667647117851
+    second: ghost_skeleton_main_flaten-Sheet_18
+  - first:
+      213: -3703528769062927852
+    second: ghost_skeleton_main_flaten-Sheet_19
+  - first:
+      213: -981874544243951210
+    second: ghost_skeleton_main_flaten-Sheet_20
+  - first:
+      213: 8789890039766645460
+    second: ghost_skeleton_main_flaten-Sheet_21
+  - first:
+      213: 5039930706625900313
+    second: ghost_skeleton_main_flaten-Sheet_22
+  - first:
+      213: -8034313947541238750
+    second: ghost_skeleton_main_flaten-Sheet_23
+  - first:
+      213: 3736820223611987912
+    second: ghost_skeleton_main_flaten-Sheet_24
+  - first:
+      213: -9149612584622906861
+    second: ghost_skeleton_main_flaten-Sheet_25
+  - first:
+      213: -8940300248029553240
+    second: ghost_skeleton_main_flaten-Sheet_26
+  - first:
+      213: -3389913040110377001
+    second: ghost_skeleton_main_flaten-Sheet_27
+  - first:
+      213: -2662316520931277139
+    second: ghost_skeleton_main_flaten-Sheet_28
+  - first:
+      213: 914932237585920165
+    second: ghost_skeleton_main_flaten-Sheet_29
+  - first:
+      213: 4526041783810195398
+    second: ghost_skeleton_main_flaten-Sheet_30
+  - first:
+      213: -5225122489117285212
+    second: ghost_skeleton_main_flaten-Sheet_31
+  - first:
+      213: 1496557958097999850
+    second: ghost_skeleton_main_flaten-Sheet_32
+  - first:
+      213: -3296245931350690632
+    second: ghost_skeleton_main_flaten-Sheet_33
+  - first:
+      213: 4821027894031941034
+    second: ghost_skeleton_main_flaten-Sheet_34
+  - first:
+      213: 7885025522441175069
+    second: ghost_skeleton_main_flaten-Sheet_35
+  - first:
+      213: 8440137401017936658
+    second: ghost_skeleton_main_flaten-Sheet_36
+  - first:
+      213: -4119283010298259739
+    second: ghost_skeleton_main_flaten-Sheet_37
+  - first:
+      213: 3670340091328031892
+    second: ghost_skeleton_main_flaten-Sheet_38
+  - first:
+      213: 7711349814927824063
+    second: ghost_skeleton_main_flaten-Sheet_39
+  - first:
+      213: 2205253724943944093
+    second: ghost_skeleton_main_flaten-Sheet_40
+  - first:
+      213: 4480069575809373917
+    second: ghost_skeleton_main_flaten-Sheet_41
+  - first:
+      213: -4649218297203060008
+    second: ghost_skeleton_main_flaten-Sheet_42
+  - first:
+      213: -4966510537404295955
+    second: ghost_skeleton_main_flaten-Sheet_43
+  - first:
+      213: -3309705333327161224
+    second: ghost_skeleton_main_flaten-Sheet_44
+  - first:
+      213: -8496681119652546019
+    second: ghost_skeleton_main_flaten-Sheet_45
+  - first:
+      213: -3914746789753383561
+    second: ghost_skeleton_main_flaten-Sheet_46
+  - first:
+      213: -3324695315717552407
+    second: ghost_skeleton_main_flaten-Sheet_47
+  - first:
+      213: 4605646502700595321
+    second: ghost_skeleton_main_flaten-Sheet_48
+  - first:
+      213: -7472418280021454159
+    second: ghost_skeleton_main_flaten-Sheet_49
+  - first:
+      213: -1692915013494582684
+    second: ghost_skeleton_main_flaten-Sheet_50
+  - first:
+      213: 4914126839652612451
+    second: ghost_skeleton_main_flaten-Sheet_51
+  - first:
+      213: 684625317474541235
+    second: ghost_skeleton_main_flaten-Sheet_52
+  - first:
+      213: -6946992700863190572
+    second: ghost_skeleton_main_flaten-Sheet_53
+  - first:
+      213: -4532879194270618308
+    second: ghost_skeleton_main_flaten-Sheet_54
+  - first:
+      213: -6402693811834491522
+    second: ghost_skeleton_main_flaten-Sheet_55
+  - first:
+      213: 132021852642934538
+    second: ghost_skeleton_main_flaten-Sheet_56
+  - first:
+      213: 3729407536303154527
+    second: ghost_skeleton_main_flaten-Sheet_57
+  - first:
+      213: -101404559840392271
+    second: ghost_skeleton_main_flaten-Sheet_58
+  - first:
+      213: 8012054543474524991
+    second: ghost_skeleton_main_flaten-Sheet_59
+  - first:
+      213: -1948622523666469310
+    second: ghost_skeleton_main_flaten-Sheet_60
+  - first:
+      213: 3848908626111385687
+    second: ghost_skeleton_main_flaten-Sheet_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 604
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9deb0d1c77be9bf0800000000000000
+      internalID: -315613180178207332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 604
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7293a626ecb3b7550800000000000000
+      internalID: 6159582672959715623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 604
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94564353b87d37640800000000000000
+      internalID: 5076638197869733193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 604
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee484fdb2bebab00800000000000000
+      internalID: 841024329096908520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 492
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30a3dbc4d8ba70b0800000000000000
+      internalID: -5730064351783313350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 492
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d96597717089c50800000000000000
+      internalID: 6672090645350751551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 492
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5690c4b3a1d808f80800000000000000
+      internalID: -8106324185463387803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d68650bef0164e0800000000000000
+      internalID: -1990292058238587552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 380
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61258cb38db36b680800000000000000
+      internalID: -8739732226963910122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 380
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3280fe07944adfd00800000000000000
+      internalID: 1008142526935140387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 380
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcc8d0e969d86bc0800000000000000
+      internalID: -3789540037665174317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 387
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b18e277fe37bfe00800000000000000
+      internalID: 1079584008019280312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 380
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0764e6f6d30ee30800000000000000
+      internalID: 4530688773935493285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 380
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04086de73c19c7600800000000000000
+      internalID: 467408730172325952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 376
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19110e44720c10b0800000000000000
+      internalID: -5756723525138179810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 377
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1503ae54248d5430800000000000000
+      internalID: 3773317354547774750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 380
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa258c9282e3b9d10800000000000000
+      internalID: 2133367190710669994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 380
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a1b28c5505db0a0800000000000000
+      internalID: -6864241927682057714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 268
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1adedd57b9fa1800800000000000000
+      internalID: 584053667647117851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 268
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4128098e43c6a9cc0800000000000000
+      internalID: -3703528769062927852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 268
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6993750ed4eaf52f0800000000000000
+      internalID: -981874544243951210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 269
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4daf80b9b66fbf970800000000000000
+      internalID: 8789890039766645460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 275
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f2505664e61f540800000000000000
+      internalID: 5039930706625900313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 266
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c86d64802608090800000000000000
+      internalID: -8034313947541238750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 266
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c763e1e13adbd330800000000000000
+      internalID: 3736820223611987912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 266
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312ab1db4db060180800000000000000
+      internalID: -9149612584622906861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 265
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad9cdaca4cade380800000000000000
+      internalID: -8940300248029553240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 266
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7a1c0fc0c94f0d0800000000000000
+      internalID: -3389913040110377001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 265
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6cc32da3d8d0bd0800000000000000
+      internalID: -2662316520931277139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 266
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0bcd6c50e72bc00800000000000000
+      internalID: 914932237585920165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 267
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cff49ab50bbfce30800000000000000
+      internalID: 4526041783810195398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 270
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a46240b7c2ac77b0800000000000000
+      internalID: -5225122489117285212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 271
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae71736a887d4c410800000000000000
+      internalID: 1496557958097999850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 279
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4f3892ac16142d0800000000000000
+      internalID: -3296245931350690632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 274
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadf504a35bb7e240800000000000000
+      internalID: 4821027894031941034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 269
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10cefd9fec3d6d60800000000000000
+      internalID: 7885025522441175069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 268
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ba92b9f34612570800000000000000
+      internalID: 8440137401017936658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 268
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6ded15ded55d6c0800000000000000
+      internalID: -4119283010298259739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 266
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c6b74eddaafe230800000000000000
+      internalID: 3670340091328031892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 265
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb41c89dcc7340b60800000000000000
+      internalID: 7711349814927824063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 156
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9904e23492aa9e10800000000000000
+      internalID: 2205253724943944093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 156
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd61723fa876c2e30800000000000000
+      internalID: 4480069575809373917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 156
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d217ff5798aa7fb0800000000000000
+      internalID: -4649218297203060008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 156
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de458ccdaf8631bb0800000000000000
+      internalID: -4966510537404295955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 44
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87891dfe8809112d0800000000000000
+      internalID: -3309705333327161224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 37
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a775df989b51a80800000000000000
+      internalID: -8496681119652546019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 52
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775162339860ca9c0800000000000000
+      internalID: -3914746789753383561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 34
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e60040b93f4cd1d0800000000000000
+      internalID: -3324695315717552407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 61
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9783d7aa71b8aef30800000000000000
+      internalID: 4605646502700595321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b29f263a23ac4890800000000000000
+      internalID: -7472418280021454159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 42
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462dab1c3ce8188e0800000000000000
+      internalID: -1692915013494582684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 60
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369f4b2135c723440800000000000000
+      internalID: 4914126839652612451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be1f445917408900800000000000000
+      internalID: 684625317474541235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 44
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d961dff1f2579f90800000000000000
+      internalID: -6946992700863190572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 47
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dadb7936af711c0800000000000000
+      internalID: -4532879194270618308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d630ca6ef0527a0800000000000000
+      internalID: -6402693811834491522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 38
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ffe5dec2905d100800000000000000
+      internalID: 132021852642934538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 49
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55a300256481c330800000000000000
+      internalID: 3729407536303154527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 44
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbcb10171db79ef0800000000000000
+      internalID: -101404559840392271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 45
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f338ad85829803f60800000000000000
+      internalID: 8012054543474524991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 31
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ee883932a15f4e0800000000000000
+      internalID: -1948622523666469310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_skeleton_main_flaten-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 35
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7505e48c0021a6530800000000000000
+      internalID: 3848908626111385687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ghost_skeleton_main_flaten-Sheet_0: -315613180178207332
+      ghost_skeleton_main_flaten-Sheet_1: 6159582672959715623
+      ghost_skeleton_main_flaten-Sheet_10: -3789540037665174317
+      ghost_skeleton_main_flaten-Sheet_11: 1079584008019280312
+      ghost_skeleton_main_flaten-Sheet_12: 4530688773935493285
+      ghost_skeleton_main_flaten-Sheet_13: 467408730172325952
+      ghost_skeleton_main_flaten-Sheet_14: -5756723525138179810
+      ghost_skeleton_main_flaten-Sheet_15: 3773317354547774750
+      ghost_skeleton_main_flaten-Sheet_16: 2133367190710669994
+      ghost_skeleton_main_flaten-Sheet_17: -6864241927682057714
+      ghost_skeleton_main_flaten-Sheet_18: 584053667647117851
+      ghost_skeleton_main_flaten-Sheet_19: -3703528769062927852
+      ghost_skeleton_main_flaten-Sheet_2: 5076638197869733193
+      ghost_skeleton_main_flaten-Sheet_20: -981874544243951210
+      ghost_skeleton_main_flaten-Sheet_21: 8789890039766645460
+      ghost_skeleton_main_flaten-Sheet_22: 5039930706625900313
+      ghost_skeleton_main_flaten-Sheet_23: -8034313947541238750
+      ghost_skeleton_main_flaten-Sheet_24: 3736820223611987912
+      ghost_skeleton_main_flaten-Sheet_25: -9149612584622906861
+      ghost_skeleton_main_flaten-Sheet_26: -8940300248029553240
+      ghost_skeleton_main_flaten-Sheet_27: -3389913040110377001
+      ghost_skeleton_main_flaten-Sheet_28: -2662316520931277139
+      ghost_skeleton_main_flaten-Sheet_29: 914932237585920165
+      ghost_skeleton_main_flaten-Sheet_3: 841024329096908520
+      ghost_skeleton_main_flaten-Sheet_30: 4526041783810195398
+      ghost_skeleton_main_flaten-Sheet_31: -5225122489117285212
+      ghost_skeleton_main_flaten-Sheet_32: 1496557958097999850
+      ghost_skeleton_main_flaten-Sheet_33: -3296245931350690632
+      ghost_skeleton_main_flaten-Sheet_34: 4821027894031941034
+      ghost_skeleton_main_flaten-Sheet_35: 7885025522441175069
+      ghost_skeleton_main_flaten-Sheet_36: 8440137401017936658
+      ghost_skeleton_main_flaten-Sheet_37: -4119283010298259739
+      ghost_skeleton_main_flaten-Sheet_38: 3670340091328031892
+      ghost_skeleton_main_flaten-Sheet_39: 7711349814927824063
+      ghost_skeleton_main_flaten-Sheet_4: -5730064351783313350
+      ghost_skeleton_main_flaten-Sheet_40: 2205253724943944093
+      ghost_skeleton_main_flaten-Sheet_41: 4480069575809373917
+      ghost_skeleton_main_flaten-Sheet_42: -4649218297203060008
+      ghost_skeleton_main_flaten-Sheet_43: -4966510537404295955
+      ghost_skeleton_main_flaten-Sheet_44: -3309705333327161224
+      ghost_skeleton_main_flaten-Sheet_45: -8496681119652546019
+      ghost_skeleton_main_flaten-Sheet_46: -3914746789753383561
+      ghost_skeleton_main_flaten-Sheet_47: -3324695315717552407
+      ghost_skeleton_main_flaten-Sheet_48: 4605646502700595321
+      ghost_skeleton_main_flaten-Sheet_49: -7472418280021454159
+      ghost_skeleton_main_flaten-Sheet_5: 6672090645350751551
+      ghost_skeleton_main_flaten-Sheet_50: -1692915013494582684
+      ghost_skeleton_main_flaten-Sheet_51: 4914126839652612451
+      ghost_skeleton_main_flaten-Sheet_52: 684625317474541235
+      ghost_skeleton_main_flaten-Sheet_53: -6946992700863190572
+      ghost_skeleton_main_flaten-Sheet_54: -4532879194270618308
+      ghost_skeleton_main_flaten-Sheet_55: -6402693811834491522
+      ghost_skeleton_main_flaten-Sheet_56: 132021852642934538
+      ghost_skeleton_main_flaten-Sheet_57: 3729407536303154527
+      ghost_skeleton_main_flaten-Sheet_58: -101404559840392271
+      ghost_skeleton_main_flaten-Sheet_59: 8012054543474524991
+      ghost_skeleton_main_flaten-Sheet_6: -8106324185463387803
+      ghost_skeleton_main_flaten-Sheet_60: -1948622523666469310
+      ghost_skeleton_main_flaten-Sheet_61: 3848908626111385687
+      ghost_skeleton_main_flaten-Sheet_7: -1990292058238587552
+      ghost_skeleton_main_flaten-Sheet_8: -8739732226963910122
+      ghost_skeleton_main_flaten-Sheet_9: 1008142526935140387
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

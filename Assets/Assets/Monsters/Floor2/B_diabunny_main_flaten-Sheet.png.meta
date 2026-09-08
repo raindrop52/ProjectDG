@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 6a063d5f7026ffb40a27b704876d1a63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 272600394884547239
+    second: diabunny_main_flaten-Sheet_0
+  - first:
+      213: -451402686688239969
+    second: diabunny_main_flaten-Sheet_1
+  - first:
+      213: 5798062431331519540
+    second: diabunny_main_flaten-Sheet_2
+  - first:
+      213: 8546107620077530020
+    second: diabunny_main_flaten-Sheet_3
+  - first:
+      213: -7858575849395520996
+    second: diabunny_main_flaten-Sheet_4
+  - first:
+      213: -8770148204243685007
+    second: diabunny_main_flaten-Sheet_5
+  - first:
+      213: 1321467491499842779
+    second: diabunny_main_flaten-Sheet_6
+  - first:
+      213: -7448996775464968599
+    second: diabunny_main_flaten-Sheet_7
+  - first:
+      213: 2919648114884825440
+    second: diabunny_main_flaten-Sheet_8
+  - first:
+      213: 6258862191911126135
+    second: diabunny_main_flaten-Sheet_9
+  - first:
+      213: -1068082331367201158
+    second: diabunny_main_flaten-Sheet_10
+  - first:
+      213: -3062552038055429732
+    second: diabunny_main_flaten-Sheet_11
+  - first:
+      213: -8112763061889115565
+    second: diabunny_main_flaten-Sheet_12
+  - first:
+      213: -6663737672490531249
+    second: diabunny_main_flaten-Sheet_13
+  - first:
+      213: -3491342299419982998
+    second: diabunny_main_flaten-Sheet_14
+  - first:
+      213: 2401131634661173643
+    second: diabunny_main_flaten-Sheet_15
+  - first:
+      213: 6991995763472879180
+    second: diabunny_main_flaten-Sheet_16
+  - first:
+      213: 8905753167879621753
+    second: diabunny_main_flaten-Sheet_17
+  - first:
+      213: -7083362308982770729
+    second: diabunny_main_flaten-Sheet_18
+  - first:
+      213: -264421250936546429
+    second: diabunny_main_flaten-Sheet_19
+  - first:
+      213: 8101986388367008227
+    second: diabunny_main_flaten-Sheet_20
+  - first:
+      213: -5857556017910663843
+    second: diabunny_main_flaten-Sheet_21
+  - first:
+      213: -4000971103459063215
+    second: diabunny_main_flaten-Sheet_22
+  - first:
+      213: 3272387545629748315
+    second: diabunny_main_flaten-Sheet_23
+  - first:
+      213: 8320113442886319917
+    second: diabunny_main_flaten-Sheet_24
+  - first:
+      213: 4648186489937732731
+    second: diabunny_main_flaten-Sheet_25
+  - first:
+      213: 5315318643152002357
+    second: diabunny_main_flaten-Sheet_26
+  - first:
+      213: 5408633559189760354
+    second: diabunny_main_flaten-Sheet_27
+  - first:
+      213: -6348570257906577874
+    second: diabunny_main_flaten-Sheet_28
+  - first:
+      213: 7582808346027189301
+    second: diabunny_main_flaten-Sheet_29
+  - first:
+      213: -5229453425289657573
+    second: diabunny_main_flaten-Sheet_30
+  - first:
+      213: 3583285074853981883
+    second: diabunny_main_flaten-Sheet_31
+  - first:
+      213: -8467954115372435784
+    second: diabunny_main_flaten-Sheet_32
+  - first:
+      213: -8755736763296173350
+    second: diabunny_main_flaten-Sheet_33
+  - first:
+      213: 6911293710190365512
+    second: diabunny_main_flaten-Sheet_34
+  - first:
+      213: 3249106266839318343
+    second: diabunny_main_flaten-Sheet_35
+  - first:
+      213: -6453775083344559617
+    second: diabunny_main_flaten-Sheet_36
+  - first:
+      213: 4311704419781513148
+    second: diabunny_main_flaten-Sheet_37
+  - first:
+      213: 5112038080140618540
+    second: diabunny_main_flaten-Sheet_38
+  - first:
+      213: -4394358879977168173
+    second: diabunny_main_flaten-Sheet_39
+  - first:
+      213: 6777252460037179486
+    second: diabunny_main_flaten-Sheet_40
+  - first:
+      213: -4730143850280030166
+    second: diabunny_main_flaten-Sheet_41
+  - first:
+      213: -1476181492138607273
+    second: diabunny_main_flaten-Sheet_42
+  - first:
+      213: 3019090772952061242
+    second: diabunny_main_flaten-Sheet_43
+  - first:
+      213: 1347796405721657858
+    second: diabunny_main_flaten-Sheet_44
+  - first:
+      213: -6273721225555809302
+    second: diabunny_main_flaten-Sheet_45
+  - first:
+      213: 1812928419752905265
+    second: diabunny_main_flaten-Sheet_46
+  - first:
+      213: 1850011360078620357
+    second: diabunny_main_flaten-Sheet_47
+  - first:
+      213: -8391455358534065561
+    second: diabunny_main_flaten-Sheet_48
+  - first:
+      213: -8863070406800898477
+    second: diabunny_main_flaten-Sheet_49
+  - first:
+      213: -3177933105231553977
+    second: diabunny_main_flaten-Sheet_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 909
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a289b66d9878c300800000000000000
+      internalID: 272600394884547239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 909
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e5a49e5ab4cb9f0800000000000000
+      internalID: -451402686688239969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 909
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c8d05df0bd67050800000000000000
+      internalID: 5798062431331519540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 909
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abeafae99fd99670800000000000000
+      internalID: 8546107620077530020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 701
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1af058c6eab0f290800000000000000
+      internalID: -7858575849395520996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 701
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171768aacac2a4680800000000000000
+      internalID: -8770148204243685007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 701
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc131d9eabc65210800000000000000
+      internalID: 1321467491499842779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 701
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e516136e8df9890800000000000000
+      internalID: -7448996775464968599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 701
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06159d4dd7ca48820800000000000000
+      internalID: 2919648114884825440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 701
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7744cfea002fbd650800000000000000
+      internalID: 6258862191911126135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 701
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76acff47c86d21f0800000000000000
+      internalID: -1068082331367201158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 701
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99be81c521af75d0800000000000000
+      internalID: -3062552038055429732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 493
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a503d7afca96f80800000000000000
+      internalID: -8112763061889115565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 493
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4640d294e5a583a0800000000000000
+      internalID: -6663737672490531249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 493
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63c6c53da24c8fc0800000000000000
+      internalID: -3491342299419982998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 493
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89aeeeff78825120800000000000000
+      internalID: 2401131634661173643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 493
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e46d80a1f880160800000000000000
+      internalID: 6991995763472879180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 493
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c46cc4257979b70800000000000000
+      internalID: 8905753167879621753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 493
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3f0bd5287d2bd90800000000000000
+      internalID: -7083362308982770729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 493
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bdcd2f546945cf0800000000000000
+      internalID: -264421250936546429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 493
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e16aada1b9007070800000000000000
+      internalID: 8101986388367008227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 493
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55bb7c16d7c5bea0800000000000000
+      internalID: -5857556017910663843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 493
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a48bdbaf1b978c0800000000000000
+      internalID: -4000971103459063215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 493
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c6ca8822bd96d20800000000000000
+      internalID: 3272387545629748315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 285
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ff03e281bf67370800000000000000
+      internalID: 8320113442886319917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 285
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7422864cfca18040800000000000000
+      internalID: 4648186489937732731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 285
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d1619e42ec3c940800000000000000
+      internalID: 5315318643152002357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 285
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26923cfd0935f0b40800000000000000
+      internalID: 5408633559189760354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 290
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e4ed19cf855e7a0800000000000000
+      internalID: -6348570257906577874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 290
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53461d8e30c8b3960800000000000000
+      internalID: 7582808346027189301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 285
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13092801df3d67b0800000000000000
+      internalID: -5229453425289657573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 285
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe61af5ac26ab130800000000000000
+      internalID: 3583285074853981883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 285
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b63be2e898cb7a80800000000000000
+      internalID: -8467954115372435784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 77
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad237ecbdcf5d7680800000000000000
+      internalID: -8755736763296173350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 77
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bc9460309d9ef50800000000000000
+      internalID: 6911293710190365512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 76
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ff3786fe4271d20800000000000000
+      internalID: 3249106266839318343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 77
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff10bf851c59f66a0800000000000000
+      internalID: -6453775083344559617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 77
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf0f8d435046db30800000000000000
+      internalID: 4311704419781513148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 77
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b2d059c8b91f640800000000000000
+      internalID: 5112038080140618540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 77
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2a06781e91403c0800000000000000
+      internalID: -4394358879977168173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 77
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5888a97433ad0e50800000000000000
+      internalID: 6777252460037179486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 77
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a207f83ca372b5eb0800000000000000
+      internalID: -4730143850280030166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 77
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d721901cc838be0800000000000000
+      internalID: -1476181492138607273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 77
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35977aef07f5e920800000000000000
+      internalID: 3019090772952061242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 77
+        width: 87
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2027698a0b554b210800000000000000
+      internalID: 1347796405721657858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 85
+        width: 74
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebeae2f8c34fe8a0800000000000000
+      internalID: -6273721225555809302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 77
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a059edac0d82910800000000000000
+      internalID: 1812928419752905265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 89
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c66cebb78f8ca910800000000000000
+      internalID: 1850011360078620357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 77
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762670eafcf8b8b80800000000000000
+      internalID: -8391455358534065561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 2933
+        y: 96
+        width: 41
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3560b5f6c6c000580800000000000000
+      internalID: -8863070406800898477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diabunny_main_flaten-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 77
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a18be9da6b5e3d0800000000000000
+      internalID: -3177933105231553977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      diabunny_main_flaten-Sheet_0: 272600394884547239
+      diabunny_main_flaten-Sheet_1: -451402686688239969
+      diabunny_main_flaten-Sheet_10: -1068082331367201158
+      diabunny_main_flaten-Sheet_11: -3062552038055429732
+      diabunny_main_flaten-Sheet_12: -8112763061889115565
+      diabunny_main_flaten-Sheet_13: -6663737672490531249
+      diabunny_main_flaten-Sheet_14: -3491342299419982998
+      diabunny_main_flaten-Sheet_15: 2401131634661173643
+      diabunny_main_flaten-Sheet_16: 6991995763472879180
+      diabunny_main_flaten-Sheet_17: 8905753167879621753
+      diabunny_main_flaten-Sheet_18: -7083362308982770729
+      diabunny_main_flaten-Sheet_19: -264421250936546429
+      diabunny_main_flaten-Sheet_2: 5798062431331519540
+      diabunny_main_flaten-Sheet_20: 8101986388367008227
+      diabunny_main_flaten-Sheet_21: -5857556017910663843
+      diabunny_main_flaten-Sheet_22: -4000971103459063215
+      diabunny_main_flaten-Sheet_23: 3272387545629748315
+      diabunny_main_flaten-Sheet_24: 8320113442886319917
+      diabunny_main_flaten-Sheet_25: 4648186489937732731
+      diabunny_main_flaten-Sheet_26: 5315318643152002357
+      diabunny_main_flaten-Sheet_27: 5408633559189760354
+      diabunny_main_flaten-Sheet_28: -6348570257906577874
+      diabunny_main_flaten-Sheet_29: 7582808346027189301
+      diabunny_main_flaten-Sheet_3: 8546107620077530020
+      diabunny_main_flaten-Sheet_30: -5229453425289657573
+      diabunny_main_flaten-Sheet_31: 3583285074853981883
+      diabunny_main_flaten-Sheet_32: -8467954115372435784
+      diabunny_main_flaten-Sheet_33: -8755736763296173350
+      diabunny_main_flaten-Sheet_34: 6911293710190365512
+      diabunny_main_flaten-Sheet_35: 3249106266839318343
+      diabunny_main_flaten-Sheet_36: -6453775083344559617
+      diabunny_main_flaten-Sheet_37: 4311704419781513148
+      diabunny_main_flaten-Sheet_38: 5112038080140618540
+      diabunny_main_flaten-Sheet_39: -4394358879977168173
+      diabunny_main_flaten-Sheet_4: -7858575849395520996
+      diabunny_main_flaten-Sheet_40: 6777252460037179486
+      diabunny_main_flaten-Sheet_41: -4730143850280030166
+      diabunny_main_flaten-Sheet_42: -1476181492138607273
+      diabunny_main_flaten-Sheet_43: 3019090772952061242
+      diabunny_main_flaten-Sheet_44: 1347796405721657858
+      diabunny_main_flaten-Sheet_45: -6273721225555809302
+      diabunny_main_flaten-Sheet_46: 1812928419752905265
+      diabunny_main_flaten-Sheet_47: 1850011360078620357
+      diabunny_main_flaten-Sheet_48: -8391455358534065561
+      diabunny_main_flaten-Sheet_49: -8863070406800898477
+      diabunny_main_flaten-Sheet_5: -8770148204243685007
+      diabunny_main_flaten-Sheet_50: -3177933105231553977
+      diabunny_main_flaten-Sheet_6: 1321467491499842779
+      diabunny_main_flaten-Sheet_7: -7448996775464968599
+      diabunny_main_flaten-Sheet_8: 2919648114884825440
+      diabunny_main_flaten-Sheet_9: 6258862191911126135
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
