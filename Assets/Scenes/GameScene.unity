@@ -236,7 +236,7 @@ GameObject:
   - component: {fileID: 136907563}
   - component: {fileID: 136907565}
   - component: {fileID: 136907564}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tilemap_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -577,7 +577,7 @@ GameObject:
   - component: {fileID: 153166190}
   - component: {fileID: 153166192}
   - component: {fileID: 153166191}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AxeMan
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -596,7 +596,8 @@ Transform:
   m_LocalPosition: {x: -1.48, y: 2.33, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1818173209}
   m_Father: {fileID: 778005784}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &153166191
@@ -1037,7 +1038,7 @@ GameObject:
   - component: {fileID: 385260463}
   - component: {fileID: 385260465}
   - component: {fileID: 385260464}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: DarkShaman
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2161,7 +2162,7 @@ GameObject:
   - component: {fileID: 900602398}
   - component: {fileID: 900602400}
   - component: {fileID: 900602399}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Nun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2350,7 +2351,7 @@ GameObject:
   - component: {fileID: 1104745307}
   - component: {fileID: 1104745309}
   - component: {fileID: 1104745308}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tilemap_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2691,7 +2692,7 @@ GameObject:
   - component: {fileID: 1133217918}
   - component: {fileID: 1133217920}
   - component: {fileID: 1133217919}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: SwordMan
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2894,10 +2895,10 @@ MonoBehaviour:
   - {fileID: 316199909881367603, guid: 1d2e758273731d442ae3a59c396a3b76, type: 3}
   - {fileID: 5976006166613438480, guid: 51b9b476440d8684e9e5dc495f6fce70, type: 3}
   - {fileID: 1943544530101187100, guid: 77e4e543c482d28409f3f3a46c0cdb8b, type: 3}
-  map: {fileID: 598705703}
-  tiles: []
   background_offset: 0.08
   startPos: {x: 2, y: 3.4}
+  map: {fileID: 598705703}
+  tiles: []
 --- !u!1 &1232605145
 GameObject:
   m_ObjectHideFlags: 0
@@ -2909,7 +2910,7 @@ GameObject:
   - component: {fileID: 1232605146}
   - component: {fileID: 1232605148}
   - component: {fileID: 1232605147}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Wizard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3023,7 +3024,10 @@ GameObject:
   - component: {fileID: 1285209255}
   - component: {fileID: 1285209257}
   - component: {fileID: 1285209256}
-  m_Layer: 0
+  - component: {fileID: 1285209258}
+  - component: {fileID: 1285209260}
+  - component: {fileID: 1285209259}
+  m_Layer: 6
   m_Name: Archer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3126,6 +3130,99 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!114 &1285209258
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1285209254}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5c28358853459c4ab5632401654fbe0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  maxHp: 100
+  attackRange: 0
+  curState: 0
+  enemyLayer:
+    serializedVersion: 2
+    m_Bits: 128
+  detectionInterval: 0.15
+  curAttakType: 0
+--- !u!50 &1285209259
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1285209254}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!61 &1285209260
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1285209254}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -0.041335434, y: 0.17708333}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0}
+    oldSize: {x: 0.4375, y: 0.35416666}
+    newSize: {x: 0.65625, y: 0.53125}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 0.3173291, y: 0.35416666}
+  m_EdgeRadius: 0
 --- !u!1 &1305802739
 GameObject:
   m_ObjectHideFlags: 0
@@ -3258,7 +3355,7 @@ GameObject:
   - component: {fileID: 1308579976}
   - component: {fileID: 1308579978}
   - component: {fileID: 1308579977}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tilemap_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3599,7 +3696,7 @@ GameObject:
   - component: {fileID: 1339386759}
   - component: {fileID: 1339386761}
   - component: {fileID: 1339386760}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tilemap_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4090,7 +4187,7 @@ GameObject:
   - component: {fileID: 1624043115}
   - component: {fileID: 1624043117}
   - component: {fileID: 1624043116}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: HeavyKnight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4310,7 +4407,7 @@ GameObject:
   - component: {fileID: 1755123124}
   - component: {fileID: 1755123126}
   - component: {fileID: 1755123125}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tilemap_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4715,6 +4812,84 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1797759475}
   m_CullTransparentMesh: 1
+--- !u!1 &1818173208
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1818173209}
+  - component: {fileID: 1818173210}
+  m_Layer: 0
+  m_Name: AttackTrigger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1818173209
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1818173208}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 153166190}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1818173210
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1818173208}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -0.2982123, y: 0.20944116}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 0.28109097, y: 0.4153971}
+  m_EdgeRadius: 0
 --- !u!1 &1847019712
 GameObject:
   m_ObjectHideFlags: 0

@@ -255,969 +255,749 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_0
-      rect:
-        serializedVersion: 2
-        x: 62
-        y: 606
-        width: 20
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 28746d69ab1441ca0800000000000000
-      internalID: -6047136130001385598
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_1
-      rect:
-        serializedVersion: 2
-        x: 173
-        y: 606
-        width: 22
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9f804597eb806eea0800000000000000
-      internalID: -5843973852294280967
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_2
-      rect:
-        serializedVersion: 2
-        x: 285
-        y: 606
-        width: 22
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 404174d4f75f62f00800000000000000
-      internalID: 1091829886790079492
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_3
-      rect:
-        serializedVersion: 2
-        x: 398
-        y: 606
-        width: 20
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e36d700befa9ea490800000000000000
-      internalID: -7733073091482888642
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_4
-      rect:
-        serializedVersion: 2
-        x: 508
-        y: 606
-        width: 24
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c9eabd50b04d811f0800000000000000
-      internalID: -1073875367319851364
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_5
-      rect:
-        serializedVersion: 2
-        x: 618
-        y: 605
-        width: 28
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b90e16d6e19812df0800000000000000
-      internalID: -206733344105176933
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_6
-      rect:
-        serializedVersion: 2
-        x: 731
-        y: 605
-        width: 26
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 63074e1c75b8d7040800000000000000
-      internalID: 4647023599547609142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_7
+      name: slime_green_NoReflection-Sheet_0
       rect:
         serializedVersion: 2
         x: 63
-        y: 497
+        y: 607
         width: 18
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 715dc98dbce7c2990800000000000000
-      internalID: -7409407872953690857
+      spriteID: dd929eeb4e44cc84481932fc15ac29b3
+      internalID: 293000520
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_8
+      name: slime_green_NoReflection-Sheet_1
       rect:
         serializedVersion: 2
-        x: 172
-        y: 499
-        width: 24
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: faafa7f6941552f20800000000000000
-      internalID: 3397210869765700271
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_9
-      rect:
-        serializedVersion: 2
-        x: 284
-        y: 503
-        width: 24
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: de1beec751fa0cfa0800000000000000
-      internalID: -5782429414718524947
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_10
-      rect:
-        serializedVersion: 2
-        x: 398
-        y: 499
+        x: 174
+        y: 607
         width: 20
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 64623e537d2d78370800000000000000
-      internalID: 8324854257981531718
+      spriteID: 791f0bc589423184087935f76cb2c11f
+      internalID: 193165677
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_11
+      name: slime_green_NoReflection-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 607
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917b46ea19d8c6646add845c9243e99c
+      internalID: -295706285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_green_NoReflection-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 607
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231130feb0ff12243bfd72bb016111fb
+      internalID: 1992663734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_0
       rect:
         serializedVersion: 2
         x: 509
-        y: 494
+        y: 607
         width: 22
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 33f2387c90d614950800000000000000
-      internalID: 6431541631631175475
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_12
-      rect:
-        serializedVersion: 2
-        x: 618
-        y: 493
-        width: 28
         height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 01a457f91f9bd9470800000000000000
-      internalID: 8403076927156734480
+      spriteID: f72539a510075dd4fb6639c6a1090d6c
+      internalID: -783168789
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_13
+      name: Move_1
       rect:
         serializedVersion: 2
-        x: 728
-        y: 493
-        width: 32
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 40490d93e75d7c540800000000000000
-      internalID: 5028222247095014404
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_14
-      rect:
-        serializedVersion: 2
-        x: 60
-        y: 382
-        width: 25
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 87a5438e268a81750800000000000000
-      internalID: 6275951223496792696
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_15
-      rect:
-        serializedVersion: 2
-        x: 171
-        y: 381
+        x: 619
+        y: 606
         width: 26
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3eb8f5d92412ec780800000000000000
-      internalID: -8660948463395042333
+      spriteID: a8411a64aed9d6447a563f83fd0b6cde
+      internalID: -1798350852
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_16
+      name: Move_2
       rect:
         serializedVersion: 2
-        x: 282
-        y: 381
-        width: 28
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 732
+        y: 602
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e7ebeb15d9af860c0800000000000000
-      internalID: -4582137067261215106
+      spriteID: d611d2f9103802143a1d1a12c46d686b
+      internalID: 1761407107
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_17
+      name: Move_3
       rect:
         serializedVersion: 2
-        x: 389
-        y: 381
-        width: 38
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 490
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7e9e1e30aa17bdbf0800000000000000
-      internalID: -298519975266489881
+      spriteID: 0615e2d38192edb408848d6f8dd33465
+      internalID: -2123929376
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_18
+      name: Move_4
       rect:
         serializedVersion: 2
-        x: 495
-        y: 381
-        width: 50
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 173
+        y: 488
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5f5597a7fdbdbd560800000000000000
-      internalID: 7339701770609317365
+      spriteID: 772ce87fffd73cb45a63d00f0a488d39
+      internalID: -163331987
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_19
+      name: Move_5
       rect:
         serializedVersion: 2
-        x: 607
-        y: 382
-        width: 50
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 285
+        y: 490
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 88dd76e5767e64720800000000000000
-      internalID: 2830203847000448392
+      spriteID: dab6b4f2f800ab647b6fde981bb16d07
+      internalID: 45599060
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_20
+      name: Move_6
       rect:
         serializedVersion: 2
-        x: 720
-        y: 382
+        x: 399
+        y: 488
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc769035ea43a34ea26535d3f04ae2c
+      internalID: 1854475506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_7
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 488
         width: 20
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fc7f04ca41f711f20800000000000000
-      internalID: 3391631721152706511
+      spriteID: 16c56cac070ba6548a0eba9d75de0dba
+      internalID: 2125395658
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_21
+      name: Move_8
       rect:
         serializedVersion: 2
-        x: 748
-        y: 382
-        width: 20
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 619
+        y: 494
+        width: 26
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3bcd8ca6d36027580800000000000000
-      internalID: -8830989058465801037
+      spriteID: 7f3c16d2fe6cf91409b1fb955567f92b
+      internalID: 1448488545
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_22
+      name: Move_9
       rect:
         serializedVersion: 2
-        x: 60
-        y: 270
-        width: 21
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 729
+        y: 494
+        width: 30
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a05c21391c02144d0800000000000000
-      internalID: -3152202248414378742
+      spriteID: 19e71000081fe1f4881e640a25041b31
+      internalID: -703085521
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_23
+      name: Move_10
       rect:
         serializedVersion: 2
-        x: 169
-        y: 270
+        x: 61
+        y: 383
         width: 23
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 633d19ef042440d00800000000000000
-      internalID: 937947469316215606
+      spriteID: c1c2c4b75536f0d479608ae85e4ec7cb
+      internalID: -942105169
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_24
+      name: Attack_0
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 382
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df92566d7bcf5047916894752df4a70
+      internalID: 1759683828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 271
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ada9cd9b969bef49913c7fb4765103e
+      internalID: -972009007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 271
+        width: 21
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95836eee97f7c0f40b1d345ba1e61be2
+      internalID: 1555996886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 271
+        width: 26
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2ea89c42728bb4dbde38cb116c4d01
+      internalID: -1925024415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 269
+        width: 54
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1e2c9aa823dfd46956d55fa48454c0
+      internalID: 1900404009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 269
+        width: 51
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea28af0936e102a4d86c11bae2107380
+      internalID: 1885003042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_6
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 269
+        width: 45
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f74d30175ab8a042801f0ebfccb1915
+      internalID: -603525419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_7
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 269
+        width: 53
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0450a6d7999241c429930fb48aef5c6c
+      internalID: -1606968061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 158
+        width: 61
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef67a8d20df7b464ebee15d7d02c5d56
+      internalID: -782892275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 159
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d24c483c30053349b1cd112fa6bb200
+      internalID: -372593405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_green_NoReflection-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 161
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1408b91a166e44e4e9667ad97f323a3c
+      internalID: -1998082739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_green_NoReflection-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 159
+        width: 22
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cf88aa9e372a547b87aa64db51be56
+      internalID: -1577754593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_green_NoReflection-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 157
+        width: 30
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8307d27568499e147830e7fe437d751d
+      internalID: 2101947385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_0
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 159
+        width: 23
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea623e3261ecee498688555d4c3cdda
+      internalID: 1266341271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_1
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 159
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88be034438a7c3441a7564f118864220
+      internalID: 1020372855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 46
+        width: 22
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8899c6f4e6df94548bfbf81f878c3823
+      internalID: 1479320710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 44
+        width: 34
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881c4f7b35a84c244b2dc940f9b6af6f
+      internalID: 1605484496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_4
       rect:
         serializedVersion: 2
         x: 275
-        y: 270
-        width: 28
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2d7c15449622bdb30800000000000000
-      internalID: 4313078903650502610
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_25
-      rect:
-        serializedVersion: 2
-        x: 357
-        y: 268
-        width: 56
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3d5dad356eccf8240800000000000000
-      internalID: 4796277417794262483
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_26
-      rect:
-        serializedVersion: 2
-        x: 463
-        y: 268
-        width: 53
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b13b674b468f35890800000000000000
-      internalID: -7470354245469424869
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_27
-      rect:
-        serializedVersion: 2
-        x: 569
-        y: 268
-        width: 47
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1fff4b15ff5bdacb0800000000000000
-      internalID: -4851021115416051727
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_28
-      rect:
-        serializedVersion: 2
-        x: 677
-        y: 268
-        width: 12
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7b2a566829834d3c0800000000000000
-      internalID: -4335778339279756617
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_29
-      rect:
-        serializedVersion: 2
-        x: 692
-        y: 269
-        width: 25
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3dddfea62e1203950800000000000000
-      internalID: 6426673924598128083
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_30
-      rect:
-        serializedVersion: 2
-        x: 720
-        y: 268
-        width: 12
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0cb52d631c28899a0800000000000000
-      internalID: -6226082718479656000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_31
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 157
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 31fa4cc038ae0cb10800000000000000
-      internalID: 1999856083128332051
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_32
-      rect:
-        serializedVersion: 2
-        x: 22
-        y: 158
-        width: 20
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 67923250dd22edb20800000000000000
-      internalID: 3161002321129974134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_33
-      rect:
-        serializedVersion: 2
-        x: 57
-        y: 157
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bd4273c1c549ae280800000000000000
-      internalID: -9013228580897348389
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_34
-      rect:
-        serializedVersion: 2
-        x: 134
-        y: 158
-        width: 20
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d6762a80aedc420e0800000000000000
-      internalID: -2295483505001207955
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_35
-      rect:
-        serializedVersion: 2
-        x: 292
-        y: 160
-        width: 21
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ce9eb5e30b02f00d0800000000000000
-      internalID: -3454506447837337108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_36
-      rect:
-        serializedVersion: 2
-        x: 411
-        y: 158
-        width: 24
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0a98569a974d17fb0800000000000000
-      internalID: -4651703321098876512
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_37
-      rect:
-        serializedVersion: 2
-        x: 523
-        y: 156
-        width: 32
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 40c717d955c0c76c0800000000000000
-      internalID: -4144423995234485244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_38
-      rect:
-        serializedVersion: 2
-        x: 638
-        y: 158
-        width: 25
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5d7ebe76a02b95c50800000000000000
-      internalID: 6654545682179549141
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_39
-      rect:
-        serializedVersion: 2
-        x: 753
-        y: 158
-        width: 20
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 47a9d1dcfecc83230800000000000000
-      internalID: 3618867630902712948
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_40
-      rect:
-        serializedVersion: 2
-        x: 60
-        y: 45
-        width: 24
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0bbba5365b5e92e20800000000000000
-      internalID: 3326442367008553904
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_41
-      rect:
-        serializedVersion: 2
-        x: 166
         y: 43
-        width: 36
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 42
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b418464293bef76b0800000000000000
-      internalID: -5296256006108184245
+      spriteID: ff8291babd2388b4191270fbc850f6d4
+      internalID: -632065207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_42
+      name: Die_5
       rect:
         serializedVersion: 2
-        x: 274
-        y: 42
-        width: 44
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 381
+        y: 39
+        width: 53
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d27e92933f40a99e0800000000000000
-      internalID: -1613972073776290003
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_slime_NoReflection-Sheet_43
-      rect:
-        serializedVersion: 2
-        x: 380
-        y: 38
-        width: 55
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2a8687ffc41c8f470800000000000000
-      internalID: 8428699239071639714
+      spriteID: 1848d14c5e60b874095a19af16f27d35
+      internalID: -1790133479
       vertices: []
       indices: 
       edges: []
@@ -1226,7 +1006,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0e2c62884112c3442b6dd5da739cd066
     internalID: 0
     vertices: []
     indices: 
@@ -1234,52 +1014,55 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      green_slime_NoReflection-Sheet_0: -6047136130001385598
-      green_slime_NoReflection-Sheet_1: -5843973852294280967
-      green_slime_NoReflection-Sheet_10: 8324854257981531718
-      green_slime_NoReflection-Sheet_11: 6431541631631175475
-      green_slime_NoReflection-Sheet_12: 8403076927156734480
-      green_slime_NoReflection-Sheet_13: 5028222247095014404
-      green_slime_NoReflection-Sheet_14: 6275951223496792696
-      green_slime_NoReflection-Sheet_15: -8660948463395042333
-      green_slime_NoReflection-Sheet_16: -4582137067261215106
-      green_slime_NoReflection-Sheet_17: -298519975266489881
-      green_slime_NoReflection-Sheet_18: 7339701770609317365
-      green_slime_NoReflection-Sheet_19: 2830203847000448392
-      green_slime_NoReflection-Sheet_2: 1091829886790079492
-      green_slime_NoReflection-Sheet_20: 3391631721152706511
-      green_slime_NoReflection-Sheet_21: -8830989058465801037
-      green_slime_NoReflection-Sheet_22: -3152202248414378742
-      green_slime_NoReflection-Sheet_23: 937947469316215606
-      green_slime_NoReflection-Sheet_24: 4313078903650502610
-      green_slime_NoReflection-Sheet_25: 4796277417794262483
-      green_slime_NoReflection-Sheet_26: -7470354245469424869
-      green_slime_NoReflection-Sheet_27: -4851021115416051727
-      green_slime_NoReflection-Sheet_28: -4335778339279756617
-      green_slime_NoReflection-Sheet_29: 6426673924598128083
-      green_slime_NoReflection-Sheet_3: -7733073091482888642
-      green_slime_NoReflection-Sheet_30: -6226082718479656000
-      green_slime_NoReflection-Sheet_31: 1999856083128332051
-      green_slime_NoReflection-Sheet_32: 3161002321129974134
-      green_slime_NoReflection-Sheet_33: -9013228580897348389
-      green_slime_NoReflection-Sheet_34: -2295483505001207955
-      green_slime_NoReflection-Sheet_35: -3454506447837337108
-      green_slime_NoReflection-Sheet_36: -4651703321098876512
-      green_slime_NoReflection-Sheet_37: -4144423995234485244
-      green_slime_NoReflection-Sheet_38: 6654545682179549141
-      green_slime_NoReflection-Sheet_39: 3618867630902712948
-      green_slime_NoReflection-Sheet_4: -1073875367319851364
-      green_slime_NoReflection-Sheet_40: 3326442367008553904
-      green_slime_NoReflection-Sheet_41: -5296256006108184245
-      green_slime_NoReflection-Sheet_42: -1613972073776290003
-      green_slime_NoReflection-Sheet_43: 8428699239071639714
-      green_slime_NoReflection-Sheet_5: -206733344105176933
-      green_slime_NoReflection-Sheet_6: 4647023599547609142
-      green_slime_NoReflection-Sheet_7: -7409407872953690857
-      green_slime_NoReflection-Sheet_8: 3397210869765700271
-      green_slime_NoReflection-Sheet_9: -5782429414718524947
+      Attack_0: 1759683828
+      Attack_1: -972009007
+      Attack_2: 1555996886
+      Attack_3: -1925024415
+      Attack_4: 1900404009
+      Attack_5: 1885003042
+      Attack_6: -603525419
+      Attack_7: -1606968061
+      Attack_8: -782892275
+      Attack_9: -372593405
+      Die_0: 1266341271
+      Die_1: 1020372855
+      Die_2: 1479320710
+      Die_3: 1605484496
+      Die_4: -632065207
+      Die_5: -1790133479
+      Move_0: -783168789
+      Move_1: -1798350852
+      Move_10: -942105169
+      Move_2: 1761407107
+      Move_3: -2123929376
+      Move_4: -163331987
+      Move_5: 45599060
+      Move_6: 1854475506
+      Move_7: 2125395658
+      Move_8: 1448488545
+      Move_9: -703085521
+      slime_green_NoReflection-Sheet_0: 293000520
+      slime_green_NoReflection-Sheet_1: 193165677
+      slime_green_NoReflection-Sheet_16: 493528837
+      slime_green_NoReflection-Sheet_17: 487206791
+      slime_green_NoReflection-Sheet_18: 127832929
+      slime_green_NoReflection-Sheet_19: -458389672
+      slime_green_NoReflection-Sheet_2: -295706285
+      slime_green_NoReflection-Sheet_20: 2062137040
+      slime_green_NoReflection-Sheet_21: 933736707
+      slime_green_NoReflection-Sheet_28: 1880741233
+      slime_green_NoReflection-Sheet_3: 1992663734
+      slime_green_NoReflection-Sheet_30: 2137015976
+      slime_green_NoReflection-Sheet_31: -2116946782
+      slime_green_NoReflection-Sheet_33: 500508585
+      slime_green_NoReflection-Sheet_35: -1998082739
+      slime_green_NoReflection-Sheet_36: -1577754593
+      slime_green_NoReflection-Sheet_37: 2101947385
+      slime_green_NoReflection-Sheet_4: -230733418
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
