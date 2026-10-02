@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 87de17747fd9d63409cfc06e793834a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5488122885210866094
+    second: red_yellow_mushroom_NoShadow-Sheet_0
+  - first:
+      213: 1688182381326495528
+    second: red_yellow_mushroom_NoShadow-Sheet_1
+  - first:
+      213: 7207858090661341151
+    second: red_yellow_mushroom_NoShadow-Sheet_2
+  - first:
+      213: 1441927242650539262
+    second: red_yellow_mushroom_NoShadow-Sheet_3
+  - first:
+      213: 5501608817259314342
+    second: red_yellow_mushroom_NoShadow-Sheet_4
+  - first:
+      213: -422215929628570649
+    second: red_yellow_mushroom_NoShadow-Sheet_5
+  - first:
+      213: -9090364472647573530
+    second: red_yellow_mushroom_NoShadow-Sheet_6
+  - first:
+      213: 6963218961935163668
+    second: red_yellow_mushroom_NoShadow-Sheet_7
+  - first:
+      213: 1487632619086496848
+    second: red_yellow_mushroom_NoShadow-Sheet_8
+  - first:
+      213: 3704648817768552230
+    second: red_yellow_mushroom_NoShadow-Sheet_9
+  - first:
+      213: 4211170294481031416
+    second: red_yellow_mushroom_NoShadow-Sheet_10
+  - first:
+      213: -1641198154428722797
+    second: red_yellow_mushroom_NoShadow-Sheet_11
+  - first:
+      213: -4069391689186315562
+    second: red_yellow_mushroom_NoShadow-Sheet_12
+  - first:
+      213: -5416977850366526461
+    second: red_yellow_mushroom_NoShadow-Sheet_13
+  - first:
+      213: -9112209446193571759
+    second: red_yellow_mushroom_NoShadow-Sheet_14
+  - first:
+      213: 1201658682881588280
+    second: red_yellow_mushroom_NoShadow-Sheet_15
+  - first:
+      213: 239064651044757787
+    second: red_yellow_mushroom_NoShadow-Sheet_16
+  - first:
+      213: 2351243946320573262
+    second: red_yellow_mushroom_NoShadow-Sheet_17
+  - first:
+      213: -6543390978275527895
+    second: red_yellow_mushroom_NoShadow-Sheet_18
+  - first:
+      213: -7844772025806367408
+    second: red_yellow_mushroom_NoShadow-Sheet_19
+  - first:
+      213: 95888593870536949
+    second: red_yellow_mushroom_NoShadow-Sheet_20
+  - first:
+      213: -4784699143536613789
+    second: red_yellow_mushroom_NoShadow-Sheet_21
+  - first:
+      213: -1573024188307892941
+    second: red_yellow_mushroom_NoShadow-Sheet_22
+  - first:
+      213: 5689811270021547028
+    second: red_yellow_mushroom_NoShadow-Sheet_23
+  - first:
+      213: 3999480479686536085
+    second: red_yellow_mushroom_NoShadow-Sheet_24
+  - first:
+      213: 5313932629159146808
+    second: red_yellow_mushroom_NoShadow-Sheet_25
+  - first:
+      213: -6632048107709787633
+    second: red_yellow_mushroom_NoShadow-Sheet_26
+  - first:
+      213: -8899720304477253022
+    second: red_yellow_mushroom_NoShadow-Sheet_27
+  - first:
+      213: -1680734954383015504
+    second: red_yellow_mushroom_NoShadow-Sheet_28
+  - first:
+      213: -8452725387184196842
+    second: red_yellow_mushroom_NoShadow-Sheet_29
+  - first:
+      213: 393680242004418084
+    second: red_yellow_mushroom_NoShadow-Sheet_30
+  - first:
+      213: 3581899041656232205
+    second: red_yellow_mushroom_NoShadow-Sheet_31
+  - first:
+      213: -2713583168605418955
+    second: red_yellow_mushroom_NoShadow-Sheet_32
+  - first:
+      213: -3388563090245930508
+    second: red_yellow_mushroom_NoShadow-Sheet_33
+  - first:
+      213: -8486804034407206710
+    second: red_yellow_mushroom_NoShadow-Sheet_34
+  - first:
+      213: 2080226680473786190
+    second: red_yellow_mushroom_NoShadow-Sheet_35
+  - first:
+      213: -1927390775005238808
+    second: red_yellow_mushroom_NoShadow-Sheet_36
+  - first:
+      213: -4557361113061413648
+    second: red_yellow_mushroom_NoShadow-Sheet_37
+  - first:
+      213: -5022130760442817598
+    second: red_yellow_mushroom_NoShadow-Sheet_38
+  - first:
+      213: 5269058696119040407
+    second: red_yellow_mushroom_NoShadow-Sheet_39
+  - first:
+      213: 3261960601426704641
+    second: red_yellow_mushroom_NoShadow-Sheet_40
+  - first:
+      213: 1306459763770271922
+    second: red_yellow_mushroom_NoShadow-Sheet_41
+  - first:
+      213: 8351506310515997033
+    second: red_yellow_mushroom_NoShadow-Sheet_42
+  - first:
+      213: 8375113258734440215
+    second: red_yellow_mushroom_NoShadow-Sheet_43
+  - first:
+      213: 7770545050222933512
+    second: red_yellow_mushroom_NoShadow-Sheet_44
+  - first:
+      213: 3436788924197097131
+    second: red_yellow_mushroom_NoShadow-Sheet_45
+  - first:
+      213: -995518111467500864
+    second: red_yellow_mushroom_NoShadow-Sheet_46
+  - first:
+      213: 4737335096643161249
+    second: red_yellow_mushroom_NoShadow-Sheet_47
+  - first:
+      213: -810536466012338554
+    second: red_yellow_mushroom_NoShadow-Sheet_48
+  - first:
+      213: -7146272436171118795
+    second: red_yellow_mushroom_NoShadow-Sheet_49
+  - first:
+      213: -733989824447568363
+    second: red_yellow_mushroom_NoShadow-Sheet_50
+  - first:
+      213: 6927005458260319108
+    second: red_yellow_mushroom_NoShadow-Sheet_51
+  - first:
+      213: -6506188072737552855
+    second: red_yellow_mushroom_NoShadow-Sheet_52
+  - first:
+      213: 7756921335404121390
+    second: red_yellow_mushroom_NoShadow-Sheet_53
+  - first:
+      213: 7667468872945750013
+    second: red_yellow_mushroom_NoShadow-Sheet_54
+  - first:
+      213: -3502766102027003066
+    second: red_yellow_mushroom_NoShadow-Sheet_55
+  - first:
+      213: -7670436284673045548
+    second: red_yellow_mushroom_NoShadow-Sheet_56
+  - first:
+      213: 1346315566692595393
+    second: red_yellow_mushroom_NoShadow-Sheet_57
+  - first:
+      213: -6747130895608330656
+    second: red_yellow_mushroom_NoShadow-Sheet_58
+  - first:
+      213: -5384788794811588150
+    second: red_yellow_mushroom_NoShadow-Sheet_59
+  - first:
+      213: -215342222714946757
+    second: red_yellow_mushroom_NoShadow-Sheet_60
+  - first:
+      213: -1171715118283840655
+    second: red_yellow_mushroom_NoShadow-Sheet_61
+  - first:
+      213: -7002607657373036734
+    second: red_yellow_mushroom_NoShadow-Sheet_62
+  - first:
+      213: 5412066815135407814
+    second: red_yellow_mushroom_NoShadow-Sheet_63
+  - first:
+      213: 2857883606737865308
+    second: red_yellow_mushroom_NoShadow-Sheet_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mushroom_red_yellow_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 608
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e705f205546d3b0800000000000000
+      internalID: -5488122885210866094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fe9037ee0ad6710800000000000000
+      internalID: 1688182381326495528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd76b4d9eb4770460800000000000000
+      internalID: 7207858090661341151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 608
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4d4220031c20410800000000000000
+      internalID: 1441927242650539262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acf5ed0214a95c40800000000000000
+      internalID: 5501608817259314342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_5
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb4af759dcf32af0800000000000000
+      internalID: -422215929628570649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 608
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef9209cca988d180800000000000000
+      internalID: -9090364472647573530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 496
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411e86fc0c252a060800000000000000
+      internalID: 6963218961935163668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0544fe83cf125a410800000000000000
+      internalID: 1487632619086496848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6275aa0c87e896330800000000000000
+      internalID: 3704648817768552230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 496
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f018333215117a30800000000000000
+      internalID: 4211170294481031416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_11
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 496
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391df3759fa4939e0800000000000000
+      internalID: -1641198154428722797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_12
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 496
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d27f1ab1dd9687c0800000000000000
+      internalID: -4069391689186315562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_13
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 496
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c7eb0785703d4b0800000000000000
+      internalID: -5416977850366526461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_14
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 384
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1585ca889cdea8180800000000000000
+      internalID: -9112209446193571759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_15
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 384
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cbb6694362da010800000000000000
+      internalID: 1201658682881588280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 384
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1120e39804515300800000000000000
+      internalID: 239064651044757787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 384
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43b9b869eb41a020800000000000000
+      internalID: 2351243946320573262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 384
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9233469d2943135a0800000000000000
+      internalID: -6543390978275527895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_19
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 384
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055d3e9e765c12390800000000000000
+      internalID: -7844772025806367408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_20
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 384
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f04aa70b2aa45100800000000000000
+      internalID: 95888593870536949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_21
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 270
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3666268ba75599db0800000000000000
+      internalID: -4784699143536613789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_22
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 269
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3359fc0c5de7b2ae0800000000000000
+      internalID: -1573024188307892941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_23
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 268
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41406a4443546fe40800000000000000
+      internalID: 5689811270021547028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_24
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 268
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b23dd5e42018730800000000000000
+      internalID: 3999480479686536085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 271
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83573616291eeb940800000000000000
+      internalID: 5313932629159146808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_26
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 271
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0218a6526b36f3a0800000000000000
+      internalID: -6632048107709787633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_27
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 271
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2625d4b2987dd7480800000000000000
+      internalID: -8899720304477253022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_28
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 156
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b10b62c674dca8e0800000000000000
+      internalID: -1680734954383015504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613b5f87b03e1ba80800000000000000
+      internalID: -8452725387184196842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_30
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 161
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e53c32812a67500800000000000000
+      internalID: 393680242004418084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_31
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 160
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d095b3f533675b130800000000000000
+      internalID: 3581899041656232205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_32
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 160
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a8bce3c7a675ad0800000000000000
+      internalID: -2713583168605418955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_33
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 160
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f134e2a2d769f0d0800000000000000
+      internalID: -3388563090245930508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_34
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 161
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac07eca12b0d83a80800000000000000
+      internalID: -8486804034407206710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_35
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 50
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e471ee5f4237edc10800000000000000
+      internalID: 2080226680473786190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_36
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 48
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9a2784d488045e0800000000000000
+      internalID: -1927390775005238808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_37
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 48
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcabcea63001c0c0800000000000000
+      internalID: -4557361113061413648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom_red_yellow_38
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 47
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c35e388eaecd4ab0800000000000000
+      internalID: -5022130760442817598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3cdf5bd7eb2ce1b42baa28135fdd6d98
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mushroom_red_yellow_0: -5488122885210866094
+      mushroom_red_yellow_1: 1688182381326495528
+      mushroom_red_yellow_10: 4211170294481031416
+      mushroom_red_yellow_11: -1641198154428722797
+      mushroom_red_yellow_12: -4069391689186315562
+      mushroom_red_yellow_13: -5416977850366526461
+      mushroom_red_yellow_14: -9112209446193571759
+      mushroom_red_yellow_15: 1201658682881588280
+      mushroom_red_yellow_16: 239064651044757787
+      mushroom_red_yellow_17: 2351243946320573262
+      mushroom_red_yellow_18: -6543390978275527895
+      mushroom_red_yellow_19: -7844772025806367408
+      mushroom_red_yellow_2: 7207858090661341151
+      mushroom_red_yellow_20: 95888593870536949
+      mushroom_red_yellow_21: -4784699143536613789
+      mushroom_red_yellow_22: -1573024188307892941
+      mushroom_red_yellow_23: 5689811270021547028
+      mushroom_red_yellow_24: 3999480479686536085
+      mushroom_red_yellow_25: 5313932629159146808
+      mushroom_red_yellow_26: -6632048107709787633
+      mushroom_red_yellow_27: -8899720304477253022
+      mushroom_red_yellow_28: -1680734954383015504
+      mushroom_red_yellow_29: -8452725387184196842
+      mushroom_red_yellow_3: 1441927242650539262
+      mushroom_red_yellow_30: 393680242004418084
+      mushroom_red_yellow_31: 3581899041656232205
+      mushroom_red_yellow_32: -2713583168605418955
+      mushroom_red_yellow_33: -3388563090245930508
+      mushroom_red_yellow_34: -8486804034407206710
+      mushroom_red_yellow_35: 2080226680473786190
+      mushroom_red_yellow_36: -1927390775005238808
+      mushroom_red_yellow_37: -4557361113061413648
+      mushroom_red_yellow_38: -5022130760442817598
+      mushroom_red_yellow_4: 5501608817259314342
+      mushroom_red_yellow_5: -422215929628570649
+      mushroom_red_yellow_6: -9090364472647573530
+      mushroom_red_yellow_7: 6963218961935163668
+      mushroom_red_yellow_8: 1487632619086496848
+      mushroom_red_yellow_9: 3704648817768552230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

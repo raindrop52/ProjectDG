@@ -1,0 +1,20 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements">
+  <ui:Style src="SpriteSliceCopierWindow.uss" />
+  <ui:VisualElement name="root" class="window-root">
+    <ui:Label text="Sprite Slice Copier" class="window-title" />
+    <ui:Label text="Copy sprite rectangles, pivots, borders, and alignment from one sheet to matching sheets." class="description-text" />
+    <ui:VisualElement class="form-section">
+      <ui:VisualElement name="sourceFieldHost" />
+      <ui:VisualElement name="folderFieldHost" />
+      <ui:TextField name="prefixField" label="Filename prefix" />
+      <ui:Toggle name="renameToggle" label="Rename slices for each target" value="true" />
+    </ui:VisualElement>
+    <ui:VisualElement class="action-row">
+      <ui:Button name="previewButton" text="Preview Targets" />
+      <ui:Button name="applyButton" text="Apply Slices" class="primary-action" />
+    </ui:VisualElement>
+    <ui:HelpBox name="statusBox" message-type="Info" />
+    <ui:Label text="Targets" class="section-title" />
+    <ui:ScrollView name="targetList" class="target-list" />
+  </ui:VisualElement>
+</ui:UXML>

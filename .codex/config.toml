@@ -1,0 +1,4 @@
+
+[mcp_servers.unity]
+command = "C:\\Users\\arain\\AppData\\Local\\Unity\\bin\\unity.exe"
+args = ["mcp","--project-path","C:\\Unity\\DungeonGuidance"]
