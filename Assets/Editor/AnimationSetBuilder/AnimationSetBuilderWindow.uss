@@ -1,0 +1,66 @@
+.window-root {
+  flex-grow: 1;
+  padding: 12px;
+}
+
+.window-title {
+  -unity-font-style: bold;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.form-section,
+.animation-section {
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(0, 0, 0, 0.12);
+  border-width: 1px;
+  border-color: rgba(128, 128, 128, 0.35);
+}
+
+.form-section > * {
+  margin-bottom: 4px;
+}
+
+.section-header,
+.list-actions,
+.footer-row {
+  flex-direction: row;
+  align-items: center;
+}
+
+.section-header {
+  margin-bottom: 6px;
+}
+
+.section-title {
+  flex-grow: 1;
+  -unity-font-style: bold;
+  font-size: 13px;
+}
+
+.frame-list {
+  height: 112px;
+  margin-bottom: 6px;
+  border-width: 1px;
+  border-color: rgba(128, 128, 128, 0.25);
+}
+
+.list-actions {
+  justify-content: flex-end;
+}
+
+.list-actions > Button {
+  min-width: 92px;
+  margin-left: 5px;
+}
+
+.footer-row {
+  justify-content: flex-end;
+  margin-top: 8px;
+}
+
+.primary-action {
+  min-width: 160px;
+  -unity-font-style: bold;
+}

@@ -1,0 +1,16 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements">
+  <ui:Style src="AnimationSetBuilderWindow.uss" />
+  <ui:ScrollView name="root" class="window-root">
+    <ui:Label text="Animation Set Builder" class="window-title" />
+    <ui:VisualElement class="form-section">
+      <ui:VisualElement name="folderFieldHost" />
+      <ui:TextField name="nameField" label="Folder / controller name" />
+      <ui:FloatField name="frameRateField" label="Frames per second" value="12" />
+    </ui:VisualElement>
+    <ui:VisualElement name="animationLists" />
+    <ui:HelpBox name="statusBox" message-type="Info" />
+    <ui:VisualElement class="footer-row">
+      <ui:Button name="createButton" text="Create Animation Set" class="primary-action" />
+    </ui:VisualElement>
+  </ui:ScrollView>
+</ui:UXML>

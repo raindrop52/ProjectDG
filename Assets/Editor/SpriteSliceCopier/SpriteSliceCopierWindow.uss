@@ -1,0 +1,62 @@
+.window-root {
+  flex-grow: 1;
+  padding: 12px;
+}
+
+.window-title {
+  -unity-font-style: bold;
+  font-size: 16px;
+  margin-bottom: 4px;
+}
+
+.description-text {
+  white-space: normal;
+  margin-bottom: 12px;
+}
+
+.form-section {
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(0, 0, 0, 0.12);
+  border-width: 1px;
+  border-color: rgba(128, 128, 128, 0.35);
+}
+
+.form-section > * {
+  margin-bottom: 4px;
+}
+
+.action-row {
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-bottom: 10px;
+}
+
+.action-row > Button {
+  min-width: 110px;
+  margin-left: 6px;
+}
+
+.primary-action {
+  -unity-font-style: bold;
+}
+
+.section-title {
+  -unity-font-style: bold;
+  margin-top: 10px;
+  margin-bottom: 4px;
+}
+
+.target-list {
+  flex-grow: 1;
+  min-height: 120px;
+  padding: 6px;
+  background-color: rgba(0, 0, 0, 0.08);
+  border-width: 1px;
+  border-color: rgba(128, 128, 128, 0.25);
+}
+
+.target-row {
+  padding: 3px 4px;
+  white-space: normal;
+}
