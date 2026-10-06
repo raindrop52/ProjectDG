@@ -1,5 +1,7 @@
 using UnityEngine;
 
+// 일반 몬스터가 Character 레이어를 추적하며 접근할 수 있도록 구성하는 클래스입니다.
+// 상태, 탐지, 피해 및 기본 공격은 Unit의 공통 로직을 그대로 사용합니다.
 public class Monster : Unit
 {
     [Header("Monster Data")]

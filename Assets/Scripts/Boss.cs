@@ -1,5 +1,7 @@
 using UnityEngine;
 
+// 일반 몬스터 기능을 기반으로 체력 조건형 보스 패턴을 확장하기 위한 틀입니다.
+// 실제 보스 패턴은 OnPatternStarted를 재정의하는 보스별 클래스에서 구현합니다.
 public class Boss : Monster
 {
     [Header("Boss Pattern")]
