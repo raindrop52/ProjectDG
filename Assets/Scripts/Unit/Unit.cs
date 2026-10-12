@@ -57,6 +57,7 @@ public abstract class Unit : MonoBehaviour
 
     protected virtual UnitState NoTargetState => UnitState.Idle;
     protected virtual int AttackPower => RuntimeStats != null ? RuntimeStats.AttackPower : 0;
+    protected virtual int Defense => RuntimeStats != null ? RuntimeStats.Defense : 0;
 
     public UnitState CurrentState => curState;
     public Unit CurrentTarget => target;
@@ -150,31 +151,28 @@ public abstract class Unit : MonoBehaviour
     // 현재 상태에 따라 타깃 탐색과 상태별 행동을 매 프레임 갱신합니다.
     protected virtual void Update()
     {
-        // 사망 처리
-        if (curState == UnitState.Die)
+        // 사망 처리 체크
+        if (curState != UnitState.Die)
         {
-            UpdateCurrentState();
-            return;
-        }
+            ProcessPendingAnimation();
 
-        ProcessPendingAnimation();
+            if (actionStopped)
+            {
+                return;
+            }
 
-        if (actionStopped)
-        {
-            return;
-        }
+            // 기존 타겟이 유효한지 확인
+            if (target != null && !IsTargetValid(target))
+            {
+                target = null;
+                ChangeState(NoTargetState);
+            }
 
-        // 기존 타겟이 유효한지 확인
-        if (target != null && !IsTargetValid(target))
-        {
-            target = null;
-            ChangeState(NoTargetState);
-        }
-
-        // 캐릭터는 Idle, 몬스터는 Idle과 Move 상태에서 공격 범위 안의 적을 탐색합니다.
-        if (curState == UnitState.Idle || curState == UnitState.Move)
-        {
-            UpdateTarget();
+            // 캐릭터는 Idle, 몬스터는 Idle과 Move 상태에서 공격 범위 안의 적을 탐색합니다.
+            if (curState == UnitState.Idle || curState == UnitState.Move)
+            {
+                UpdateTarget();
+            }
         }
 
         // 현재 상태의 동작 실행
@@ -503,7 +501,7 @@ public abstract class Unit : MonoBehaviour
     }
 
     // 애니메이션 함수 : 실제 타격 프레임에서 Box 범위 안의 모든 적에게 피해를 적용합니다.
-    public void ApplyAttackHit()
+    public void AEventApplyAttackHit()
     {
         if (currentAttack == null || IsDead)
         {
@@ -526,7 +524,6 @@ public abstract class Unit : MonoBehaviour
         );
 
         hitUnits.Clear();
-        int damage = Mathf.Max(1, Mathf.RoundToInt(AttackPower * currentAttack.DamageMultiplier));
 
         for (int i = 0; i < resultCount; i++)
         {
@@ -538,12 +535,14 @@ public abstract class Unit : MonoBehaviour
                 continue;
             }
 
+            int damage = Mathf.Max(1, Mathf.RoundToInt((AttackPower - hitUnit.Defense) * currentAttack.DamageMultiplier));
+
             hitUnit.TakeDamage(damage);
         }
     }
 
     // 애니메이션 함수 : 공격 종료를 처리하고 다음 프레임의 Idle 전환을 예약합니다.
-    public void OnAttackAnimationFinished()
+    public void AEventAttackFinished()
     {
         if (!attackInProgress)
         {
@@ -558,7 +557,7 @@ public abstract class Unit : MonoBehaviour
     }
 
     // 애니메이션 함수 : 사망 종료 프레임에서 비활성화 상태로 숨김
-    public void OnDieAnimationFinished()
+    public void AEventDieFinished()
     {
         if (!IsDead)
         {
@@ -605,6 +604,32 @@ public abstract class Unit : MonoBehaviour
         ChangeState(UnitState.Idle);
     }
 
+    // Area 입장과 퇴장 연출 중 전투 탐색을 막고 이동 애니메이션만 재생합니다.
+    public void StartPresentationMove()
+    {
+        if (IsDead)
+        {
+            return;
+        }
+
+        actionStopped = true;
+        target = null;
+        ChangeState(UnitState.Move);
+    }
+
+    // Area 이동 연출을 마치고 전투 시작 전 대기 상태로 전환합니다.
+    public void StopPresentationMove()
+    {
+        if (IsDead)
+        {
+            return;
+        }
+
+        actionStopped = true;
+        target = null;
+        ChangeState(UnitState.Idle);
+    }
+
     // 전투 시작이나 다음 웨이브 시작 시 탐색과 행동을 다시 허용합니다.
     public void StartAction()
     {
@@ -618,6 +643,19 @@ public abstract class Unit : MonoBehaviour
         ChangeState(UnitState.Idle);
         nextDetectionTime = 0f;
         nextActionTime = 0f;
+    }
+
+    // 오브젝트 풀에서 다시 사용할 때 체력, 전투 상태와 애니메이션을 초기 상태로 복구합니다.
+    public void ResetForReuse()
+    {
+        if (UnitAnimator != null)
+        {
+            UnitAnimator.Rebind();
+            UnitAnimator.Update(0f);
+        }
+
+        Init();
+        StopAction();
     }
 
     // Scene 뷰에서 선택한 유닛의 탐지 범위와 기본 공격 Box 범위를 표시합니다.
