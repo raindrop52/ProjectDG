@@ -11,7 +11,10 @@ public class Monster : Unit
     protected override UnitStats BaseStats => Data != null ? Data.Stats : null;
     protected override UnitState NoTargetState => UnitState.Move;
 
+    [SerializeField] private float endMovePosX;
+
     public float MoveSpeed => Data != null ? Data.MoveSpeed : 2f;
+    public MonsterRole Role => Data != null ? Data.Role : MonsterRole.Normal;
     public int ExperienceReward => Data != null ? Data.ExperienceReward : 0;
     public MaterialDropEntry[] MaterialRewards =>
         Data != null ? Data.MaterialRewards : System.Array.Empty<MaterialDropEntry>();
@@ -20,6 +23,10 @@ public class Monster : Unit
     protected override void OnMoveState()
     {
         base.OnMoveState();
-        transform.position += Vector3.left * MoveSpeed * Time.deltaTime;
+
+        if (transform.position.x > endMovePosX)
+        {
+            transform.position += Vector3.left * MoveSpeed * Time.deltaTime;
+        }
     }
 }

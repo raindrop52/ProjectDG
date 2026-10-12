@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MonsterData
   displayName: "\uCD08\uB85D \uC2AC\uB77C\uC784"
   stats:
-    maxHp: 100
-    attackPower: 20
-    defense: 0
+    maxHp: 10
+    attackPower: 2
+    defense: 1
     magicPower: 0
     attackRange: 0.5
     attackSpeedPercent: 100
