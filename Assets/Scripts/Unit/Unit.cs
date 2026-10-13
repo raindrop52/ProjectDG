@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -24,6 +25,10 @@ public abstract class Unit : MonoBehaviour
     [Tooltip("Character는 Monster 레이어, Monster는 Character 레이어를 지정합니다.")]
     [SerializeField] private LayerMask enemyLayer;
     [SerializeField, Min(0.02f)] private float detectionInterval = 0.15f;
+
+    [Header("Battle UI")]
+    [Tooltip("유닛 프리팹에서 개별 HPBar가 생성될 위치입니다.")]
+    [SerializeField] private Transform hpBarAnchor;
 
     protected int curHp;
     [SerializeField] protected Unit target;
@@ -67,6 +72,13 @@ public abstract class Unit : MonoBehaviour
     public SkillData BasicAttack => RuntimeStats != null ? RuntimeStats.BasicAttack : null;
     public bool IsDead => curState == UnitState.Die;
     public bool IsTargetable => isActiveAndEnabled && !IsDead;
+    public Transform HpBarAnchor => hpBarAnchor;
+
+    // 체력 UI가 전투 로직을 매 프레임 조회하지 않도록 변경 시점에만 현재 체력을 전달합니다.
+    public event Action<int, int> HealthChanged;
+
+    // 대미지 텍스트가 방어력 계산 이후 실제 적용된 피해량을 표시할 때 사용합니다.
+    public event Action<int> DamageTaken;
 
     private float CurrentBasicAttackInterval =>
         RuntimeStats.BaseAttackInterval * (100f / RuntimeStats.AttackSpeedPercent);
@@ -104,6 +116,7 @@ public abstract class Unit : MonoBehaviour
         RuntimeStats = new RuntimeUnitStats(sourceStats);
         ConfigureRuntimeStats(RuntimeStats);
         curHp = RuntimeStats.MaxHp;
+        HealthChanged?.Invoke(curHp, MaxHp);
         target = null;
         actionStopped = false;
         attackInProgress = false;
@@ -579,6 +592,11 @@ public abstract class Unit : MonoBehaviour
         }
 
         curHp = Mathf.Max(curHp - damage, 0);
+
+        HealthChanged?.Invoke(curHp, MaxHp);
+        
+        // 실제 HP 감소량이 아니라 계산된 최종 공격 대미지를 표시
+        DamageTaken?.Invoke(damage);
         Debug.Log($"{this.name}의 현재 체력 : {curHp}");
 
         if (curHp > 0)
@@ -661,6 +679,13 @@ public abstract class Unit : MonoBehaviour
     // Scene 뷰에서 선택한 유닛의 탐지 범위와 기본 공격 Box 범위를 표시합니다.
     protected virtual void OnDrawGizmosSelected()
     {
+        // 개발자가 유닛별 HPBar 위치를 Scene 뷰에서 확인할 수 있도록 표시합니다.
+        if (hpBarAnchor != null)
+        {
+            Gizmos.color = Color.cyan;
+            Gizmos.DrawWireCube(hpBarAnchor.position, new Vector3(0.4f, 0.07f, 0f));
+        }
+
         UnitStats sourceStats = BaseStats;
         float attackRange = RuntimeStats != null
             ? RuntimeStats.AttackRange

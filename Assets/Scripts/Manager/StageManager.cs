@@ -116,15 +116,22 @@ public class StageManager : MonoBehaviour
     [Tooltip("웨이브의 첫 몬스터가 출현할 위치입니다. 비어 있으면 Monster Root 위치를 사용합니다.")]
     [SerializeField] private Transform monsterSpawnPoint;
     [SerializeField, Min(0.01f)] private float minimumSpawnSpacing = 0.35f;
-    [SerializeField, Range(0.01f, 2f)] private float maximumSpawnSpacing = 2f;
+    [SerializeField, Range(0.01f, 1.5f)] private float maximumSpawnSpacing = 1.5f;
     [SerializeField, Min(1)] private int totalWaves = 4;
     [SerializeField, Min(0f)] private float nextWaveDelay = 1f;
     [SerializeField] private int waveRandomSeed = 1001;
+
+    [Header("Battle UI")]
+    [Tooltip("캐릭터와 몬스터의 자식으로 자동 생성할 공용 HpBar 프리팹입니다.")]
+    [SerializeField] private UnitHpBar unitHpBarPrefab;
+    [Tooltip("Area 클리어 알림과 전투 후 행동 버튼을 관리합니다. 비어 있으면 테스트용 UI를 생성합니다.")]
+    [SerializeField] private AreaClearUI areaClearUI;
 
     private readonly List<Character> battleCharacters = new List<Character>();
     private readonly List<Character> spawnedCharacters = new List<Character>();
     private readonly Dictionary<Character, Vector3> characterFormationPositions = new Dictionary<Character, Vector3>();
     private readonly List<Monster> activeMonsters = new List<Monster>();
+    private readonly HashSet<Monster> aliveWaveMonsters = new HashSet<Monster>();
     private readonly Dictionary<MonsterRole, List<Monster>> monsterPool = new Dictionary<MonsterRole, List<Monster>>();
     private System.Random waveRandom;
     private AreaState areaState = AreaState.EnteringArea;
@@ -147,6 +154,11 @@ public class StageManager : MonoBehaviour
         InitializeBattle();
     }
 
+    private void OnDestroy()
+    {
+        UnsubscribeAreaClearUI();
+    }
+
     private void Update()
     {
         if (areaState != AreaState.Fighting)
@@ -160,12 +172,6 @@ public class StageManager : MonoBehaviour
             return;
         }
 
-        activeMonsters.RemoveAll(monster => monster == null || !monster.gameObject.activeSelf);
-        if (activeMonsters.Count == 0 && !isAdvancingWave)
-        {
-            isAdvancingWave = true;
-            StartCoroutine(AdvanceWave());
-        }
     }
 
     #endregion
@@ -235,6 +241,38 @@ public class StageManager : MonoBehaviour
         {
             backgroundRoot = transform;
         }
+
+        ResolveAreaClearUI();
+    }
+
+    private void ResolveAreaClearUI()
+    {
+        if (areaClearUI == null)
+        {
+            areaClearUI = FindFirstObjectByType<AreaClearUI>();
+        }
+
+        if (areaClearUI == null)
+        {
+            areaClearUI = AreaClearUI.CreateTemporary();
+        }
+
+        if (areaClearUI == null)
+        {
+            return;
+        }
+
+        areaClearUI.MoveRequested -= HandleMoveRequested;
+        areaClearUI.MoveRequested += HandleMoveRequested;
+        areaClearUI.HideAll();
+    }
+
+    private void UnsubscribeAreaClearUI()
+    {
+        if (areaClearUI != null)
+        {
+            areaClearUI.MoveRequested -= HandleMoveRequested;
+        }
     }
 
     #endregion
@@ -257,6 +295,7 @@ public class StageManager : MonoBehaviour
 
             Character character = Instantiate(placement.CharacterPrefab, characterRoot);
             character.name = placement.CharacterPrefab.name;
+            AttachUnitHpBar(character);
             spawnedCharacters.Add(character);
             PlaceCharacter(character, placement.Slot);
         }
@@ -278,6 +317,7 @@ public class StageManager : MonoBehaviour
 
     private void PlaceCharacter(Character character, FormationSlot slot)
     {
+        AttachUnitHpBar(character);
         Vector3 formationPosition = GetCharacterSlotPosition(slot);
         character.transform.position = formationPosition;
         character.StopAction();
@@ -460,6 +500,7 @@ public class StageManager : MonoBehaviour
             {
                 Monster monster = Instantiate(prefab, monsterRoot);
                 monster.name = $"{currentFloor}F_{prefab.name}_Pool_{poolIndex + 1}";
+                AttachUnitHpBar(monster);
                 monster.gameObject.SetActive(false);
                 rolePool.Add(monster);
             }
@@ -477,6 +518,57 @@ public class StageManager : MonoBehaviour
         }
 
         return false;
+    }
+
+    #endregion
+
+    #region 전투 UI
+
+    // 유닛 프리팹에 HPBar가 없을 때 StageManager에 지정된 공용 프리팹을 자식으로 생성합니다.
+    private void AttachUnitHpBar(Unit unit)
+    {
+        if (unit == null)
+        {
+            return;
+        }
+
+        Transform hpBarAnchor = unit.HpBarAnchor;
+        UnitHpBar hpBar = unit.GetComponentInChildren<UnitHpBar>(true);
+
+        // 프리팹에 HPBar가 미리 포함되어 있으면 새로 생성하지 않고 Anchor 아래로 재배치합니다.
+        if (hpBar != null)
+        {
+            PlaceHpBarAtAnchor(hpBar, hpBarAnchor);
+            return;
+        }
+
+        if (unitHpBarPrefab == null)
+        {
+            Debug.LogWarning("StageManager의 Unit Hp Bar Prefab이 지정되지 않았습니다.", this);
+            return;
+        }
+
+        Transform hpBarParent = hpBarAnchor != null ? hpBarAnchor : unit.transform;
+        hpBar = Instantiate(unitHpBarPrefab, hpBarParent);
+        hpBar.name = unitHpBarPrefab.name;
+
+        PlaceHpBarAtAnchor(hpBar, hpBarAnchor);
+    }
+
+    // Anchor가 있는 유닛만 HPBar의 부모와 로컬 변환을 기준점에 맞춥니다.
+    // Anchor가 없는 기존 유닛은 프리팹에 저장된 기본 위치를 그대로 사용합니다.
+    private static void PlaceHpBarAtAnchor(UnitHpBar hpBar, Transform hpBarAnchor)
+    {
+        // Anchor가 있는 프리팹은 개발자가 지정한 기준점에 정확히 맞추고,
+        // Anchor가 없는 기존 프리팹은 HpBar 프리팹의 기본 위치를 유지합니다.
+        if (hpBar == null || hpBarAnchor == null)
+        {
+            return;
+        }
+
+        hpBar.transform.SetParent(hpBarAnchor, false);
+        hpBar.transform.SetLocalPositionAndRotation(Vector3.zero, Quaternion.identity);
+        hpBar.transform.localScale = Vector3.one;
     }
 
     #endregion
@@ -510,6 +602,7 @@ public class StageManager : MonoBehaviour
         }
 
         currentWave++;
+        UnregisterWaveMonsters();
         activeMonsters.Clear();
 
         int normalCount = 5;
@@ -538,6 +631,8 @@ public class StageManager : MonoBehaviour
         {
             battleCharacters[i].StartAction();
         }
+
+        TryCompleteCurrentWave();
     }
 
     private static void GetWaveRoleCounts(int waveNumber, ref int normal, ref int swift, ref int defense)
@@ -577,7 +672,58 @@ public class StageManager : MonoBehaviour
             monster.gameObject.SetActive(true);
             monster.ResetForReuse();
             activeMonsters.Add(monster);
+            RegisterWaveMonster(monster);
         }
+    }
+
+    // 현재 웨이브에 투입된 몬스터를 생존 집합에 등록하고 사망 이벤트를 구독합니다.
+    private void RegisterWaveMonster(Monster monster)
+    {
+        if (monster == null || !aliveWaveMonsters.Add(monster))
+        {
+            return;
+        }
+
+        monster.Died -= HandleMonsterDied;
+        monster.Died += HandleMonsterDied;
+    }
+
+    // 같은 몬스터의 중복 사망 통지는 무시하고 생존 몬스터가 없을 때만 웨이브를 완료합니다.
+    private void HandleMonsterDied(Monster monster)
+    {
+        if (monster == null || !aliveWaveMonsters.Remove(monster))
+        {
+            return;
+        }
+
+        monster.Died -= HandleMonsterDied;
+        TryCompleteCurrentWave();
+    }
+
+    // 빈 웨이브와 마지막 몬스터 사망을 같은 경로로 처리합니다.
+    private void TryCompleteCurrentWave()
+    {
+        if (areaState != AreaState.Fighting || aliveWaveMonsters.Count > 0 || isAdvancingWave)
+        {
+            return;
+        }
+
+        isAdvancingWave = true;
+        StartCoroutine(AdvanceWave());
+    }
+
+    // 오브젝트 풀 재사용 시 이전 웨이브의 이벤트 구독이 남지 않도록 정리합니다.
+    private void UnregisterWaveMonsters()
+    {
+        foreach (Monster monster in aliveWaveMonsters)
+        {
+            if (monster != null)
+            {
+                monster.Died -= HandleMonsterDied;
+            }
+        }
+
+        aliveWaveMonsters.Clear();
     }
 
     private Monster GetInactiveMonster(MonsterRole role)
@@ -649,7 +795,8 @@ public class StageManager : MonoBehaviour
                 yield return new WaitForSeconds(areaClearDelay);
             }
 
-            yield return ExitArea();
+            isAdvancingWave = false;
+            areaClearUI?.ShowAreaClear(currentArea);
             yield break;
         }
 
@@ -660,6 +807,19 @@ public class StageManager : MonoBehaviour
     #endregion
 
     #region 전투 종료 및 행동 제어
+
+    // AreaCleared 상태에서 하단 이동 버튼을 눌렀을 때만 캐릭터 퇴장 연출을 시작합니다.
+    private void HandleMoveRequested()
+    {
+        if (areaState != AreaState.AreaCleared || isAdvancingWave)
+        {
+            return;
+        }
+
+        isAdvancingWave = true;
+        areaClearUI?.HideAll();
+        StartCoroutine(ExitArea());
+    }
 
     private bool IsPartyDefeated()
     {
@@ -679,6 +839,7 @@ public class StageManager : MonoBehaviour
     {
         battleInitialized = false;
         isAdvancingWave = true;
+        UnregisterWaveMonsters();
 
         for (int i = 0; i < activeMonsters.Count; i++)
         {
@@ -829,6 +990,8 @@ public class StageManager : MonoBehaviour
     {
         StopAllCoroutines();
         StopCharacterActions();
+        UnregisterWaveMonsters();
+        areaClearUI?.HideAll();
 
         foreach (KeyValuePair<MonsterRole, List<Monster>> entry in monsterPool)
         {

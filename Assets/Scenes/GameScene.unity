@@ -2527,10 +2527,11 @@ MonoBehaviour:
   monsterRoot: {fileID: 1632427679}
   monsterSpawnPoint: {fileID: 1756933387}
   minimumSpawnSpacing: 0.35
-  maximumSpawnSpacing: 2
+  maximumSpawnSpacing: 1.5
   totalWaves: 4
   nextWaveDelay: 1
   waveRandomSeed: 1001
+  unitHpBarPrefab: {fileID: 8840102596532630137, guid: 597e042ec17afba459e44a75e03a4563, type: 3}
   backgroundRoot: {fileID: 1847019713}
   floorEnvironments:
   - floor: 1
