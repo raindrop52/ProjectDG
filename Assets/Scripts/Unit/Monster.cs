@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 // 일반 몬스터가 Character 레이어를 추적하며 접근할 수 있도록 구성하는 클래스입니다.
@@ -19,6 +20,24 @@ public class Monster : Unit
     public MaterialDropEntry[] MaterialRewards =>
         Data != null ? Data.MaterialRewards : System.Array.Empty<MaterialDropEntry>();
 
+    // StageManager가 현재 웨이브의 생존 몬스터를 이벤트 방식으로 관리할 때 사용합니다.
+    public event Action<Monster> Died;
+
+    #region 전투 처리
+
+    // 사망 상태로 처음 전환된 순간에만 웨이브 관리자에게 자신을 전달합니다.
+    public override void TakeDamage(int damage)
+    {
+        bool wasDead = IsDead;
+
+        base.TakeDamage(damage);
+
+        if (!wasDead && IsDead)
+        {
+            Died?.Invoke(this);
+        }
+    }
+
     // 공격 범위 안에 타겟이 없을 때 캐릭터 진영 방향인 왼쪽으로 이동합니다.
     protected override void OnMoveState()
     {
@@ -29,4 +48,6 @@ public class Monster : Unit
             transform.position += Vector3.left * MoveSpeed * Time.deltaTime;
         }
     }
+
+    #endregion
 }
